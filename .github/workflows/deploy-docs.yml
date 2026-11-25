@@ -1,0 +1,64 @@
+name: Deploy Doxygen Docs to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:  # Allow manual trigger
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Install Doxygen and Graphviz
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y doxygen graphviz
+
+      - name: Doxygen version
+        run: doxygen --version
+
+      - name: Generate Doxygen docs
+        run: |
+          cd Docs
+          BASEPATH=$(cd .. && pwd)
+          VERSION=$(grep 'AC_INIT' ../configure.ac | sed -n 's/.*\[\([0-9][0-9.]*\)\].*/\1/p')
+          cp ../LICENSE.TXT ../Contributors.txt .
+          sed -e "s|ql_basepath|${BASEPATH}/|g" \
+              -e "s|ql_version|${VERSION}|g" \
+              quantlib.doxy > .quantlib.doxy
+          doxygen .quantlib.doxy
+          rm -f html/*.md5 html/*.map
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './Docs/html'
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ github.event.repository.html_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
