@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_quant_lib_1_1_general_statistics.html" title="Statistics tool." alt="" coords="5,13,127,38"/>
+<area shape="rect" id="Node000001" href="$class_quant_lib_1_1_generic_gaussian_statistics.html" title=" " alt="" coords="175,5,351,46"/>
+<area shape="poly" id="edge1434_Node000000_Node000001" title=" " alt="" coords="142,23,177,25,171,26,143,28"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_generic_risk_statistics.html" title=" " alt="" coords="399,5,554,46"/>
+<area shape="poly" id="edge1435_Node000001_Node000002" title=" " alt="" coords="366,23,401,26,396,26,367,28"/>
+</map>

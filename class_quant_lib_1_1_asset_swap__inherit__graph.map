@@ -1,0 +1,7 @@
+<map id="AssetSwap" name="AssetSwap">
+<area shape="rect" id="Node000001" title="Bullet bond vs Libor swap." alt="" coords="5,153,94,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_swap.html" title="Interest rate swap." alt="" coords="22,79,77,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,118,52,153,47,152,47,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_instrument.html" title="Abstract instrument class." alt="" coords="8,5,91,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="50,44,52,79,47,78,49,49"/>
+</map>

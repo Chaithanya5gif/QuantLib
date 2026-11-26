@@ -1,0 +1,5 @@
+<map id="DecreasingInertia" name="DecreasingInertia">
+<area shape="rect" id="Node000001" title="Decreasing Inertia." alt="" coords="5,79,129,105"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_particle_swarm_optimization_1_1_inertia.html" title="Base inertia class used to alter the PSO state." alt="" coords="38,5,96,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,45,70,79,64,78,65,48"/>
+</map>

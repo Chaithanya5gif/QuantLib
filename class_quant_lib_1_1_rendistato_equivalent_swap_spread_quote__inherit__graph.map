@@ -1,0 +1,7 @@
+<map id="RendistatoEquivalentSwapSpreadQuote" name="RendistatoEquivalentSwapSpreadQuote">
+<area shape="rect" id="Node000001" title="RendistatoCalculator equivalent swap spread Quote adapter." alt="" coords="5,153,184,193"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_quote.html" title="purely virtual base class for market observables" alt="" coords="66,79,123,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,118,97,153,92,151,93,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="51,5,138,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,44,97,79,92,78,93,49"/>
+</map>

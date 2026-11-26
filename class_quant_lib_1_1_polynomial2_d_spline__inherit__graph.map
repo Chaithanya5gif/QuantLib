@@ -1,0 +1,7 @@
+<map id="Polynomial2DSpline" name="Polynomial2DSpline">
+<area shape="rect" id="Node000001" title="polynomial2D&#45;spline interpolation between discrete points" alt="" coords="5,153,144,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_interpolation2_d.html" title="base class for 2&#45;D interpolations." alt="" coords="20,79,129,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,118,77,153,72,151,73,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_extrapolator.html" title="base class for classes possibly allowing extrapolation" alt="" coords="29,5,120,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="76,44,77,79,72,78,73,49"/>
+</map>

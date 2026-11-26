@@ -1,0 +1,23 @@
+<map id="YoYInflationIndex" name="YoYInflationIndex">
+<area shape="rect" id="Node000001" title="Base class for year&#45;on&#45;year inflation indices." alt="" coords="402,153,525,178"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_y_y_a_u_c_p_i.html" title="Quoted year&#45;on&#45;year AU CPI (i.e. not a ratio)." alt="" coords="5,226,85,252"/>
+<area shape="poly" id="edge3_Node000001_Node000006" title=" " alt="" coords="387,181,97,229,86,231,85,226,97,224,387,175"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_y_y_e_u_h_i_c_p.html" title="Quoted year&#45;on&#45;year EU HICP (i.e. not a ratio of EU HICP)." alt="" coords="109,226,200,252"/>
+<area shape="poly" id="edge4_Node000001_Node000007" title=" " alt="" coords="398,184,201,230,200,225,394,181"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_y_y_e_u_h_i_c_p_x_t.html" title="Quoted year&#45;on&#45;year EU HICPXT." alt="" coords="224,226,332,252"/>
+<area shape="poly" id="edge5_Node000001_Node000008" title=" " alt="" coords="421,184,311,228,309,223,415,185"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_y_y_f_r_h_i_c_p.html" title="Quoted year&#45;on&#45;year FR HICP (i.e. not a ratio)." alt="" coords="357,226,448,252"/>
+<area shape="poly" id="edge6_Node000001_Node000009" title=" " alt="" coords="446,189,414,228,411,224,441,191"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_y_y_generic_c_p_i.html" title="Quoted year&#45;on&#45;year Generic CPI (i.e. not a ratio)." alt="" coords="471,226,579,252"/>
+<area shape="poly" id="edge7_Node000001_Node000010" title=" " alt="" coords="485,188,517,227,512,225,483,192"/>
+<area shape="rect" id="Node000011" href="$class_quant_lib_1_1_y_y_u_k_r_p_i.html" title="Quoted year&#45;on&#45;year UK RPI (i.e. not a ratio of UK RPI)." alt="" coords="603,226,684,252"/>
+<area shape="poly" id="edge8_Node000001_Node000011" title=" " alt="" coords="509,182,616,226,610,226,508,187"/>
+<area shape="rect" id="Node000012" href="$class_quant_lib_1_1_y_y_u_s_c_p_i.html" title="Quoted year&#45;on&#45;year US CPI (i.e. not a ratio of US CPI)." alt="" coords="708,226,790,252"/>
+<area shape="poly" id="edge9_Node000001_Node000012" title=" " alt="" coords="527,180,710,227,705,228,527,185"/>
+<area shape="rect" id="Node000013" href="$class_quant_lib_1_1_y_y_z_a_c_p_i.html" title="Quoted year&#45;on&#45;year South African CPI (i.e. not a ratio of ZA CPI)." alt="" coords="813,226,893,252"/>
+<area shape="poly" id="edge10_Node000001_Node000013" title=" " alt="" coords="541,177,803,224,816,229,811,228,802,229,540,182"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_inflation_index.html" title="Base class for inflation&#45;rate indexes,." alt="" coords="414,79,513,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="465,118,466,154,461,151,462,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_index.html" title="purely virtual base class for indexes" alt="" coords="437,5,490,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="465,44,466,80,461,77,462,49"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_quant_lib_1_1_fixed_vs_floating_swap_1_1arguments.html" title="Arguments for simple swap calculation" alt="" coords="30,5,178,46"/>
+<area shape="rect" id="Node000001" href="$class_quant_lib_1_1_swaption_1_1arguments.html" title="Arguments for swaption calculation" alt="" coords="269,13,413,38"/>
+<area shape="poly" id="edge1402_Node000000_Node000001" title=" " alt="" coords="192,23,270,24,266,27,195,28"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_float_float_swap_1_1arguments.html" title="Arguments for float float swap calculation" alt="" coords="13,70,195,96"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_float_float_swaption_1_1arguments.html" title="Arguments for cms swaption calculation" alt="" coords="274,63,408,103"/>
+<area shape="poly" id="edge1403_Node000005_Node000004" title=" " alt="" coords="209,81,276,81,271,85,211,85"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_irregular_swap_1_1arguments.html" title="Arguments for irregular&#45;swap calculation" alt="" coords="19,136,189,161"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_irregular_swaption_1_1arguments.html" title="Arguments for irregular&#45;swaption calculation" alt="" coords="276,128,406,169"/>
+<area shape="poly" id="edge1404_Node000007_Node000006" title=" " alt="" coords="203,146,277,147,273,150,206,151"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_nonstandard_swap_1_1arguments.html" title="Arguments for nonstandard swap calculation" alt="" coords="5,577,203,602"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_nonstandard_swaption_1_1arguments.html" title="Arguments for nonstandard swaption calculation" alt="" coords="266,569,416,610"/>
+<area shape="poly" id="edge1405_Node000009_Node000008" title=" " alt="" coords="219,587,268,590,263,590,219,592"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_option_1_1arguments.html" title="basic option arguments" alt="" coords="40,284,168,309"/>
+<area shape="poly" id="edge1412_Node000002_Node000001" title=" " alt="" coords="126,271,163,226,200,172,214,138,219,108,227,79,235,64,249,49,271,37,267,41,252,53,240,67,231,81,224,109,219,139,205,175,168,229,131,273"/>
+<area shape="poly" id="edge1407_Node000002_Node000004" title=" " alt="" coords="123,270,249,114,276,101,272,105,252,118,127,273"/>
+<area shape="poly" id="edge1408_Node000002_Node000006" title=" " alt="" coords="127,271,181,225,249,178,277,167,273,170,252,183,185,229,132,275"/>
+<area shape="poly" id="edge1409_Node000002_Node000008" title=" " alt="" coords="114,322,134,373,163,434,202,499,226,528,252,554,272,569,266,568,249,558,222,532,198,502,158,437,129,375,113,327"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_cds_option_1_1arguments.html" title="Arguments for CDS&#45;option calculation" alt="" coords="265,193,417,218"/>
+<area shape="poly" id="edge1406_Node000002_Node000003" title=" " alt="" coords="144,274,250,229,289,217,285,221,252,233,147,278"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_partial_time_barrier_option_1_1arguments.html" title="Arguments for partial&#45;time barrier option calculation" alt="" coords="259,243,422,283"/>
+<area shape="poly" id="edge1410_Node000002_Node000010" title=" " alt="" coords="183,283,261,273,257,276,185,288"/>
+<area shape="rect" id="Node000011" href="$class_quant_lib_1_1_simple_chooser_option_1_1arguments.html" title="Extra arguments for single chooser option." alt="" coords="267,308,415,349"/>
+<area shape="poly" id="edge1411_Node000002_Node000011" title=" " alt="" coords="183,304,268,317,264,320,184,310"/>
+<area shape="rect" id="Node000012" href="$class_quant_lib_1_1_two_asset_barrier_option_1_1arguments.html" title="Arguments for two&#45;asset barrier option calculation" alt="" coords="263,373,418,414"/>
+<area shape="poly" id="edge1413_Node000002_Node000012" title=" " alt="" coords="148,313,252,358,285,372,280,373,250,363,148,319"/>
+<area shape="rect" id="Node000013" href="$class_quant_lib_1_1_two_asset_correlation_option_1_1arguments.html" title="Arguments for two&#45;asset correlation option" alt="" coords="251,439,431,479"/>
+<area shape="poly" id="edge1414_Node000002_Node000013" title=" " alt="" coords="127,318,182,371,216,399,252,423,278,438,272,438,249,428,213,403,179,375,127,323"/>
+<area shape="rect" id="Node000014" href="$class_quant_lib_1_1_writer_extensible_option_1_1arguments.html" title="Additional arguments for writer&#45;extensible options." alt="" coords="264,504,418,545"/>
+<area shape="poly" id="edge1415_Node000002_Node000014" title=" " alt="" coords="119,321,142,359,172,404,209,449,252,489,274,503,269,503,249,493,205,453,168,407,138,362,119,326"/>
+</map>

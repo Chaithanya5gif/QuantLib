@@ -1,0 +1,7 @@
+<map id="RecursiveLossModel&lt; copulaPolicy &gt;" name="RecursiveLossModel&lt; copulaPolicy &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,153,149,193"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_default_loss_model.html" title=" " alt="" coords="14,79,140,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,118,80,153,74,152,75,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="33,5,121,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,44,80,79,74,78,76,49"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SimpleChooserOption" name="SimpleChooserOption">
+<area shape="rect" id="Node000001" title="Simple chooser option." alt="" coords="5,153,154,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_one_asset_option.html" title="Base class for options on a single asset." alt="" coords="21,79,138,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,118,82,153,77,151,78,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_option.html" title="base option class" alt="" coords="50,5,109,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,44,82,79,77,78,78,49"/>
+</map>

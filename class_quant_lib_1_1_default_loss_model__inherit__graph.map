@@ -1,0 +1,55 @@
+<map id="DefaultLossModel" name="DefaultLossModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="141,615,267,641"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_base_correlation_loss_model.html" title=" " alt="" coords="331,5,512,61"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,599,215,485,236,328,250,248,268,175,288,114,313,71,332,57,329,61,317,75,293,116,273,176,255,249,241,329,220,486,210,600"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_binomial_loss_model.html" title=" " alt="" coords="326,85,517,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,599,217,497,239,359,253,289,270,226,290,173,313,137,331,124,329,128,317,140,295,175,275,227,258,291,244,360,222,498,210,600"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_binomial_loss_model.html" title=" " alt="" coords="350,150,494,191"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="206,599,220,510,243,391,274,277,293,233,313,202,329,189,351,180,347,184,332,193,317,206,297,235,279,279,248,392,225,511,211,600"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_homogeneous_pool_loss_model.html" title=" " alt="" coords="324,216,519,256"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="203,599,208,532,224,444,238,396,257,350,282,306,313,267,332,255,329,259,317,271,286,309,261,352,243,398,229,445,213,533,208,600"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_homogeneous_pool_loss_model.html" title=" " alt="" coords="324,281,519,322"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="205,599,214,543,232,472,246,434,264,397,286,363,313,333,334,320,331,324,317,336,291,366,269,400,251,436,237,473,219,544,210,600"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_inhomogeneous_pool_loss_model.html" title=" " alt="" coords="320,346,523,387"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="208,599,221,555,241,501,272,446,291,420,313,398,335,385,332,390,317,402,295,424,276,449,246,504,226,557,214,601"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_inhomogeneous_pool_loss_model.html" title=" " alt="" coords="320,412,523,452"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="214,600,252,532,280,495,313,463,338,451,334,455,317,467,284,498,256,535,219,602"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_random_l_m.html" title=" " alt="" coords="315,477,528,518"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="225,602,264,564,314,528,344,516,340,520,316,533,267,568,229,605"/>
+<area shape="rect" id="Node000012" href="$class_quant_lib_1_1_random_l_m.html" title=" " alt="" coords="322,542,521,583"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="262,608,353,582,349,585,265,612"/>
+<area shape="rect" id="Node000014" href="$class_quant_lib_1_1_recursive_loss_model.html" title=" " alt="" coords="333,608,510,648"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="281,625,335,626,330,629,284,630"/>
+<area shape="rect" id="Node000015" href="$class_quant_lib_1_1_base_correlation_loss_model.html" title=" " alt="" coords="320,673,523,714"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="263,643,354,671,349,673,264,648"/>
+<area shape="rect" id="Node000016" href="$class_quant_lib_1_1_binomial_loss_model.html" title=" " alt="" coords="350,738,493,779"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="226,649,267,687,316,723,353,740,348,742,314,727,264,692,227,655"/>
+<area shape="rect" id="Node000017" href="$class_quant_lib_1_1_constant_loss_model.html" title=" " alt="" coords="349,804,494,844"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="216,652,256,721,284,757,317,788,351,808,346,809,313,793,280,761,252,724,216,657"/>
+<area shape="rect" id="Node000018" href="$class_quant_lib_1_1_gaussian_l_h_p_loss_model.html" title=" " alt="" coords="339,868,504,894"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="211,653,225,700,245,753,275,808,294,832,317,854,341,869,336,870,313,858,290,836,271,811,240,756,220,701,210,659"/>
+<area shape="rect" id="Node000019" href="$class_quant_lib_1_1_homogeneous_pool_loss_model.html" title="Default loss distribution convolution for finite homogeneous pool." alt="" coords="324,918,519,959"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="209,654,220,709,239,776,270,845,291,877,317,905,333,917,328,918,313,908,287,880,266,848,234,778,215,710,208,659"/>
+<area shape="rect" id="Node000020" href="$class_quant_lib_1_1_inhomogeneous_pool_loss_model.html" title="Default loss distribution convolution for finite non homogeneous pool." alt="" coords="320,984,523,1024"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="206,654,214,720,231,804,245,848,263,892,287,933,317,969,334,983,329,983,313,972,283,936,258,894,240,850,226,805,209,721,205,659"/>
+<area shape="rect" id="Node000021" href="$class_quant_lib_1_1_random_l_m.html" title=" " alt="" coords="315,1049,528,1090"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="205,654,209,731,223,832,236,887,256,940,282,990,317,1034,333,1048,328,1048,313,1038,278,993,251,942,231,888,217,833,204,732,204,659"/>
+<area shape="rect" id="Node000026" href="$class_quant_lib_1_1_recursive_loss_model.html" title=" " alt="" coords="350,1114,493,1155"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="209,654,223,755,245,888,259,955,276,1016,296,1066,317,1099,332,1112,353,1123,347,1123,330,1116,313,1103,291,1068,271,1017,254,956,240,889,218,756,208,659"/>
+<area shape="rect" id="Node000027" href="$class_quant_lib_1_1_saddle_point_loss_model.html" title="Saddle point portfolio credit default loss model." alt="" coords="344,1180,499,1220"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="208,653,220,766,241,919,255,997,273,1067,293,1125,317,1165,330,1176,347,1187,342,1186,327,1180,313,1168,288,1128,267,1069,250,998,235,920,215,767,207,658"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="5,615,93,641"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,626,142,626,138,630,110,630"/>
+<area shape="rect" id="Node000011" href="$class_quant_lib_1_1_random_default_l_m.html" title=" " alt="" coords="580,477,798,518"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="543,495,582,496,577,498,545,500"/>
+<area shape="rect" id="Node000013" href="$class_quant_lib_1_1_random_loss_l_m.html" title=" " alt="" coords="587,542,791,583"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="536,560,589,561,584,564,538,565"/>
+<area shape="rect" id="Node000022" href="$class_quant_lib_1_1_random_default_l_m.html" title=" " alt="" coords="590,952,788,992"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="511,1040,527,1033,551,1018,575,1003,606,994,611,992,578,1008,554,1023,530,1038,513,1045"/>
+<area shape="rect" id="Node000023" href="$class_quant_lib_1_1_random_default_l_m.html" title=" " alt="" coords="593,1017,785,1058"/>
+<area shape="poly" id="edge22_Node000021_Node000023" title=" " alt="" coords="543,1052,595,1048,590,1049,544,1057"/>
+<area shape="rect" id="Node000024" href="$class_quant_lib_1_1_random_loss_l_m.html" title=" " alt="" coords="577,1082,801,1123"/>
+<area shape="poly" id="edge23_Node000021_Node000024" title=" " alt="" coords="544,1082,579,1088,574,1089,544,1087"/>
+<area shape="rect" id="Node000025" href="$class_quant_lib_1_1_random_loss_l_m.html" title=" " alt="" coords="576,1147,802,1173"/>
+<area shape="poly" id="edge24_Node000021_Node000025" title=" " alt="" coords="512,1093,530,1100,554,1117,577,1132,614,1147,609,1146,575,1137,551,1121,527,1105,512,1098"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SurvivalProbabilityStructure" name="SurvivalProbabilityStructure">
+<area shape="rect" id="Node000001" title="Hazard&#45;rate term structure." alt="" coords="17,153,200,178"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_interpolated_survival_probability_curve.html" title="DefaultProbabilityTermStructure based on interpolation of survival probabilities." alt="" coords="10,226,207,267"/>
+<area shape="poly" id="edge3_Node000001_Node000007" title=" " alt="" coords="110,192,111,227,106,225,107,196"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_default_probability_term_structure.html" title="Default probability term structure." alt="" coords="5,79,212,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,118,111,153,106,151,107,123"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_term_structure.html" title="Basic term&#45;structure functionality." alt="" coords="57,5,160,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,44,111,79,106,78,108,49"/>
+</map>

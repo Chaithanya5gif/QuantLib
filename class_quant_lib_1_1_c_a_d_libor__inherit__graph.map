@@ -1,0 +1,7 @@
+<map id="CADLibor" name="CADLibor">
+<area shape="rect" id="Node000001" title="CAD LIBOR rate" alt="" coords="5,153,84,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_libor.html" title="base class for all ICE LIBOR indexes but the EUR, O/N, and S/N ones" alt="" coords="20,79,69,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="47,118,47,153,42,152,42,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_ibor_index.html" title="base class for Inter&#45;Bank&#45;Offered&#45;Rate indexes (e.g. Libor, etc.)" alt="" coords="7,5,82,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="45,44,47,79,42,78,44,49"/>
+</map>

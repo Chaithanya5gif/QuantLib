@@ -1,0 +1,116 @@
+var group__datetime =
+[
+    [ "Calendars", "group__calendars.html", "group__calendars" ],
+    [ "Day counters", "group__daycounters.html", "group__daycounters" ],
+    [ "DateInterval", "class_quant_lib_1_1_date_interval.html", null ],
+    [ "PricingPeriod", "class_quant_lib_1_1_pricing_period.html", null ],
+    [ "Calendar", "class_quant_lib_1_1_calendar.html", [
+      [ "Impl", "class_quant_lib_1_1_calendar_1_1_impl.html", null ],
+      [ "WesternImpl", "class_quant_lib_1_1_calendar_1_1_western_impl.html", null ],
+      [ "OrthodoxImpl", "class_quant_lib_1_1_calendar_1_1_orthodox_impl.html", null ],
+      [ "Calendar", "class_quant_lib_1_1_calendar.html#a0d66ba30abf9db537021e09494ae428c", null ],
+      [ "empty", "class_quant_lib_1_1_calendar.html#a644718bb2fb240de962dc3c9a1fdf0dc", null ],
+      [ "name", "class_quant_lib_1_1_calendar.html#a1d89c28bd42ba9a52da008bb69367171", null ],
+      [ "addedHolidays", "class_quant_lib_1_1_calendar.html#adf4529d65572865846917a4513fa35f5", null ],
+      [ "removedHolidays", "class_quant_lib_1_1_calendar.html#a0c3be860f7adf6e3c9cab165f4b29a60", null ],
+      [ "resetAddedAndRemovedHolidays", "class_quant_lib_1_1_calendar.html#adb1b3d0cf714c72883aba37c4fda5eff", null ],
+      [ "isHoliday", "class_quant_lib_1_1_calendar.html#ab13329f64ace5bdf7c448e0c374def96", null ],
+      [ "isWeekend", "class_quant_lib_1_1_calendar.html#a0cbab16a5cffa780446754d6a71d8ea1", null ],
+      [ "isStartOfMonth", "class_quant_lib_1_1_calendar.html#a10c0cb251e96586fdaa475111e8188ed", null ],
+      [ "startOfMonth", "class_quant_lib_1_1_calendar.html#a8861f1b13145be44374af6690ec5dbfb", null ],
+      [ "isEndOfMonth", "class_quant_lib_1_1_calendar.html#a54058cd47ebf5a87e394b1d6027d2fd6", null ],
+      [ "endOfMonth", "class_quant_lib_1_1_calendar.html#afdd3c15eb27b5b835bcec6e08294a005", null ],
+      [ "addHoliday", "class_quant_lib_1_1_calendar.html#a656020bddfdb2d9f48c9f0dc12b26597", null ],
+      [ "removeHoliday", "class_quant_lib_1_1_calendar.html#a4c682210881efe66d463cc0907f00722", null ],
+      [ "holidayList", "class_quant_lib_1_1_calendar.html#a96e2fb6e5c173706de6a87d48355129f", null ],
+      [ "businessDayList", "class_quant_lib_1_1_calendar.html#ae03d10909a24d459f563fdb2429f9a00", null ],
+      [ "adjust", "class_quant_lib_1_1_calendar.html#a712629806d9ef9a39f8144f368c81e4b", null ],
+      [ "advance", "class_quant_lib_1_1_calendar.html#ab3fc4d2c4ba5243c3f5d51dcb3077ceb", null ],
+      [ "advance", "class_quant_lib_1_1_calendar.html#ab03050d623b9622e994b44a802b62e58", null ],
+      [ "businessDaysBetween", "class_quant_lib_1_1_calendar.html#a232eaf85fcd84c5aaaaffff7492df251", null ],
+      [ "operator==", "class_quant_lib_1_1_calendar.html#ae9d6f7766f633f5d75cc3acd7826bc9f", null ]
+    ] ],
+    [ "Date", "class_quant_lib_1_1_date.html", [
+      [ "serial_type", "class_quant_lib_1_1_date.html#aac76e09f64720ef6bcd495b994b90177", null ],
+      [ "Date", "class_quant_lib_1_1_date.html#a3cfe231a7be6e5dc8bc32b4c63371081", null ],
+      [ "Date", "class_quant_lib_1_1_date.html#ab6f1a41e2491bbe72d91b523c098bd21", null ],
+      [ "Date", "class_quant_lib_1_1_date.html#aa157820c6a6e7518f7215e2213616aee", null ],
+      [ "dayOfYear", "class_quant_lib_1_1_date.html#a9fe7e5e2bc70723b30aa39c99f84ef72", null ],
+      [ "operator+=", "class_quant_lib_1_1_date.html#a5e4a1ff168b431e1ceaf65f3fd7b1674", null ],
+      [ "operator+=", "class_quant_lib_1_1_date.html#a23ed6a90328fb0b313a236765301630c", null ],
+      [ "operator-=", "class_quant_lib_1_1_date.html#a0a00c154eae725b5c121c388b4fa63ce", null ],
+      [ "operator-=", "class_quant_lib_1_1_date.html#ae663a76cd657cc17bc902d1a71804da3", null ],
+      [ "operator++", "class_quant_lib_1_1_date.html#a9908b6d52a77bd8b76d864b0255ae05a", null ],
+      [ "operator++", "class_quant_lib_1_1_date.html#a6541a6651456d8bc1622a24291841647", null ],
+      [ "operator--", "class_quant_lib_1_1_date.html#a78b83c183e6a9574e583d59fafa438aa", null ],
+      [ "operator--", "class_quant_lib_1_1_date.html#a382393929522ea82108942354ca727f7", null ],
+      [ "operator+", "class_quant_lib_1_1_date.html#a598412704357c8e6b91abfee93360169", null ],
+      [ "operator+", "class_quant_lib_1_1_date.html#a957b820deca0af88eb74fc3a88d83958", null ],
+      [ "operator-", "class_quant_lib_1_1_date.html#a4e1a397fddc7476b0db152bc682854c2", null ],
+      [ "operator-", "class_quant_lib_1_1_date.html#a60f11f594b19d018f0e73fe9991a6a1c", null ],
+      [ "operator-", "class_quant_lib_1_1_date.html#a66b638bea097bef164edf8a312e7f7ee", null ],
+      [ "daysBetween", "class_quant_lib_1_1_date.html#a29f7670d202257ce1117b1806711ba2a", null ],
+      [ "hash_value", "class_quant_lib_1_1_date.html#ab332a16e149355c29db8fd10e0cb6103", null ]
+    ] ],
+    [ "DateGeneration", "struct_quant_lib_1_1_date_generation.html", [
+      [ "Rule", "struct_quant_lib_1_1_date_generation.html#a11fcd51ef86118f65e603c1474377a78", [
+        [ "Backward", "struct_quant_lib_1_1_date_generation.html#a11fcd51ef86118f65e603c1474377a78a67e19347f85332c3bbfd61266cecbe4e", null ],
+        [ "Forward", "struct_quant_lib_1_1_date_generation.html#a11fcd51ef86118f65e603c1474377a78ae204c9c3e62b1e9a6b60e40cd05256c5", null ],
+        [ "Zero", "struct_quant_lib_1_1_date_generation.html#a11fcd51ef86118f65e603c1474377a78ab9f6920de535f04ccfe34d670fa2c8a8", null ],
+        [ "ThirdWednesday", "struct_quant_lib_1_1_date_generation.html#a11fcd51ef86118f65e603c1474377a78ac8d8da6652fd8ffa5e27e779518e414e", null ],
+        [ "ThirdWednesdayInclusive", "struct_quant_lib_1_1_date_generation.html#a11fcd51ef86118f65e603c1474377a78a4f16ed8dbb51889dfc5e8925348bc967", null ],
+        [ "Twentieth", "struct_quant_lib_1_1_date_generation.html#a11fcd51ef86118f65e603c1474377a78a21087b4bddcc38096b2349354748c175", null ],
+        [ "TwentiethIMM", "struct_quant_lib_1_1_date_generation.html#a11fcd51ef86118f65e603c1474377a78ad694d6ae582abfc8e99ea7e6e6c3f8d5", null ],
+        [ "OldCDS", "struct_quant_lib_1_1_date_generation.html#a11fcd51ef86118f65e603c1474377a78a634c5fa704fceaa797cf0c089af2b6c9", null ],
+        [ "CDS", "struct_quant_lib_1_1_date_generation.html#a11fcd51ef86118f65e603c1474377a78ac78cb76ca18746c78d962eb46eabb008", null ],
+        [ "CDS2015", "struct_quant_lib_1_1_date_generation.html#a11fcd51ef86118f65e603c1474377a78accfabc8ca1875947c9c6b5a6119e11c5", null ]
+      ] ]
+    ] ],
+    [ "DayCounter", "class_quant_lib_1_1_day_counter.html", [
+      [ "Impl", "class_quant_lib_1_1_day_counter_1_1_impl.html", [
+        [ "dayCount", "class_quant_lib_1_1_day_counter_1_1_impl.html#a1f4310254ebf5484a3942c5cb4e476f2", null ]
+      ] ],
+      [ "DayCounter", "class_quant_lib_1_1_day_counter.html#af6b43b10aa7cf834d8f28d666539e3e6", null ],
+      [ "DayCounter", "class_quant_lib_1_1_day_counter.html#a9c1bdd56b573d638dd8038da03e1577a", null ],
+      [ "empty", "class_quant_lib_1_1_day_counter.html#a644718bb2fb240de962dc3c9a1fdf0dc", null ],
+      [ "name", "class_quant_lib_1_1_day_counter.html#a1d89c28bd42ba9a52da008bb69367171", null ],
+      [ "dayCount", "class_quant_lib_1_1_day_counter.html#a1030acc5095401c041d13d1c3fb9d9c6", null ],
+      [ "yearFraction", "class_quant_lib_1_1_day_counter.html#a28170faaec75755611ff6fc220c1fab8", null ],
+      [ "operator==", "class_quant_lib_1_1_day_counter.html#acbca520b46832e1a53e72053c233692c", null ]
+    ] ],
+    [ "Period", "class_quant_lib_1_1_period.html", null ],
+    [ "Schedule", "class_quant_lib_1_1_schedule.html", [
+      [ "Schedule", "class_quant_lib_1_1_schedule.html#acd1e8e8dac04fcfc500bbf69789d2ca2", null ],
+      [ "Schedule", "class_quant_lib_1_1_schedule.html#a07c95b830b8ab90084ed73a0c49159de", null ],
+      [ "after", "class_quant_lib_1_1_schedule.html#a944536ffbbe78900eddfd8626885e6ce", null ]
+    ] ],
+    [ "QuantLib::Day", "group__datetime.html#ga91214837fb837828e91ce17de9eaa43c", null ],
+    [ "QuantLib::Year", "group__datetime.html#ga84dee895910074cbc7d936c86c1abf3d", null ],
+    [ "QuantLib::BusinessDayConvention", "group__datetime.html#gaff46c5ae9385d20709bedade86edd368", [
+      [ "QuantLib::Following", "group__datetime.html#ggaff46c5ae9385d20709bedade86edd368ab6a37af780aa2b97f8bbdc4d149dae18", null ],
+      [ "QuantLib::ModifiedFollowing", "group__datetime.html#ggaff46c5ae9385d20709bedade86edd368a013e092c359f6031cc0563fd413ce707", null ],
+      [ "QuantLib::Preceding", "group__datetime.html#ggaff46c5ae9385d20709bedade86edd368ad5fb7521157d4d4a91012209d6c75847", null ],
+      [ "QuantLib::ModifiedPreceding", "group__datetime.html#ggaff46c5ae9385d20709bedade86edd368aab4d046fac23bf67214cb5f3cf8387ee", null ],
+      [ "QuantLib::Unadjusted", "group__datetime.html#ggaff46c5ae9385d20709bedade86edd368a5fb8b90b7fdf1a3a228fbbc083e64547", null ],
+      [ "QuantLib::HalfMonthModifiedFollowing", "group__datetime.html#ggaff46c5ae9385d20709bedade86edd368a2d22494a2c58eea6ad08d3d8b6a14a7d", null ],
+      [ "QuantLib::Nearest", "group__datetime.html#ggaff46c5ae9385d20709bedade86edd368a02bcbe686019f8ce26f3a1b282a8f2d1", null ]
+    ] ],
+    [ "QuantLib::Month", "group__datetime.html#gae34b763987dcf60c6c619d327b8c9dbb", null ],
+    [ "QuantLib::Frequency", "group__datetime.html#ga6d41db8ba0ea90d22df35889df452ada", [
+      [ "QuantLib::NoFrequency", "group__datetime.html#gga6d41db8ba0ea90d22df35889df452adaad7764a2ea2518891555bd395faffb4da", null ],
+      [ "QuantLib::Once", "group__datetime.html#gga6d41db8ba0ea90d22df35889df452adaa96be73c339468e5d0d9aed7ccc384bcc", null ],
+      [ "QuantLib::Annual", "group__datetime.html#gga6d41db8ba0ea90d22df35889df452adaa508b18014c96e2d466c12b39d7f4e426", null ],
+      [ "QuantLib::Semiannual", "group__datetime.html#gga6d41db8ba0ea90d22df35889df452adaad1a5868a1c314bb7f6ab68e2fa182b2d", null ],
+      [ "QuantLib::EveryFourthMonth", "group__datetime.html#gga6d41db8ba0ea90d22df35889df452adaacb332c66d96dd68b145f78c14a704f5c", null ],
+      [ "QuantLib::Quarterly", "group__datetime.html#gga6d41db8ba0ea90d22df35889df452adaab4fce358383d1822f7596659e00b07f7", null ],
+      [ "QuantLib::Bimonthly", "group__datetime.html#gga6d41db8ba0ea90d22df35889df452adaa91a5f14e7e96afbf6429a2549d6896e8", null ],
+      [ "QuantLib::Monthly", "group__datetime.html#gga6d41db8ba0ea90d22df35889df452adaa075d775ff1bb75474c994bd94e9629f4", null ],
+      [ "QuantLib::EveryFourthWeek", "group__datetime.html#gga6d41db8ba0ea90d22df35889df452adaa314730e6ae42badf810bc4ab9f3f376b", null ],
+      [ "QuantLib::Biweekly", "group__datetime.html#gga6d41db8ba0ea90d22df35889df452adaa1b3b68c6c6974a8e343ea8d8b66c107f", null ],
+      [ "QuantLib::Weekly", "group__datetime.html#gga6d41db8ba0ea90d22df35889df452adaa39017ed07c435bd4b739cda6bf3e5a35", null ],
+      [ "QuantLib::Daily", "group__datetime.html#gga6d41db8ba0ea90d22df35889df452adaa6b15f8b55b10fefe6300b2f3bf60ad78", null ],
+      [ "QuantLib::OtherFrequency", "group__datetime.html#gga6d41db8ba0ea90d22df35889df452adaa3a3a2404bef8994b2dd567620f839ed7", null ]
+    ] ],
+    [ "QuantLib::TimeUnit", "group__datetime.html#gadd9fe45e09605eee3e4a39c8a5c4476d", null ],
+    [ "QuantLib::Weekday", "group__datetime.html#gaec3d5ec6653b2c392d449500b8f5cb3a", null ]
+];

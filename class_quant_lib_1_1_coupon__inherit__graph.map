@@ -1,0 +1,37 @@
+<map id="Coupon" name="Coupon">
+<area shape="rect" id="Node000001" title="coupon accruing over a fixed period" alt="" coords="269,244,335,270"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_fixed_rate_coupon.html" title="Coupon paying a fixed interest rate" alt="" coords="390,195,517,220"/>
+<area shape="poly" id="edge4_Node000001_Node000007" title=" " alt="" coords="349,239,414,219,410,222,351,244"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_floating_rate_coupon.html" title="base floating&#45;rate coupon class" alt="" coords="383,244,524,270"/>
+<area shape="poly" id="edge5_Node000001_Node000008" title=" " alt="" coords="350,254,385,256,380,258,352,259"/>
+<area shape="rect" id="Node000022" href="$class_quant_lib_1_1_inflation_coupon.html" title="Base inflation&#45;coupon class." alt="" coords="397,465,510,491"/>
+<area shape="poly" id="edge15_Node000001_Node000022" title=" " alt="" coords="322,280,446,465,441,465,319,285"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_cash_flow.html" title="Base class for cash flows." alt="" coords="141,244,221,270"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,254,271,256,266,258,237,259"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_event.html" title="Base class for event." alt="" coords="21,219,77,244"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,237,142,248,138,251,93,242"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_lazy_object.html" title="Framework for calculation on demand and result caching." alt="" coords="5,268,93,294"/>
+<area shape="poly" id="edge3_Node000002_Node000005" title=" " alt="" coords="106,268,142,262,138,266,109,272"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_average_b_m_a_coupon.html" title="Average BMA coupon." alt="" coords="606,5,749,31"/>
+<area shape="poly" id="edge6_Node000008_Node000009" title=" " alt="" coords="521,232,522,231,538,207,545,184,546,160,544,136,542,112,544,88,552,64,570,40,586,28,608,22,603,25,589,33,574,44,556,67,549,89,547,112,549,136,551,160,550,185,543,210,526,235,524,236"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_capped_floored_coupon.html" title="Capped and/or floored floating&#45;rate coupon." alt="" coords="600,55,754,80"/>
+<area shape="poly" id="edge7_Node000008_Node000010" title=" " alt="" coords="520,233,522,231,535,214,541,197,544,162,548,126,555,108,570,91,602,75,597,78,573,95,560,111,553,128,549,162,547,198,539,217,526,235,523,237"/>
+<area shape="rect" id="Node000011" href="$class_quant_lib_1_1_capped_floored_overnight_indexed_coupon.html" title="capped floored overnight indexed coupon" alt="" coords="572,104,783,145"/>
+<area shape="poly" id="edge8_Node000008_Node000011" title=" " alt="" coords="518,234,522,231,538,213,545,194,553,174,570,155,592,144,588,147,573,159,557,177,550,196,542,215,525,235,521,238"/>
+<area shape="rect" id="Node000012" href="$class_quant_lib_1_1_cms_coupon.html" title="CMS coupon class." alt="" coords="630,169,724,195"/>
+<area shape="poly" id="edge9_Node000008_Node000012" title=" " alt="" coords="510,236,522,230,546,217,571,204,632,189,628,191,573,209,549,221,525,235,513,240"/>
+<area shape="rect" id="Node000013" href="$class_quant_lib_1_1_cms_spread_coupon.html" title="CMS spread coupon class." alt="" coords="610,219,745,244"/>
+<area shape="poly" id="edge10_Node000008_Node000013" title=" " alt="" coords="538,245,612,238,607,240,540,250"/>
+<area shape="rect" id="Node000014" href="$class_quant_lib_1_1_digital_coupon.html" title="Digital&#45;payoff coupon." alt="" coords="626,268,729,294"/>
+<area shape="poly" id="edge11_Node000008_Node000014" title=" " alt="" coords="539,263,628,275,623,276,539,269"/>
+<area shape="rect" id="Node000018" href="$class_quant_lib_1_1_ibor_coupon.html" title="Coupon paying a Libor&#45;type index" alt="" coords="633,317,722,343"/>
+<area shape="poly" id="edge12_Node000008_Node000018" title=" " alt="" coords="496,274,572,304,636,322,630,322,571,309,496,279"/>
+<area shape="rect" id="Node000020" href="$class_quant_lib_1_1_multiple_resets_coupon.html" title="multiple&#45;reset coupon" alt="" coords="601,367,754,392"/>
+<area shape="poly" id="edge13_Node000008_Node000020" title=" " alt="" coords="477,278,520,318,573,353,603,367,598,367,570,358,517,322,476,284"/>
+<area shape="rect" id="Node000021" href="$class_quant_lib_1_1_overnight_indexed_coupon.html" title="overnight coupon" alt="" coords="593,416,762,442"/>
+<area shape="poly" id="edge14_Node000008_Node000021" title=" " alt="" coords="469,281,511,344,540,376,573,403,596,416,591,415,570,407,536,380,507,347,467,286"/>
+<area shape="rect" id="Node000023" href="$class_quant_lib_1_1_c_p_i_coupon.html" title="Coupon paying the performance of a CPI (zero inflation) index" alt="" coords="633,465,722,491"/>
+<area shape="poly" id="edge16_Node000022_Node000023" title=" " alt="" coords="525,476,635,478,630,478,525,481"/>
+<area shape="rect" id="Node000024" href="$class_quant_lib_1_1_yo_y_inflation_coupon.html" title="Coupon paying a YoY&#45;inflation type index" alt="" coords="609,515,746,540"/>
+<area shape="poly" id="edge17_Node000022_Node000024" title=" " alt="" coords="525,491,618,514,613,514,525,496"/>
+</map>

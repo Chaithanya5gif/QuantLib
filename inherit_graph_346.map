@@ -1,0 +1,41 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_quant_lib_1_1_optimization_method.html" title="Abstract class for constrained optimization method." alt="" coords="5,694,143,720"/>
+<area shape="rect" id="Node000001" href="$class_quant_lib_1_1_hybrid_simulated_annealing.html" title=" " alt="" coords="191,5,476,76"/>
+<area shape="poly" id="edge1507_Node000000_Node000001" title=" " alt="" coords="74,679,84,553,104,376,119,285,138,202,161,133,174,106,189,86,203,74,201,79,193,89,179,109,166,135,143,203,124,286,109,377,89,553,80,679"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_hybrid_simulated_annealing.html" title=" " alt="" coords="191,100,476,171"/>
+<area shape="poly" id="edge1508_Node000000_Node000002" title=" " alt="" coords="75,679,87,571,110,422,125,347,143,278,165,221,189,182,205,169,202,174,193,185,169,223,149,280,131,348,115,423,93,571,81,679"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_hybrid_simulated_annealing.html" title=" " alt="" coords="211,195,456,281"/>
+<area shape="poly" id="edge1509_Node000000_Node000003" title=" " alt="" coords="72,678,76,603,92,500,106,445,127,390,154,337,189,291,212,273,209,278,193,294,158,340,132,392,111,446,97,501,81,603,78,679"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_hybrid_simulated_annealing.html" title=" " alt="" coords="191,305,476,376"/>
+<area shape="poly" id="edge1510_Node000000_Node000004" title=" " alt="" coords="75,679,83,619,103,541,117,499,136,459,160,421,189,387,207,374,204,379,193,391,164,424,141,461,122,501,108,542,89,620,80,679"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_hybrid_simulated_annealing.html" title=" " alt="" coords="228,400,439,486"/>
+<area shape="poly" id="edge1511_Node000000_Node000005" title=" " alt="" coords="81,679,96,639,119,590,149,540,189,496,229,472,226,476,192,500,154,543,123,593,101,641,86,681"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_hybrid_simulated_annealing.html" title=" " alt="" coords="228,510,439,596"/>
+<area shape="poly" id="edge1512_Node000000_Node000006" title=" " alt="" coords="96,682,137,643,189,605,229,586,225,591,192,610,141,647,100,685"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_cmaes.html" title="Covariance Matrix Adaptation Evolution Strategy (CMA&#45;ES)." alt="" coords="302,620,365,646"/>
+<area shape="poly" id="edge1513_Node000000_Node000007" title=" " alt="" coords="112,685,190,654,249,641,303,634,299,637,249,646,191,659,116,689"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_differential_evolution.html" title="Differential Evolution configuration object." alt="" coords="264,669,402,695"/>
+<area shape="poly" id="edge1514_Node000000_Node000008" title=" " alt="" coords="157,697,266,687,262,691,159,702"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_firefly_algorithm.html" title=" " alt="" coords="277,718,390,744"/>
+<area shape="poly" id="edge1515_Node000000_Node000009" title=" " alt="" coords="157,713,279,724,275,728,159,718"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_hybrid_simulated_annealing.html" title=" " alt="" coords="239,769,428,824"/>
+<area shape="poly" id="edge1516_Node000000_Node000010" title=" " alt="" coords="117,724,192,754,241,771,236,773,190,759,118,729"/>
+<area shape="rect" id="Node000011" href="$class_quant_lib_1_1_l_b_f_g_s_b.html" title="Limited&#45;memory BFGS for bound&#45;constrained optimization (L&#45;BFGS&#45;B)." alt="" coords="297,849,370,875"/>
+<area shape="poly" id="edge1517_Node000000_Node000011" title=" " alt="" coords="91,731,133,785,161,812,192,834,218,846,245,853,299,861,294,863,244,858,216,851,189,839,157,816,129,789,91,736"/>
+<area shape="rect" id="Node000012" href="$class_quant_lib_1_1_levenberg_marquardt.html" title="Levenberg&#45;Marquardt optimization method." alt="" coords="264,898,403,924"/>
+<area shape="poly" id="edge1518_Node000000_Node000012" title=" " alt="" coords="84,732,102,769,125,811,154,852,192,885,226,901,266,910,261,912,225,906,189,890,151,855,120,814,97,771,85,737"/>
+<area shape="rect" id="Node000013" href="$class_quant_lib_1_1_line_search_based_method.html" title="Line search based method." alt="" coords="250,948,416,974"/>
+<area shape="poly" id="edge1519_Node000000_Node000013" title=" " alt="" coords="81,732,96,779,117,834,148,889,169,914,192,934,220,949,252,959,247,960,218,954,189,939,165,917,144,892,112,836,90,781,81,737"/>
+<area shape="rect" id="Node000017" href="$class_quant_lib_1_1_particle_swarm_optimization.html" title=" " alt="" coords="244,997,423,1023"/>
+<area shape="poly" id="edge1523_Node000000_Node000017" title=" " alt="" coords="78,733,90,789,110,857,124,892,142,926,165,957,192,984,217,998,246,1008,241,1009,214,1003,189,988,161,961,138,929,119,895,104,859,85,790,78,738"/>
+<area shape="rect" id="Node000018" href="$class_quant_lib_1_1_simplex.html" title="Multi&#45;dimensional simplex class." alt="" coords="299,1046,368,1072"/>
+<area shape="poly" id="edge1524_Node000000_Node000018" title=" " alt="" coords="76,733,85,798,103,880,117,922,137,963,161,1001,192,1033,217,1048,245,1056,302,1062,296,1063,244,1062,215,1053,189,1037,157,1004,132,966,112,924,97,881,80,799,76,738"/>
+<area shape="rect" id="Node000019" href="$class_quant_lib_1_1_simulated_annealing.html" title="Simulated Annealing." alt="" coords="265,1096,402,1137"/>
+<area shape="poly" id="edge1525_Node000000_Node000019" title=" " alt="" coords="75,733,82,806,97,900,112,950,132,999,158,1044,192,1083,208,1094,226,1103,267,1115,262,1115,224,1108,206,1099,189,1087,154,1047,127,1001,107,952,92,902,76,807,75,738"/>
+<area shape="rect" id="Node000014" href="$class_quant_lib_1_1_b_f_g_s.html" title="Broyden&#45;Fletcher&#45;Goldfarb&#45;Shanno algorithm." alt="" coords="560,898,617,924"/>
+<area shape="poly" id="edge1520_Node000013_Node000014" title=" " alt="" coords="431,942,475,934,562,917,557,919,477,939,432,947"/>
+<area shape="rect" id="Node000015" href="$class_quant_lib_1_1_conjugate_gradient.html" title="Multi&#45;dimensional Conjugate Gradient class." alt="" coords="524,948,653,974"/>
+<area shape="poly" id="edge1521_Node000013_Node000015" title=" " alt="" coords="432,958,526,960,521,961,433,963"/>
+<area shape="rect" id="Node000016" href="$class_quant_lib_1_1_steepest_descent.html" title="Multi&#45;dimensional steepest&#45;descent class." alt="" coords="528,997,650,1023"/>
+<area shape="poly" id="edge1522_Node000013_Node000016" title=" " alt="" coords="432,974,477,982,533,996,528,997,475,987,432,979"/>
+</map>

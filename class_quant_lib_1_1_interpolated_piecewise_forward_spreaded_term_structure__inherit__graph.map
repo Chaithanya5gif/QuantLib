@@ -1,0 +1,7 @@
+<map id="InterpolatedPiecewiseForwardSpreadedTermStructure&lt; Interpolator &gt;" name="InterpolatedPiecewiseForwardSpreadedTermStructure&lt; Interpolator &gt;">
+<area shape="rect" id="Node000001" title="Term structure with an added vector of spreads on the instantaneous forward rate." alt="" coords="5,183,253,223"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_relative_derived_yield_term_structure.html" title=" " alt="" coords="26,94,232,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,148,131,183,127,181,127,152"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_derived_yield_term_structure.html" title=" " alt="" coords="40,5,218,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,59,132,94,126,93,128,64"/>
+</map>

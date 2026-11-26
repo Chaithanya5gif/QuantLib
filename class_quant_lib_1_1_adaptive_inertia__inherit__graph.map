@@ -1,0 +1,5 @@
+<map id="AdaptiveInertia" name="AdaptiveInertia">
+<area shape="rect" id="Node000001" title="AdaptiveInertia." alt="" coords="5,79,114,105"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_particle_swarm_optimization_1_1_inertia.html" title="Base inertia class used to alter the PSO state." alt="" coords="31,5,88,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,45,62,79,57,78,58,48"/>
+</map>

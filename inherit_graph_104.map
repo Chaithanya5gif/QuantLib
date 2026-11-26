@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_quant_lib_1_1_curiously_recurring_template.html" title=" " alt="" coords="5,5,215,46"/>
+<area shape="rect" id="Node000001" href="$class_quant_lib_1_1_solver1_d.html" title=" " alt="" coords="263,5,442,46"/>
+<area shape="poly" id="edge1189_Node000000_Node000001" title=" " alt="" coords="230,23,265,26,259,26,230,28"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_finite_difference_newton_safe.html" title="safe Newton 1&#45;D solver with finite difference derivatives" alt="" coords="490,13,675,38"/>
+<area shape="poly" id="edge1190_Node000001_Node000002" title=" " alt="" coords="457,23,492,26,487,26,457,28"/>
+</map>

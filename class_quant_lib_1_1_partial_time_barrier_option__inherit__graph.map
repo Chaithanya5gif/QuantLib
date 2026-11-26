@@ -1,0 +1,7 @@
+<map id="PartialTimeBarrierOption" name="PartialTimeBarrierOption">
+<area shape="rect" id="Node000001" title="Partial&#45;time barrier option." alt="" coords="5,153,169,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_one_asset_option.html" title="Base class for options on a single asset." alt="" coords="28,79,146,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,118,89,153,85,151,85,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_option.html" title="base option class" alt="" coords="57,5,117,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="88,44,90,79,84,78,86,49"/>
+</map>

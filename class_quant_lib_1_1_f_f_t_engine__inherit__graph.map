@@ -1,0 +1,7 @@
+<map id="FFTEngine" name="FFTEngine">
+<area shape="rect" id="Node000001" title="Base class for FFT pricing engines for European vanilla options." alt="" coords="112,5,198,31"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_f_f_t_vanilla_engine.html" title="FFT Pricing engine vanilla options under a Black Scholes process." alt="" coords="5,79,129,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,41,83,81,80,76,126,42"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_f_f_t_variance_gamma_engine.html" title="FFT engine for vanilla options under a Variance Gamma process." alt="" coords="152,79,334,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,39,231,79,226,79,181,44"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="LossDist" name="LossDist">
+<area shape="rect" id="Node000001" title="Probability formulas and algorithms." alt="" coords="266,5,340,31"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_loss_dist_binomial.html" title="Binomial loss distribution." alt="" coords="5,79,129,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,37,108,81,106,76,251,32"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_loss_dist_bucketing.html" title="Loss distribution with Hull&#45;White bucketing." alt="" coords="153,79,285,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="280,40,234,81,232,76,275,42"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_loss_dist_homogeneous.html" title="Loss Distribution for Homogeneous Pool." alt="" coords="308,79,466,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="330,39,376,79,370,78,328,44"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_loss_dist_monte_carlo.html" title="Loss distribution with Monte Carlo simulation." alt="" coords="490,79,630,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="355,31,519,78,514,79,354,36"/>
+</map>

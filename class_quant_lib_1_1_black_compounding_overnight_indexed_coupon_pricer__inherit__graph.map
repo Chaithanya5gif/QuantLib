@@ -1,0 +1,7 @@
+<map id="BlackCompoundingOvernightIndexedCouponPricer" name="BlackCompoundingOvernightIndexedCouponPricer">
+<area shape="rect" id="Node000001" title="Black compounded overnight coupon pricer." alt="" coords="12,168,202,208"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_compounding_overnight_indexed_coupon_pricer.html" title="Base pricer for compounded overnight&#45;indexed floating coupons." alt="" coords="5,79,209,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,133,109,168,105,166,105,137"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_overnight_indexed_coupon_pricer.html" title="Base pricer for overnight&#45;indexed floating coupons." alt="" coords="6,5,208,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,44,110,79,104,78,106,49"/>
+</map>

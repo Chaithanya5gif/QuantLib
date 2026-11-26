@@ -1,0 +1,7 @@
+<map id="CostFunction" name="CostFunction">
+<area shape="rect" id="Node000001" title="Cost function abstract class for optimization problem." alt="" coords="114,5,214,31"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_least_square_function.html" title="Cost function for least&#45;square problems." alt="" coords="5,79,150,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,41,93,81,90,76,135,42"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_projected_cost_function.html" title="Parameterized cost function." alt="" coords="174,79,328,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,39,239,79,234,79,190,44"/>
+</map>

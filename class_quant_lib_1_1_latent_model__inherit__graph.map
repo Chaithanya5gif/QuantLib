@@ -1,0 +1,13 @@
+<map id="LatentModel&lt; copulaPolicyImpl &gt;" name="LatentModel&lt; copulaPolicyImpl &gt;">
+<area shape="rect" id="Node000001" title="Generic multifactor latent variable model." alt="" coords="92,79,270,120"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_default_latent_model.html" title=" " alt="" coords="25,168,159,208"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="148,133,114,169,110,165,152,129"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_spot_recovery_latent_model.html" title=" " alt="" coords="183,168,358,208"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="213,128,253,167,248,167,212,133"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="92,5,166,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,42,171,78,166,79,145,47"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="191,5,278,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,42,197,80,192,77,216,46"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_constant_loss_latentmodel.html" title=" " alt="" coords="5,256,179,297"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="94,222,95,257,89,255,90,226"/>
+</map>

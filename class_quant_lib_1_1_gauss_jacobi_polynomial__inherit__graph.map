@@ -1,0 +1,13 @@
+<map id="GaussJacobiPolynomial" name="GaussJacobiPolynomial">
+<area shape="rect" id="Node000001" title="Gauss&#45;Jacobi polynomial." alt="" coords="257,80,418,106"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_gauss_chebyshev2nd_polynomial.html" title="Gauss&#45;Chebyshev polynomial (second kind)." alt="" coords="466,5,676,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="382,71,465,40,507,31,502,32,467,45,383,76"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_gauss_chebyshev_polynomial.html" title="Gauss&#45;Chebyshev polynomial." alt="" coords="476,55,666,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="433,80,479,77,474,78,434,85"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_gauss_gegenbauer_polynomial.html" title="Gauss&#45;Gegenbauer polynomial." alt="" coords="474,104,668,130"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="433,100,477,107,472,107,433,105"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_gauss_legendre_polynomial.html" title="Gauss&#45;Legendre polynomial." alt="" coords="483,153,659,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="384,109,467,140,508,153,503,153,465,145,383,115"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_gaussian_orthogonal_polynomial.html" title="orthogonal polynomial for Gaussian quadratures" alt="" coords="5,80,209,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,90,259,92,254,93,225,95"/>
+</map>

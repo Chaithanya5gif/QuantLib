@@ -1,0 +1,7 @@
+<map id="OvernightIndexedSwap" name="OvernightIndexedSwap">
+<area shape="rect" id="Node000001" title="Overnight indexed swap: fix vs compounded overnight rate." alt="" coords="5,153,162,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_fixed_vs_floating_swap.html" title="Fixed vs floating swap." alt="" coords="9,79,158,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,118,86,153,81,151,82,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_swap.html" title="Interest rate swap." alt="" coords="56,5,111,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,44,86,79,81,78,82,49"/>
+</map>

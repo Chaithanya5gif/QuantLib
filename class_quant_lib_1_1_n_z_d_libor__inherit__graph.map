@@ -1,0 +1,7 @@
+<map id="NZDLibor" name="NZDLibor">
+<area shape="rect" id="Node000001" title="NZD LIBOR rate" alt="" coords="5,153,83,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_libor.html" title="base class for all ICE LIBOR indexes but the EUR, O/N, and S/N ones" alt="" coords="19,79,69,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="46,118,47,153,41,152,42,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_ibor_index.html" title="base class for Inter&#45;Bank&#45;Offered&#45;Rate indexes (e.g. Libor, etc.)" alt="" coords="6,5,82,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="45,44,47,79,41,78,43,49"/>
+</map>

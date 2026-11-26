@@ -1,0 +1,7 @@
+<map id="RiskyAssetSwap" name="RiskyAssetSwap">
+<area shape="rect" id="Node000001" title="Risky asset&#45;swap instrument." alt="" coords="5,153,128,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_instrument.html" title="Abstract instrument class." alt="" coords="25,79,108,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,118,69,153,64,151,65,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_lazy_object.html" title="Framework for calculation on demand and result caching." alt="" coords="23,5,110,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="67,44,69,79,64,78,66,49"/>
+</map>

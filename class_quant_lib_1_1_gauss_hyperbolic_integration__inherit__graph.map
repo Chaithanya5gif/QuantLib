@@ -1,0 +1,5 @@
+<map id="GaussHyperbolicIntegration" name="GaussHyperbolicIntegration">
+<area shape="rect" id="Node000001" title="Gauss&#45;Hyperbolic integration." alt="" coords="5,79,188,105"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_gaussian_quadrature.html" title="Integral of a 1&#45;dimensional function using the Gauss quadratures method." alt="" coords="26,5,167,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,45,99,80,94,77,95,48"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Calendar::Impl" name="Calendar::Impl">
+<area shape="rect" id="Node000001" title="abstract base class for calendar implementations" alt="" coords="62,5,168,31"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_calendar_1_1_orthodox_impl.html" title="partial calendar implementation" alt="" coords="5,79,105,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,42,67,80,63,77,93,43"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_calendar_1_1_western_impl.html" title="partial calendar implementation" alt="" coords="129,79,224,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,40,169,79,163,78,134,45"/>
+</map>

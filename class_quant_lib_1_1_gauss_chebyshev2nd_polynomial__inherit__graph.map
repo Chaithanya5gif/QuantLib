@@ -1,0 +1,7 @@
+<map id="GaussChebyshev2ndPolynomial" name="GaussChebyshev2ndPolynomial">
+<area shape="rect" id="Node000001" title="Gauss&#45;Chebyshev polynomial (second kind)." alt="" coords="5,153,216,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_gauss_jacobi_polynomial.html" title="Gauss&#45;Jacobi polynomial." alt="" coords="30,79,191,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,118,113,153,108,151,109,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_gaussian_orthogonal_polynomial.html" title="orthogonal polynomial for Gaussian quadratures" alt="" coords="9,5,212,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,44,113,79,108,78,109,49"/>
+</map>

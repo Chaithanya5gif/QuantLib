@@ -1,0 +1,13 @@
+<map id="FireflyAlgorithm::RandomWalk" name="FireflyAlgorithm::RandomWalk">
+<area shape="rect" id="Node000001" title="Base Random Walk class." alt="" coords="5,92,204,118"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_distribution_random_walk.html" title=" " alt="" coords="253,5,422,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,85,255,58,251,61,164,90"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_distribution_random_walk.html" title=" " alt="" coords="252,85,423,126"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="219,103,254,105,249,106,220,108"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_distribution_random_walk.html" title="Distribution Walk." alt="" coords="255,150,420,191"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="168,120,265,149,260,150,167,125"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_gaussian_walk.html" title="Gaussian Walk." alt="" coords="474,20,579,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,31,476,33,471,34,438,36"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_levy_flight_walk.html" title="Levy Flight Random Walk." alt="" coords="471,92,581,118"/>
+<area shape="poly" id="edge4_Node000005_Node000006" title=" " alt="" coords="439,103,473,105,468,105,439,108"/>
+</map>

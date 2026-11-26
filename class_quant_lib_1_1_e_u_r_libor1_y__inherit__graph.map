@@ -1,0 +1,7 @@
+<map id="EURLibor1Y" name="EURLibor1Y">
+<area shape="rect" id="Node000001" title="1&#45;year EUR Libor index" alt="" coords="5,153,100,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_e_u_r_libor.html" title="base class for all ICE EUR LIBOR indexes but the O/N" alt="" coords="13,79,92,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,118,55,153,50,152,51,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_ibor_index.html" title="base class for Inter&#45;Bank&#45;Offered&#45;Rate indexes (e.g. Libor, etc.)" alt="" coords="15,5,90,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="53,44,55,79,50,78,52,49"/>
+</map>

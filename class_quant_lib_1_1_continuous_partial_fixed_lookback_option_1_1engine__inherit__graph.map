@@ -1,0 +1,11 @@
+<map id="ContinuousPartialFixedLookbackOption::engine" name="ContinuousPartialFixedLookbackOption::engine">
+<area shape="rect" id="Node000001" title="Continuous partial fixed lookback engine base class" alt="" coords="436,23,648,64"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_analytic_continuous_partial_fixed_lookback_engine.html" title="Pricing engine for European continuous partial&#45;time fixed&#45;strike lookback options." alt="" coords="696,23,868,64"/>
+<area shape="poly" id="edge4_Node000001_Node000006" title=" " alt="" coords="664,41,699,43,693,44,664,46"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_generic_engine.html" title=" " alt="" coords="155,8,388,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="403,41,438,43,433,44,404,46"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_pricing_engine.html" title="interface for pricing engines" alt="" coords="5,5,107,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,23,157,29,151,30,122,29"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="19,55,93,80"/>
+<area shape="poly" id="edge3_Node000002_Node000005" title=" " alt="" coords="108,59,157,56,152,57,109,64"/>
+</map>

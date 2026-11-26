@@ -1,0 +1,17 @@
+<map id="InflationCouponPricer" name="InflationCouponPricer">
+<area shape="rect" id="Node000001" title="Base inflation&#45;coupon pricer." alt="" coords="141,46,287,72"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_c_p_i_coupon_pricer.html" title="base pricer for capped/floored CPI coupons N.B. vol&#45;dependent parts are a TODO" alt="" coords="358,21,482,46"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="302,46,361,41,356,42,303,51"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_yo_y_inflation_coupon_pricer.html" title="base pricer for capped/floored YoY inflation coupons" alt="" coords="335,70,505,96"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="303,67,337,73,332,73,303,72"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="12,21,86,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,39,143,46,138,49,102,44"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="5,70,93,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,72,142,68,138,71,109,77"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_bachelier_yo_y_inflation_coupon_pricer.html" title="Bachelier&#45;formula pricer for capped/floored yoy inflation coupons." alt="" coords="561,5,752,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="491,63,567,47,572,46,492,69"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_black_yo_y_inflation_coupon_pricer.html" title="Black&#45;formula pricer for capped/floored yoy inflation coupons." alt="" coords="555,70,758,96"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="521,80,557,83,552,83,521,86"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_unit_displaced_black_yo_y_inflation_coupon_pricer.html" title="Unit&#45;Displaced&#45;Black&#45;formula pricer for capped/floored yoy inflation coupons." alt="" coords="553,120,760,161"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="491,97,572,119,567,119,491,103"/>
+</map>

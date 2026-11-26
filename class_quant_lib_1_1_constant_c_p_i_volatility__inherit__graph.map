@@ -1,0 +1,7 @@
+<map id="ConstantCPIVolatility" name="ConstantCPIVolatility">
+<area shape="rect" id="Node000001" title="Constant surface, no K or T dependence." alt="" coords="8,153,156,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_c_p_i_volatility_surface.html" title="zero inflation (i.e. CPI/RPI/HICP/etc.) volatility structures" alt="" coords="12,79,152,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,118,85,153,79,151,80,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_volatility_term_structure.html" title="Volatility term structure." alt="" coords="5,5,159,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,44,85,79,79,78,81,49"/>
+</map>

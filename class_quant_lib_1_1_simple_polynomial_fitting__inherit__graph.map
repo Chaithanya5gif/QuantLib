@@ -1,0 +1,5 @@
+<map id="SimplePolynomialFitting" name="SimplePolynomialFitting">
+<area shape="rect" id="Node000001" title="Simple polynomial fitting method." alt="" coords="5,79,167,105"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_fitted_bond_discount_curve_1_1_fitting_method.html" title="Base fitting method used to construct a fitted bond discount curve." alt="" coords="36,5,136,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,45,88,79,84,78,84,48"/>
+</map>

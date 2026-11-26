@@ -1,0 +1,7 @@
+<map id="MtMCrossCurrencyBasisSwap" name="MtMCrossCurrencyBasisSwap">
+<area shape="rect" id="Node000001" title="Mark&#45;to&#45;market cross&#45;currency basis swap." alt="" coords="5,153,207,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_cross_currency_swap.html" title="Generic cross&#45;currency swap." alt="" coords="35,79,177,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,118,108,153,104,151,104,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_swap.html" title="Interest rate swap." alt="" coords="79,5,133,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,44,109,79,103,78,105,49"/>
+</map>

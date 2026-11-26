@@ -1,0 +1,13 @@
+<map id="FixedVsFloatingSwap" name="FixedVsFloatingSwap">
+<area shape="rect" id="Node000001" title="Fixed vs floating swap." alt="" coords="175,153,324,178"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_multiple_resets_swap.html" title="Swap with a fixed leg and a multiple&#45;resets floating leg." alt="" coords="5,226,147,252"/>
+<area shape="poly" id="edge3_Node000001_Node000007" title=" " alt="" coords="208,186,107,228,105,223,204,183"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_overnight_indexed_swap.html" title="Overnight indexed swap: fix vs compounded overnight rate." alt="" coords="171,226,328,252"/>
+<area shape="poly" id="edge4_Node000001_Node000008" title=" " alt="" coords="251,192,252,227,247,224,247,196"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_vanilla_swap.html" title="Plain&#45;vanilla swap: fix vs ibor leg." alt="" coords="351,226,444,252"/>
+<area shape="poly" id="edge5_Node000001_Node000009" title=" " alt="" coords="289,183,375,226,369,226,288,188"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_swap.html" title="Interest rate swap." alt="" coords="222,79,276,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,118,252,153,247,151,248,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_instrument.html" title="Abstract instrument class." alt="" coords="208,5,291,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="251,44,252,80,247,77,248,49"/>
+</map>

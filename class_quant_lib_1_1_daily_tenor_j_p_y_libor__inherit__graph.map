@@ -1,0 +1,7 @@
+<map id="DailyTenorJPYLibor" name="DailyTenorJPYLibor">
+<area shape="rect" id="Node000001" title="base class for the one day deposit ICE JPY LIBOR indexes" alt="" coords="5,153,142,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_daily_tenor_libor.html" title="base class for all O/N&#45;S/N BBA LIBOR indexes but the EUR ones" alt="" coords="18,79,129,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,118,76,153,71,151,72,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_ibor_index.html" title="base class for Inter&#45;Bank&#45;Offered&#45;Rate indexes (e.g. Libor, etc.)" alt="" coords="36,5,111,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,44,76,79,71,78,72,49"/>
+</map>

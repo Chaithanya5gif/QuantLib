@@ -1,0 +1,5 @@
+<map id="FFTVarianceGammaEngine" name="FFTVarianceGammaEngine">
+<area shape="rect" id="Node000001" title="FFT engine for vanilla options under a Variance Gamma process." alt="" coords="5,79,187,105"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_f_f_t_engine.html" title="Base class for FFT pricing engines for European vanilla options." alt="" coords="53,5,139,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,45,98,80,94,77,94,48"/>
+</map>

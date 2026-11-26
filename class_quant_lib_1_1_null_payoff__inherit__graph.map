@@ -1,0 +1,5 @@
+<map id="NullPayoff" name="NullPayoff">
+<area shape="rect" id="Node000001" title="Dummy payoff class." alt="" coords="5,79,88,105"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_payoff.html" title="Abstract base class for option payoffs." alt="" coords="17,5,76,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,45,49,79,44,78,44,48"/>
+</map>

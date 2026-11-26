@@ -1,0 +1,15 @@
+<map id="YoYInflationCouponPricer" name="YoYInflationCouponPricer">
+<area shape="rect" id="Node000001" title="base pricer for capped/floored YoY inflation coupons" alt="" coords="335,70,505,96"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_bachelier_yo_y_inflation_coupon_pricer.html" title="Bachelier&#45;formula pricer for capped/floored yoy inflation coupons." alt="" coords="561,5,752,46"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="491,63,567,47,572,46,492,69"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_black_yo_y_inflation_coupon_pricer.html" title="Black&#45;formula pricer for capped/floored yoy inflation coupons." alt="" coords="555,70,758,96"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="521,80,557,83,552,83,521,86"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_unit_displaced_black_yo_y_inflation_coupon_pricer.html" title="Unit&#45;Displaced&#45;Black&#45;formula pricer for capped/floored yoy inflation coupons." alt="" coords="553,120,760,161"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="491,97,572,119,567,119,491,103"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_inflation_coupon_pricer.html" title="Base inflation&#45;coupon pricer." alt="" coords="141,70,287,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="302,80,337,83,332,83,303,86"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="12,45,86,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,63,143,71,138,73,102,68"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="5,94,93,120"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="107,96,143,93,138,95,109,101"/>
+</map>

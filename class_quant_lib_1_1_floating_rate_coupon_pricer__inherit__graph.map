@@ -1,0 +1,27 @@
+<map id="FloatingRateCouponPricer" name="FloatingRateCouponPricer">
+<area shape="rect" id="Node000001" title="generic pricer for floating&#45;rate coupons" alt="" coords="141,129,315,155"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_cms_coupon_pricer.html" title="base pricer for vanilla CMS coupons" alt="" coords="400,55,528,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="274,121,362,89,404,80,399,82,364,94,277,125"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_cms_spread_coupon_pricer.html" title="base pricer for vanilla CMS spread coupons" alt="" coords="380,104,549,130"/>
+<area shape="poly" id="edge6_Node000001_Node000009" title=" " alt="" coords="330,129,382,125,377,127,331,134"/>
+<area shape="rect" id="Node000011" href="$class_quant_lib_1_1_ibor_coupon_pricer.html" title="base pricer for capped/floored Ibor coupons" alt="" coords="403,153,525,179"/>
+<area shape="poly" id="edge8_Node000001_Node000011" title=" " alt="" coords="330,150,405,159,400,161,331,155"/>
+<area shape="rect" id="Node000013" href="$class_quant_lib_1_1_overnight_indexed_coupon_pricer.html" title="Base pricer for overnight&#45;indexed floating coupons." alt="" coords="363,211,565,236"/>
+<area shape="poly" id="edge10_Node000001_Node000013" title=" " alt="" coords="279,158,364,189,422,210,417,210,362,194,278,164"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="12,104,86,130"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,122,143,128,138,131,102,127"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="5,153,93,179"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,156,142,152,138,156,109,161"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_hagan_pricer.html" title="CMS&#45;coupon pricer." alt="" coords="668,5,762,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="543,49,670,26,665,28,544,55"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_linear_tsr_pricer.html" title="CMS&#45;coupon pricer." alt="" coords="661,55,769,80"/>
+<area shape="poly" id="edge5_Node000004_Node000008" title=" " alt="" coords="544,65,664,67,658,68,545,70"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_lognormal_cms_spread_pricer.html" title="CMS spread &#45; coupon pricer." alt="" coords="623,104,807,130"/>
+<area shape="poly" id="edge7_Node000009_Node000010" title=" " alt="" coords="564,114,625,116,620,117,565,119"/>
+<area shape="rect" id="Node000012" href="$class_quant_lib_1_1_black_ibor_coupon_pricer.html" title=" " alt="" coords="637,153,793,179"/>
+<area shape="poly" id="edge9_Node000011_Node000012" title=" " alt="" coords="540,164,639,166,634,167,541,169"/>
+<area shape="rect" id="Node000014" href="$class_quant_lib_1_1_arithmetic_averaged_overnight_indexed_coupon_pricer.html" title="Base pricer for arithmetically averaged overnight&#45;indexed floating coupons." alt="" coords="619,203,811,244"/>
+<area shape="poly" id="edge11_Node000013_Node000014" title=" " alt="" coords="581,221,621,223,616,224,581,226"/>
+<area shape="rect" id="Node000016" href="$class_quant_lib_1_1_compounding_overnight_indexed_coupon_pricer.html" title="Base pricer for compounded overnight&#45;indexed floating coupons." alt="" coords="613,268,817,309"/>
+<area shape="poly" id="edge12_Node000013_Node000016" title=" " alt="" coords="531,238,637,268,631,268,530,243"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="YoYInflationUnitDisplacedBlackCapFloorEngine" name="YoYInflationUnitDisplacedBlackCapFloorEngine">
+<area shape="rect" id="Node000001" title="Unit Displaced Black&#45;formula inflation cap/floor engine (standalone, i.e. no coupon pricer)." alt="" coords="11,153,184,193"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_yo_y_inflation_cap_floor_engine.html" title="Base YoY inflation cap/floor engine." alt="" coords="5,79,190,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,118,100,153,95,151,96,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_yo_y_inflation_cap_floor_1_1engine.html" title="base class for cap/floor engines" alt="" coords="68,5,127,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,44,100,79,95,78,96,49"/>
+</map>

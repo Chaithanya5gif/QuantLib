@@ -1,0 +1,11 @@
+<map id="CPICapFloorTermPriceSurface" name="CPICapFloorTermPriceSurface">
+<area shape="rect" id="Node000001" title="Provides cpi cap/floor prices by interpolation and put/call parity (not cap/floor/swap* parity)." alt="" coords="47,153,248,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_term_structure.html" title="Basic term&#45;structure functionality." alt="" coords="96,79,200,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,118,150,153,145,151,146,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="5,5,80,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,37,132,77,127,80,72,43"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="104,5,192,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="149,44,150,79,145,78,146,49"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_extrapolator.html" title="base class for classes possibly allowing extrapolation" alt="" coords="216,5,307,31"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="231,38,169,81,166,76,227,41"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="NonstandardSwaption::engine" name="NonstandardSwaption::engine">
+<area shape="rect" id="Node000001" title="base class for nonstandard swaption engines" alt="" coords="44,183,193,223"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_generic_engine.html" title=" " alt="" coords="5,79,232,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,149,121,183,116,181,117,152"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_pricing_engine.html" title="interface for pricing engines" alt="" coords="12,5,113,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,42,104,78,98,79,78,47"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="137,5,212,31"/>
+<area shape="poly" id="edge3_Node000002_Node000005" title=" " alt="" coords="160,42,138,80,134,77,157,46"/>
+</map>

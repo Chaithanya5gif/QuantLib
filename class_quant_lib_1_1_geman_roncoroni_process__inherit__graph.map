@@ -1,0 +1,7 @@
+<map id="GemanRoncoroniProcess" name="GemanRoncoroniProcess">
+<area shape="rect" id="Node000001" title="Geman&#45;Roncoroni process class." alt="" coords="5,153,176,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_stochastic_process1_d.html" title="1&#45;dimensional stochastic process" alt="" coords="16,79,165,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,118,93,153,88,151,89,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_stochastic_process.html" title="multi&#45;dimensional stochastic process class." alt="" coords="25,5,156,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,44,93,79,88,78,89,49"/>
+</map>

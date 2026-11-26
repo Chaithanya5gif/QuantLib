@@ -1,0 +1,7 @@
+<map id="YoYInflationFloor" name="YoYInflationFloor">
+<area shape="rect" id="Node000001" title="Concrete YoY Inflation floor class." alt="" coords="17,153,138,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_yo_y_inflation_cap_floor.html" title="Base class for yoy inflation cap&#45;like instruments." alt="" coords="5,79,150,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,118,80,153,75,151,76,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_instrument.html" title="Abstract instrument class." alt="" coords="36,5,119,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,44,80,79,75,78,76,49"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="FlatForward" name="FlatForward">
+<area shape="rect" id="Node000001" title="Flat interest&#45;rate curve." alt="" coords="78,226,169,252"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_yield_term_structure.html" title="Interest&#45;rate term structure." alt="" coords="5,153,138,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,188,117,226,112,226,88,193"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_term_structure.html" title="Basic term&#45;structure functionality." alt="" coords="12,79,115,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="67,117,73,152,68,152,66,122"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="33,5,107,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="68,44,67,79,62,78,67,49"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_lazy_object.html" title="Framework for calculation on demand and result caching." alt="" coords="140,79,227,105"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="102,37,167,77,162,80,102,42"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="136,5,223,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="146,41,85,80,82,76,149,37"/>
+<area shape="poly" id="edge6_Node000007_Node000005" title=" " alt="" coords="182,44,185,79,180,78,180,49"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="176,117,153,179,131,228,127,224,148,177,172,121"/>
+</map>

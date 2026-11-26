@@ -1,0 +1,5 @@
+<map id="PositiveConstraint" name="PositiveConstraint">
+<area shape="rect" id="Node000001" title="Constraint imposing positivity to all arguments" alt="" coords="5,79,134,105"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_constraint.html" title="Base constraint class." alt="" coords="29,5,110,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,45,72,79,67,78,68,48"/>
+</map>

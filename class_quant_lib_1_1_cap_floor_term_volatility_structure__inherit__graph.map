@@ -1,0 +1,13 @@
+<map id="CapFloorTermVolatilityStructure" name="CapFloorTermVolatilityStructure">
+<area shape="rect" id="Node000001" title="Cap/floor term&#45;volatility structure." alt="" coords="168,153,374,178"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_cap_floor_term_vol_curve.html" title="Cap/floor at&#45;the&#45;money term&#45;volatility vector." alt="" coords="5,226,163,252"/>
+<area shape="poly" id="edge3_Node000001_Node000007" title=" " alt="" coords="227,186,117,228,115,223,223,183"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_cap_floor_term_vol_surface.html" title="Cap/floor smile volatility surface." alt="" coords="187,226,354,252"/>
+<area shape="poly" id="edge4_Node000001_Node000008" title=" " alt="" coords="273,192,273,227,268,224,269,196"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_constant_cap_floor_term_volatility.html" title="Constant caplet volatility, no time&#45;strike dependence." alt="" coords="378,226,584,252"/>
+<area shape="poly" id="edge5_Node000001_Node000009" title=" " alt="" coords="321,181,448,225,443,226,320,186"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_volatility_term_structure.html" title="Volatility term structure." alt="" coords="194,79,347,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,118,273,153,268,151,269,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_term_structure.html" title="Basic term&#45;structure functionality." alt="" coords="219,5,322,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="272,44,273,80,268,77,269,49"/>
+</map>

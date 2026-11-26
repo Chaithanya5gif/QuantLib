@@ -1,0 +1,7 @@
+<map id="MultipleResetsSwap" name="MultipleResetsSwap">
+<area shape="rect" id="Node000001" title="Swap with a fixed leg and a multiple&#45;resets floating leg." alt="" coords="9,153,150,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_fixed_vs_floating_swap.html" title="Fixed vs floating swap." alt="" coords="5,79,154,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,118,82,153,77,151,78,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_swap.html" title="Interest rate swap." alt="" coords="52,5,107,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,44,82,79,77,78,78,49"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GaussJacobiIntegration" name="GaussJacobiIntegration">
+<area shape="rect" id="Node000001" title="Gauss&#45;Jacobi integration." alt="" coords="5,79,164,105"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_gaussian_quadrature.html" title="Integral of a 1&#45;dimensional function using the Gauss quadratures method." alt="" coords="14,5,155,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,45,87,79,82,78,83,48"/>
+</map>

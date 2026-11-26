@@ -1,0 +1,11 @@
+<map id="LineSearchBasedMethod" name="LineSearchBasedMethod">
+<area shape="rect" id="Node000001" title="Line search based method." alt="" coords="68,79,234,105"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_b_f_g_s.html" title="Broyden&#45;Fletcher&#45;Goldfarb&#45;Shanno algorithm." alt="" coords="5,153,63,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,115,55,154,53,150,117,111"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_conjugate_gradient.html" title="Multi&#45;dimensional Conjugate Gradient class." alt="" coords="87,153,216,178"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,118,154,153,149,151,149,122"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_steepest_descent.html" title="Multi&#45;dimensional steepest&#45;descent class." alt="" coords="240,153,362,178"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="191,109,278,152,273,153,190,114"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_optimization_method.html" title="Abstract class for constrained optimization method." alt="" coords="83,5,220,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,44,154,79,149,78,150,49"/>
+</map>

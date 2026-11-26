@@ -1,0 +1,9 @@
+<map id="DailyTenorGBPLibor" name="DailyTenorGBPLibor">
+<area shape="rect" id="Node000001" title="Base class for the one day deposit ICE GBP LIBOR indexes." alt="" coords="5,153,145,178"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_g_b_p_libor_o_n.html" title="Overnight GBP Libor index." alt="" coords="26,226,124,252"/>
+<area shape="poly" id="edge3_Node000001_Node000008" title=" " alt="" coords="77,192,78,227,72,225,73,196"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_daily_tenor_libor.html" title="base class for all O/N&#45;S/N BBA LIBOR indexes but the EUR ones" alt="" coords="19,79,131,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,118,78,153,72,152,74,123"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_ibor_index.html" title="base class for Inter&#45;Bank&#45;Offered&#45;Rate indexes (e.g. Libor, etc.)" alt="" coords="37,5,113,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="76,44,78,79,72,78,74,49"/>
+</map>

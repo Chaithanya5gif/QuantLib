@@ -1,0 +1,12 @@
+<map id="ImpliedStdDevQuote" name="ImpliedStdDevQuote">
+<area shape="rect" id="Node000001" title="quote for the implied standard deviation of an underlying" alt="" coords="26,153,168,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_quote.html" title="purely virtual base class for market observables" alt="" coords="21,79,77,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,115,92,152,86,152,64,120"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="5,5,93,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="50,44,52,79,46,78,48,49"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_lazy_object.html" title="Framework for calculation on demand and result caching." alt="" coords="101,79,189,105"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="78,38,131,78,127,80,77,43"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="131,116,107,154,103,150,126,119"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="117,5,192,31"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="152,44,149,80,144,77,149,48"/>
+</map>

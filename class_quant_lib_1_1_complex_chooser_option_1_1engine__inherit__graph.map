@@ -1,0 +1,9 @@
+<map id="ComplexChooserOption::engine" name="ComplexChooserOption::engine">
+<area shape="rect" id="Node000001" title="Complex&#45;chooser&#45;option engine base class." alt="" coords="44,183,204,223"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_generic_engine.html" title=" " alt="" coords="5,79,243,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,149,126,183,122,181,122,152"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_pricing_engine.html" title="interface for pricing engines" alt="" coords="17,5,119,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,42,109,78,104,79,84,47"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="143,5,217,31"/>
+<area shape="poly" id="edge3_Node000002_Node000005" title=" " alt="" coords="166,42,144,80,139,77,162,46"/>
+</map>

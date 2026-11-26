@@ -1,0 +1,7 @@
+<map id="ConstantCapFloorTermVolatility" name="ConstantCapFloorTermVolatility">
+<area shape="rect" id="Node000001" title="Constant caplet volatility, no time&#45;strike dependence." alt="" coords="5,153,212,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_cap_floor_term_volatility_structure.html" title="Cap/floor term&#45;volatility structure." alt="" coords="5,79,212,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,118,111,153,106,151,107,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_volatility_term_structure.html" title="Volatility term structure." alt="" coords="32,5,185,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,44,111,79,106,78,107,49"/>
+</map>

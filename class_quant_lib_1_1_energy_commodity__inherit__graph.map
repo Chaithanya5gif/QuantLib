@@ -1,0 +1,9 @@
+<map id="EnergyCommodity" name="EnergyCommodity">
+<area shape="rect" id="Node000001" title="Energy commodity class." alt="" coords="5,153,135,178"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_energy_future.html" title="Energy future." alt="" coords="20,226,120,252"/>
+<area shape="poly" id="edge3_Node000001_Node000007" title=" " alt="" coords="72,192,73,227,67,225,68,196"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_commodity.html" title="Commodity base class." alt="" coords="26,79,114,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,118,73,153,67,152,69,123"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_instrument.html" title="Abstract instrument class." alt="" coords="28,5,112,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="71,44,73,79,67,78,69,49"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ChebyshevInterpolation" name="ChebyshevInterpolation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,153,164,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_interpolation.html" title="base class for 1&#45;D interpolations." alt="" coords="38,79,131,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,118,87,153,82,151,83,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_extrapolator.html" title="base class for classes possibly allowing extrapolation" alt="" coords="39,5,130,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="86,44,87,79,82,78,83,49"/>
+</map>

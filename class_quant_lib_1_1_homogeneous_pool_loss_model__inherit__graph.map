@@ -1,0 +1,7 @@
+<map id="HomogeneousPoolLossModel&lt; copulaPolicy &gt;" name="HomogeneousPoolLossModel&lt; copulaPolicy &gt;">
+<area shape="rect" id="Node000001" title="Default loss distribution convolution for finite homogeneous pool." alt="" coords="5,153,200,193"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_default_loss_model.html" title=" " alt="" coords="39,79,166,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,118,105,153,100,151,101,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="59,5,146,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,44,105,79,100,78,101,49"/>
+</map>

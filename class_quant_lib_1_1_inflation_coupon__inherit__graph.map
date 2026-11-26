@@ -1,0 +1,13 @@
+<map id="InflationCoupon" name="InflationCoupon">
+<area shape="rect" id="Node000001" title="Base inflation&#45;coupon class." alt="" coords="62,153,174,178"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_c_p_i_coupon.html" title="Coupon paying the performance of a CPI (zero inflation) index" alt="" coords="5,226,95,252"/>
+<area shape="poly" id="edge3_Node000001_Node000008" title=" " alt="" coords="95,192,64,228,59,224,97,187"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_yo_y_inflation_coupon.html" title="Coupon paying a YoY&#45;inflation type index" alt="" coords="119,226,256,252"/>
+<area shape="poly" id="edge4_Node000001_Node000009" title=" " alt="" coords="140,187,178,225,173,226,139,192"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_coupon.html" title="coupon accruing over a fixed period" alt="" coords="85,79,151,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,118,121,153,115,152,117,123"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_cash_flow.html" title="Base class for cash flows." alt="" coords="78,5,158,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,44,121,79,115,78,117,49"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_capped_floored_yo_y_inflation_coupon.html" title="Capped or floored inflation coupon." alt="" coords="98,300,277,341"/>
+<area shape="poly" id="edge5_Node000009_Node000010" title=" " alt="" coords="189,266,190,301,185,298,185,269"/>
+</map>

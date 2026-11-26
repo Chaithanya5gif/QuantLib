@@ -1,0 +1,21 @@
+<map id="YoYOptionletVolatilitySurface" name="YoYOptionletVolatilitySurface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="358,187,550,213"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_interpolated_yo_y_optionlet_volatility_curve.html" title=" " alt="" coords="612,93,807,134"/>
+<area shape="poly" id="edge3_Node000001_Node000007" title=" " alt="" coords="501,178,597,143,631,135,636,133,599,148,503,183"/>
+<area shape="rect" id="Node000011" href="$class_quant_lib_1_1_constant_yo_y_optionlet_volatility.html" title="Constant surface, no K or T dependence." alt="" coords="609,158,810,183"/>
+<area shape="poly" id="edge7_Node000001_Node000011" title=" " alt="" coords="565,184,612,182,606,182,566,190"/>
+<area shape="rect" id="Node000012" href="$class_quant_lib_1_1_interpolated_yo_y_optionlet_volatility_curve.html" title="Interpolated flat smile surface." alt="" coords="603,208,816,248"/>
+<area shape="poly" id="edge8_Node000001_Node000012" title=" " alt="" coords="566,209,606,216,600,216,566,215"/>
+<area shape="rect" id="Node000013" href="$class_quant_lib_1_1_k_interpolated_yo_y_optionlet_volatility_surface.html" title="K&#45;interpolated YoY optionlet volatility." alt="" coords="598,273,821,314"/>
+<area shape="poly" id="edge9_Node000001_Node000013" title=" " alt="" coords="499,217,599,257,638,273,633,272,597,262,498,222"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_volatility_term_structure.html" title="Volatility term structure." alt="" coords="157,187,310,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="325,197,360,199,355,200,326,202"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_term_structure.html" title="Basic term&#45;structure functionality." alt="" coords="5,187,109,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,197,159,199,154,201,125,202"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_piecewise_yo_y_optionlet_volatility_curve.html" title=" " alt="" coords="889,5,1096,61"/>
+<area shape="poly" id="edge4_Node000007_Node000008" title=" " alt="" coords="798,86,889,62,894,61,799,91"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_piecewise_yo_y_optionlet_volatility_curve.html" title=" " alt="" coords="869,85,1116,141"/>
+<area shape="poly" id="edge5_Node000007_Node000009" title=" " alt="" coords="822,111,871,113,866,114,823,116"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_piecewise_yo_y_optionlet_volatility_curve.html" title="Piecewise year&#45;on&#45;year inflation volatility term structure." alt="" coords="889,165,1096,221"/>
+<area shape="poly" id="edge6_Node000007_Node000010" title=" " alt="" coords="799,136,894,165,889,165,798,141"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PricingPeriod" name="PricingPeriod">
+<area shape="rect" id="Node000001" title="Time pricingperiod described by a number of a given time unit." alt="" coords="5,79,104,105"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_date_interval.html" title="Date interval described by a number of a given time unit." alt="" coords="8,5,101,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,45,57,79,52,78,53,48"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MidPointCDOEngine" name="MidPointCDOEngine">
+<area shape="rect" id="Node000001" title="CDO base engine taking schedule steps." alt="" coords="41,183,183,208"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_synthetic_c_d_o_1_1engine.html" title="CDO base engine." alt="" coords="82,109,142,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,148,114,183,110,181,110,152"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_generic_engine.html" title=" " alt="" coords="5,5,219,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,74,115,109,109,108,111,79"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="FireflyAlgorithm::Intensity" name="FireflyAlgorithm::Intensity">
+<area shape="rect" id="Node000001" title="Base intensity class." alt="" coords="82,5,252,31"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_exponential_intensity.html" title="Exponential Intensity." alt="" coords="5,79,145,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,40,92,81,89,76,137,41"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_inverse_law_square_intensity.html" title="Inverse Square Intensity." alt="" coords="169,79,349,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,38,246,79,241,79,194,43"/>
+</map>

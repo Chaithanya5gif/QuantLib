@@ -1,0 +1,5 @@
+<map id="ITLCurrency" name="ITLCurrency">
+<area shape="rect" id="Node000001" title="Italian lira." alt="" coords="5,79,99,105"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_currency.html" title="Currency specification" alt="" coords="15,5,89,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,45,55,79,49,78,50,48"/>
+</map>

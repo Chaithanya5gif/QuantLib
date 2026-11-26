@@ -1,0 +1,7 @@
+<map id="FiniteDifferenceNewtonSafe" name="FiniteDifferenceNewtonSafe">
+<area shape="rect" id="Node000001" title="safe Newton 1&#45;D solver with finite difference derivatives" alt="" coords="17,183,203,208"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_solver1_d.html" title=" " alt="" coords="20,94,200,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,149,112,183,108,181,108,152"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_curiously_recurring_template.html" title=" " alt="" coords="5,5,215,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,59,113,94,107,93,109,64"/>
+</map>

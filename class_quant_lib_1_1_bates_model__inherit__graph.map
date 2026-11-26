@@ -1,0 +1,7 @@
+<map id="BatesModel" name="BatesModel">
+<area shape="rect" id="Node000001" title="Bates stochastic&#45;volatility model." alt="" coords="18,153,108,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_heston_model.html" title="Heston model for the stochastic volatility of an asset." alt="" coords="14,79,112,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,118,66,153,60,151,61,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_calibrated_model.html" title="Calibrated model class." alt="" coords="5,5,121,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="64,44,66,79,60,78,62,49"/>
+</map>

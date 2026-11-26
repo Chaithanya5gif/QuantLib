@@ -1,0 +1,11 @@
+<map id="SyntheticCDO::engine" name="SyntheticCDO::engine">
+<area shape="rect" id="Node000001" title="CDO base engine." alt="" coords="36,183,188,208"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_mid_point_c_d_o_engine.html" title="CDO base engine taking schedule steps." alt="" coords="41,256,183,282"/>
+<area shape="poly" id="edge4_Node000001_Node000006" title=" " alt="" coords="114,222,114,257,110,255,110,226"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_generic_engine.html" title=" " alt="" coords="5,79,219,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,148,115,183,109,181,111,152"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_pricing_engine.html" title="interface for pricing engines" alt="" coords="5,5,107,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="72,42,97,78,92,79,72,47"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="131,5,205,31"/>
+<area shape="poly" id="edge3_Node000002_Node000005" title=" " alt="" coords="151,46,132,80,127,77,153,42"/>
+</map>

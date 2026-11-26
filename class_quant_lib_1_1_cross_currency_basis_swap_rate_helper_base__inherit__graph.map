@@ -1,0 +1,7 @@
+<map id="CrossCurrencyBasisSwapRateHelperBase" name="CrossCurrencyBasisSwapRateHelperBase">
+<area shape="rect" id="Node000001" title="Base class for cross&#45;currency basis swap rate helpers." alt="" coords="110,5,314,46"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_const_notional_cross_currency_basis_swap_rate_helper.html" title="Rate helper for bootstrapping over constant&#45;notional cross&#45;currency basis swaps." alt="" coords="5,94,198,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,55,128,96,125,91,173,57"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_mt_m_cross_currency_basis_swap_rate_helper.html" title="Rate helper for bootstrapping over market&#45;to&#45;market cross&#45;currency basis swaps." alt="" coords="222,94,424,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,53,300,94,295,93,248,58"/>
+</map>

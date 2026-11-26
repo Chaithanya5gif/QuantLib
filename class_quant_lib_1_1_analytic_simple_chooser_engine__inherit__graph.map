@@ -1,0 +1,7 @@
+<map id="AnalyticSimpleChooserEngine" name="AnalyticSimpleChooserEngine">
+<area shape="rect" id="Node000001" title="Pricing engine for European simple chooser option." alt="" coords="19,183,217,208"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_simple_chooser_option_1_1engine.html" title="Simple&#45;chooser&#45;option engine base class." alt="" coords="88,109,148,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,148,120,183,116,181,116,152"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_generic_engine.html" title=" " alt="" coords="5,5,231,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,74,121,109,115,108,117,79"/>
+</map>

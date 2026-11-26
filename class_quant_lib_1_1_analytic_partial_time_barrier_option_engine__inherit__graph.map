@@ -1,0 +1,7 @@
+<map id="AnalyticPartialTimeBarrierOptionEngine" name="AnalyticPartialTimeBarrierOptionEngine">
+<area shape="rect" id="Node000001" title="analytic engine for partial&#45;time barrier options." alt="" coords="345,20,517,61"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_partial_time_barrier_option_1_1engine.html" title="Base class for partial&#45;time barrier option engines." alt="" coords="238,28,297,54"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="313,38,347,40,342,41,313,43"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_generic_engine.html" title=" " alt="" coords="5,5,190,76"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="205,38,240,40,235,41,205,43"/>
+</map>

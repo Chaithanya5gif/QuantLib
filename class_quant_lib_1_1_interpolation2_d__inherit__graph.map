@@ -1,0 +1,17 @@
+<map id="Interpolation2D" name="Interpolation2D">
+<area shape="rect" id="Node000001" title="base class for 2&#45;D interpolations." alt="" coords="145,129,254,155"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_backwardflat_linear_interpolation.html" title=" " alt="" coords="302,5,505,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,115,253,76,276,56,301,40,329,30,324,33,303,45,279,61,257,80,221,119"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_bicubic_spline.html" title="bicubic&#45;spline interpolation between discrete points" alt="" coords="354,55,454,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="236,119,301,89,356,76,351,78,303,94,238,124"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_bilinear_interpolation.html" title="bilinear interpolation between discrete points" alt="" coords="336,104,471,130"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="269,131,338,124,333,126,270,136"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_flat_extrapolator2_d.html" title=" " alt="" coords="338,153,469,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="269,148,341,158,336,159,269,153"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_kernel_interpolation2_d.html" title=" " alt="" coords="330,203,477,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="238,160,303,189,340,202,334,202,301,194,238,165"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_polynomial2_d_spline.html" title="polynomial2D&#45;spline interpolation between discrete points" alt="" coords="334,252,473,278"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="221,165,257,204,279,223,303,238,337,254,331,253,301,243,276,227,253,208,219,170"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_extrapolator.html" title="base class for classes possibly allowing extrapolation" alt="" coords="5,129,97,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,140,147,141,142,144,113,145"/>
+</map>

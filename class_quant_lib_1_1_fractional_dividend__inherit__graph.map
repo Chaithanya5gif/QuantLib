@@ -1,0 +1,7 @@
+<map id="FractionalDividend" name="FractionalDividend">
+<area shape="rect" id="Node000001" title="Predetermined cash flow." alt="" coords="5,153,135,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_dividend.html" title="Predetermined cash flow." alt="" coords="34,79,106,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,118,73,153,67,151,68,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_cash_flow.html" title="Base class for cash flows." alt="" coords="30,5,110,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="71,44,73,79,67,78,69,49"/>
+</map>

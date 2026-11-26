@@ -1,0 +1,9 @@
+<map id="SwaptionHelper" name="SwaptionHelper">
+<area shape="rect" id="Node000001" title="calibration helper for interest&#45;rate swaptions" alt="" coords="56,153,170,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_black_calibration_helper.html" title="liquid Black76 market instrument used during calibration" alt="" coords="36,79,190,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,118,115,153,111,151,111,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_lazy_object.html" title="Framework for calculation on demand and result caching." alt="" coords="5,5,93,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="70,40,105,78,100,79,69,45"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_calibration_helper.html" title="abstract base class for calibration helpers" alt="" coords="116,5,238,31"/>
+<area shape="poly" id="edge3_Node000002_Node000006" title=" " alt="" coords="158,40,126,80,122,77,154,44"/>
+</map>

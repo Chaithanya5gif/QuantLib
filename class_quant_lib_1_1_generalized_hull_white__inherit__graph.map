@@ -1,0 +1,14 @@
+<map id="GeneralizedHullWhite" name="GeneralizedHullWhite">
+<area shape="rect" id="Node000001" title="Generalized Hull&#45;White model class." alt="" coords="107,226,255,252"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_one_factor_affine_model.html" title="Single&#45;factor affine base class." alt="" coords="5,153,157,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,185,167,225,161,226,109,190"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_one_factor_model.html" title="Single&#45;factor short&#45;rate model abstract class." alt="" coords="12,79,129,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,117,82,152,77,152,73,122"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_affine_model.html" title="Affine model class." alt="" coords="153,79,244,105"/>
+<area shape="poly" id="edge3_Node000002_Node000008" title=" " alt="" coords="164,115,103,154,99,150,168,111"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="196,5,283,31"/>
+<area shape="poly" id="edge4_Node000008_Node000007" title=" " alt="" coords="227,42,207,80,203,77,224,46"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_term_structure_consistent_model.html" title="Term&#45;structure consistent model class." alt="" coords="180,153,382,178"/>
+<area shape="poly" id="edge6_Node000009_Node000007" title=" " alt="" coords="249,44,280,153,275,152,246,48"/>
+<area shape="poly" id="edge5_Node000001_Node000009" title=" " alt="" coords="254,187,199,228,197,223,249,188"/>
+</map>

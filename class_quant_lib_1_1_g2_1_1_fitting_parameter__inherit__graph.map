@@ -1,0 +1,7 @@
+<map id="G2::FittingParameter" name="G2::FittingParameter">
+<area shape="rect" id="Node000001" title="Analytical term&#45;structure fitting parameter ." alt="" coords="34,153,176,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_term_structure_fitting_parameter.html" title="Deterministic time&#45;dependent parameter used for yield&#45;curve fitting." alt="" coords="5,79,205,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,118,107,153,103,151,103,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_parameter.html" title="Base class for model arguments." alt="" coords="64,5,146,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,44,108,79,102,78,104,49"/>
+</map>

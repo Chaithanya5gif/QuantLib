@@ -1,0 +1,17 @@
+<map id="InterpolatedYoYInflationCurve&lt; Interpolator &gt;" name="InterpolatedYoYInflationCurve&lt; Interpolator &gt;">
+<area shape="rect" id="Node000001" title="Inflation term structure based on interpolated year&#45;on&#45;year rates." alt="" coords="424,93,583,134"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_piecewise_yo_y_inflation_curve.html" title=" " alt="" coords="644,5,831,61"/>
+<area shape="poly" id="edge5_Node000001_Node000010" title=" " alt="" coords="579,85,652,62,657,61,580,90"/>
+<area shape="rect" id="Node000011" href="$class_quant_lib_1_1_piecewise_yo_y_inflation_curve.html" title=" " alt="" coords="631,85,844,141"/>
+<area shape="poly" id="edge6_Node000001_Node000011" title=" " alt="" coords="599,111,634,113,628,113,599,116"/>
+<area shape="rect" id="Node000012" href="$class_quant_lib_1_1_piecewise_yo_y_inflation_curve.html" title="Piecewise year&#45;on&#45;year inflation term structure." alt="" coords="644,165,831,221"/>
+<area shape="poly" id="edge7_Node000001_Node000012" title=" " alt="" coords="580,136,657,165,651,165,579,142"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_yo_y_inflation_term_structure.html" title="Base class for year&#45;on&#45;year inflation term structures." alt="" coords="203,43,376,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="355,71,427,92,422,93,355,76"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_inflation_term_structure.html" title="Interface for inflation term structures." alt="" coords="5,43,155,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="169,53,204,55,200,57,171,58"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_interpolated_curve.html" title="Helper class to build interpolated term structures." alt="" coords="223,93,356,134"/>
+<area shape="poly" id="edge3_Node000001_Node000008" title=" " alt="" coords="370,111,426,113,421,114,371,116"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_interpolated_nodes.html" title="Node inspectors shared by interpolated term structures." alt="" coords="226,158,353,183"/>
+<area shape="poly" id="edge4_Node000001_Node000009" title=" " alt="" coords="354,150,422,135,427,134,356,156"/>
+</map>

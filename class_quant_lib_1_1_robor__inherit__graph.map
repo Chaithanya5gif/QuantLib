@@ -1,0 +1,7 @@
+<map id="Robor" name="Robor">
+<area shape="rect" id="Node000001" title="ROBOR rate" alt="" coords="40,153,96,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_ibor_index.html" title="base class for Inter&#45;Bank&#45;Offered&#45;Rate indexes (e.g. Libor, etc.)" alt="" coords="30,79,106,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,118,71,153,65,151,66,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_interest_rate_index.html" title="base class for interest rate indexes" alt="" coords="5,5,131,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="69,44,71,79,65,78,67,49"/>
+</map>

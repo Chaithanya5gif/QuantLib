@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_quant_lib_1_1_greeks.html" title="additional option results" alt="" coords="20,21,83,47"/>
+<area shape="rect" id="Node000001" href="$class_quant_lib_1_1_multi_asset_option_1_1results.html" title="Results from multi&#45;asset option calculation" alt="" coords="146,13,314,39"/>
+<area shape="poly" id="edge1437_Node000000_Node000001" title=" " alt="" coords="98,30,147,28,143,32,100,35"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_one_asset_option_1_1results.html" title="Results from single&#45;asset option calculation" alt="" coords="148,71,312,96"/>
+<area shape="poly" id="edge1439_Node000000_Node000003" title=" " alt="" coords="98,44,183,69,179,72,98,49"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_margrabe_option_1_1results.html" title="Extra results for Margrabe option." alt="" coords="376,5,536,31"/>
+<area shape="poly" id="edge1438_Node000001_Node000002" title=" " alt="" coords="329,20,378,20,373,22,330,25"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_quanto_option_results.html" title=" " alt="" coords="378,56,534,111"/>
+<area shape="poly" id="edge1440_Node000003_Node000004" title=" " alt="" coords="327,81,380,83,375,84,328,86"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_quanto_option_results.html" title=" " alt="" coords="362,135,550,176"/>
+<area shape="poly" id="edge1441_Node000003_Node000005" title=" " alt="" coords="288,99,392,134,387,135,287,104"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_more_greeks.html" title="more additional option results" alt="" coords="5,71,98,96"/>
+<area shape="poly" id="edge1442_Node000006_Node000003" title=" " alt="" coords="112,81,150,82,145,85,114,86"/>
+</map>

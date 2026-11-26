@@ -1,0 +1,13 @@
+<map id="Dividend" name="Dividend">
+<area shape="rect" id="Node000001" title="Predetermined cash flow." alt="" coords="92,153,164,178"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_fixed_dividend.html" title="Predetermined cash flow." alt="" coords="5,226,110,252"/>
+<area shape="poly" id="edge4_Node000001_Node000007" title=" " alt="" coords="108,189,71,228,68,224,103,190"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_fractional_dividend.html" title="Predetermined cash flow." alt="" coords="134,226,264,252"/>
+<area shape="poly" id="edge5_Node000001_Node000008" title=" " alt="" coords="152,187,190,226,184,226,149,192"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_cash_flow.html" title="Base class for cash flows." alt="" coords="88,79,168,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,118,131,153,126,151,127,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_event.html" title="Base class for event." alt="" coords="52,5,108,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,41,123,78,117,79,96,46"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_lazy_object.html" title="Framework for calculation on demand and result caching." alt="" coords="132,5,220,31"/>
+<area shape="poly" id="edge3_Node000002_Node000005" title=" " alt="" coords="161,42,138,80,134,77,158,46"/>
+</map>

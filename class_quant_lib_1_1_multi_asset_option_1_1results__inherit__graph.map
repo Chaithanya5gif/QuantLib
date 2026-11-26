@@ -1,0 +1,7 @@
+<map id="MultiAssetOption::results" name="MultiAssetOption::results">
+<area shape="rect" id="Node000001" title="Results from multi&#45;asset option calculation" alt="" coords="5,79,174,105"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_margrabe_option_1_1results.html" title="Extra results for Margrabe option." alt="" coords="59,153,120,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="91,118,92,153,87,151,88,122"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_greeks.html" title="additional option results" alt="" coords="58,5,121,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,44,92,79,87,78,88,49"/>
+</map>

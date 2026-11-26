@@ -1,0 +1,11 @@
+<map id="ContinuousFloatingLookbackOption::engine" name="ContinuousFloatingLookbackOption::engine">
+<area shape="rect" id="Node000001" title="Continuous floating lookback engine base class" alt="" coords="413,23,602,64"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_analytic_continuous_floating_lookback_engine.html" title="Pricing engine for European continuous floating&#45;strike lookback." alt="" coords="650,23,831,64"/>
+<area shape="poly" id="edge4_Node000001_Node000006" title=" " alt="" coords="618,41,652,43,647,44,618,46"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_generic_engine.html" title=" " alt="" coords="155,8,365,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="381,41,415,43,410,44,381,46"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_pricing_engine.html" title="interface for pricing engines" alt="" coords="5,5,107,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,24,157,30,152,31,122,29"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="19,55,93,80"/>
+<area shape="poly" id="edge3_Node000002_Node000005" title=" " alt="" coords="108,59,157,55,152,56,109,64"/>
+</map>

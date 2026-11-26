@@ -1,0 +1,29 @@
+<map id="BasketOption::engine" name="BasketOption::engine">
+<area shape="rect" id="Node000001" title="Basket&#45;option engine base class" alt="" coords="400,242,546,267"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_m_c_longstaff_schwartz_engine.html" title=" " alt="" coords="595,5,802,61"/>
+<area shape="poly" id="edge4_Node000001_Node000006" title=" " alt="" coords="484,226,525,150,556,108,593,71,614,60,610,63,596,75,560,111,529,153,488,229"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_choi_basket_engine.html" title="Pricing engine for basket option on multiple underlyings." alt="" coords="634,86,763,111"/>
+<area shape="poly" id="edge6_Node000001_Node000008" title=" " alt="" coords="489,226,531,172,560,144,593,120,636,106,631,108,596,125,564,148,535,176,493,230"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_deng_li_zhou_basket_engine.html" title="Pricing engine for basket option on multiple underlyings." alt="" coords="612,135,785,161"/>
+<area shape="poly" id="edge7_Node000001_Node000009" title=" " alt="" coords="500,229,542,198,593,169,627,160,622,162,595,174,545,203,503,234"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_fd2d_black_scholes_vanilla_engine.html" title="Two dimensional finite&#45;differences Black Scholes vanilla option engine." alt="" coords="594,184,803,210"/>
+<area shape="poly" id="edge8_Node000001_Node000010" title=" " alt="" coords="538,235,594,220,644,210,639,212,595,225,540,240"/>
+<area shape="rect" id="Node000011" href="$class_quant_lib_1_1_fdndim_black_scholes_vanilla_engine.html" title="n&#45;dimensional finite&#45;differences Black Scholes vanilla option engine" alt="" coords="607,234,790,275"/>
+<area shape="poly" id="edge9_Node000001_Node000011" title=" " alt="" coords="561,252,610,254,604,255,562,257"/>
+<area shape="rect" id="Node000012" href="$class_quant_lib_1_1_gaussian_copula_spread_engine.html" title="Gaussian copula engine for spread options with smile&#45;implied marginals." alt="" coords="599,299,798,325"/>
+<area shape="poly" id="edge10_Node000001_Node000012" title=" " alt="" coords="539,269,595,284,644,298,639,299,594,289,539,275"/>
+<area shape="rect" id="Node000013" href="$class_quant_lib_1_1_m_c_european_basket_engine.html" title="Pricing engine for European basket options using Monte Carlo simulation." alt="" coords="609,349,788,390"/>
+<area shape="poly" id="edge11_Node000001_Node000013" title=" " alt="" coords="503,275,546,306,596,335,624,348,618,348,593,340,543,310,502,280"/>
+<area shape="rect" id="Node000014" href="$class_quant_lib_1_1_single_factor_bsm_basket_engine.html" title="Pricing engine for baskets where all underlyings are driven by one stochastic factor." alt="" coords="597,414,800,439"/>
+<area shape="poly" id="edge12_Node000001_Node000014" title=" " alt="" coords="490,279,533,340,562,372,596,399,622,413,616,413,593,403,558,376,529,344,488,283"/>
+<area shape="rect" id="Node000015" href="$class_quant_lib_1_1_stulz_engine.html" title="Pricing engine for 2D European Baskets." alt="" coords="653,463,744,489"/>
+<area shape="poly" id="edge13_Node000001_Node000015" title=" " alt="" coords="485,280,501,320,524,365,556,411,596,450,623,463,655,473,650,473,622,468,593,454,552,415,520,368,496,322,482,284"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_generic_engine.html" title=" " alt="" coords="155,227,352,282"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="367,252,402,254,397,255,368,257"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_pricing_engine.html" title="interface for pricing engines" alt="" coords="5,216,107,242"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,235,157,240,152,243,123,240"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="19,266,93,291"/>
+<area shape="poly" id="edge3_Node000002_Node000005" title=" " alt="" coords="107,270,156,265,152,268,110,275"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_m_c_american_basket_engine.html" title="least&#45;square Monte Carlo engine" alt="" coords="851,13,1029,54"/>
+<area shape="poly" id="edge5_Node000006_Node000007" title=" " alt="" coords="817,31,853,32,848,34,818,36"/>
+</map>

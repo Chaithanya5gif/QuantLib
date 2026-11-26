@@ -1,0 +1,7 @@
+<map id="FactorSpreadedHazardRateCurve" name="FactorSpreadedHazardRateCurve">
+<area shape="rect" id="Node000001" title="Default&#45;probability structure with a multiplicative spread on hazard rates." alt="" coords="17,153,200,193"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_hazard_rate_structure.html" title="Hazard&#45;rate term structure." alt="" coords="36,79,181,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,118,111,153,106,151,107,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_default_probability_term_structure.html" title="Default probability term structure." alt="" coords="5,5,212,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,44,111,79,106,78,107,49"/>
+</map>

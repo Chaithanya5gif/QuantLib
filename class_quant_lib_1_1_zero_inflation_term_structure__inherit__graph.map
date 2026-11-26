@@ -1,0 +1,17 @@
+<map id="ZeroInflationTermStructure" name="ZeroInflationTermStructure">
+<area shape="rect" id="Node000001" title="Interface for zero inflation term structures." alt="" coords="354,68,529,94"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_interpolated_zero_inflation_curve.html" title=" " alt="" coords="577,28,739,68"/>
+<area shape="poly" id="edge3_Node000001_Node000007" title=" " alt="" coords="544,63,580,60,574,61,545,68"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_interpolated_zero_inflation_curve.html" title="Inflation term structure based on the interpolation of zero rates." alt="" coords="577,93,739,134"/>
+<area shape="poly" id="edge4_Node000001_Node000008" title=" " alt="" coords="545,94,579,101,574,101,545,99"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_inflation_term_structure.html" title="Interface for inflation term structures." alt="" coords="157,68,306,94"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="321,79,356,81,351,82,322,84"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_term_structure.html" title="Basic term&#45;structure functionality." alt="" coords="5,68,109,94"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,79,159,80,154,82,125,84"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_piecewise_zero_inflation_curve.html" title=" " alt="" coords="799,5,987,61"/>
+<area shape="poly" id="edge5_Node000008_Node000009" title=" " alt="" coords="734,85,807,62,812,61,735,90"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_piecewise_zero_inflation_curve.html" title=" " alt="" coords="787,85,999,141"/>
+<area shape="poly" id="edge6_Node000008_Node000010" title=" " alt="" coords="754,111,789,113,783,113,755,116"/>
+<area shape="rect" id="Node000011" href="$class_quant_lib_1_1_piecewise_zero_inflation_curve.html" title="Piecewise zero&#45;inflation term structure." alt="" coords="799,165,987,221"/>
+<area shape="poly" id="edge7_Node000008_Node000011" title=" " alt="" coords="735,136,812,165,806,165,734,142"/>
+</map>

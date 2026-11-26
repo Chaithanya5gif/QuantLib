@@ -1,0 +1,7 @@
+<map id="ExtendedCoxRossRubinstein" name="ExtendedCoxRossRubinstein">
+<area shape="rect" id="Node000001" title="Cox&#45;Ross&#45;Rubinstein (multiplicative) equal jumps binomial tree." alt="" coords="30,183,224,208"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_extended_equal_jumps_binomial_tree.html" title=" " alt="" coords="5,94,249,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,149,129,183,125,181,125,152"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_extended_binomial_tree.html" title=" " alt="" coords="18,5,236,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="128,59,130,94,124,93,126,64"/>
+</map>

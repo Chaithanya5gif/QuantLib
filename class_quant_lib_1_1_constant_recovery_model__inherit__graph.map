@@ -1,0 +1,9 @@
+<map id="ConstantRecoveryModel" name="ConstantRecoveryModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="58,153,224,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_recovery_rate_model.html" title=" " alt="" coords="5,79,146,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,114,132,152,127,152,95,118"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="32,5,119,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,44,78,79,73,78,74,49"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="170,79,245,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="189,115,154,154,151,150,184,117"/>
+</map>

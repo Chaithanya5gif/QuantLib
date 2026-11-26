@@ -1,0 +1,7 @@
+<map id="BachelierYoYInflationCouponPricer" name="BachelierYoYInflationCouponPricer">
+<area shape="rect" id="Node000001" title="Bachelier&#45;formula pricer for capped/floored yoy inflation coupons." alt="" coords="5,153,196,193"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_yo_y_inflation_coupon_pricer.html" title="base pricer for capped/floored YoY inflation coupons" alt="" coords="15,79,186,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,118,103,153,98,151,99,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_inflation_coupon_pricer.html" title="Base inflation&#45;coupon pricer." alt="" coords="27,5,174,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,44,103,79,98,78,99,49"/>
+</map>

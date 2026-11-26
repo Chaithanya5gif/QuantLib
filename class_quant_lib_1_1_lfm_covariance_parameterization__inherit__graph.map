@@ -1,0 +1,7 @@
+<map id="LfmCovarianceParameterization" name="LfmCovarianceParameterization">
+<area shape="rect" id="Node000001" title="Libor market model parameterization" alt="" coords="71,5,278,31"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_lfm_covariance_proxy.html" title="proxy for a libor forward model covariance parameterization" alt="" coords="5,79,149,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,40,95,81,92,76,143,41"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_lfm_hull_white_parameterization.html" title="Libor market model parameterization based on Hull White paper" alt="" coords="172,79,371,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,38,258,79,253,79,202,43"/>
+</map>

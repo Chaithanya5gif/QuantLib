@@ -1,0 +1,7 @@
+<map id="KernelInterpolation" name="KernelInterpolation">
+<area shape="rect" id="Node000001" title="Kernel interpolation between discrete points." alt="" coords="5,153,135,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_interpolation.html" title="base class for 1&#45;D interpolations." alt="" coords="24,79,116,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,118,73,153,67,151,68,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_extrapolator.html" title="base class for classes possibly allowing extrapolation" alt="" coords="24,5,116,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="71,44,73,79,67,78,69,49"/>
+</map>

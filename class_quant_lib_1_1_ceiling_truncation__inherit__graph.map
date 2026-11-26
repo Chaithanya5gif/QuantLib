@@ -1,0 +1,5 @@
+<map id="CeilingTruncation" name="CeilingTruncation">
+<area shape="rect" id="Node000001" title="Ceiling truncation." alt="" coords="5,79,128,105"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_rounding.html" title=" " alt="" coords="28,5,105,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,45,69,79,64,78,65,48"/>
+</map>

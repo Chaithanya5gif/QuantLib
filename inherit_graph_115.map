@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_quant_lib_1_1_curiously_recurring_template.html" title=" " alt="" coords="5,5,191,46"/>
+<area shape="rect" id="Node000001" href="$class_quant_lib_1_1_tree.html" title=" " alt="" coords="239,13,335,38"/>
+<area shape="poly" id="edge1235_Node000000_Node000001" title=" " alt="" coords="206,23,241,26,236,26,207,28"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_binomial_tree.html" title=" " alt="" coords="383,13,529,38"/>
+<area shape="poly" id="edge1236_Node000001_Node000002" title=" " alt="" coords="351,23,385,26,380,26,351,28"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_tian.html" title="Tian tree: third moment matching, multiplicative approach" alt="" coords="577,13,624,38"/>
+<area shape="poly" id="edge1237_Node000002_Node000003" title=" " alt="" coords="545,23,580,26,574,26,545,28"/>
+</map>

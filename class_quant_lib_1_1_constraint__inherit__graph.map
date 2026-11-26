@@ -1,0 +1,13 @@
+<map id="Constraint" name="Constraint">
+<area shape="rect" id="Node000001" title="Base constraint class." alt="" coords="5,104,87,130"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_boundary_constraint.html" title="Constraint imposing all arguments to be in [low,high]" alt="" coords="187,5,324,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,91,97,64,134,40,189,24,185,27,136,45,100,68,71,94"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_composite_constraint.html" title="Constraint enforcing both given sub&#45;constraints" alt="" coords="183,55,328,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="100,98,134,89,185,79,181,82,135,94,103,103"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_no_constraint.html" title="No constraint." alt="" coords="206,104,304,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="102,114,207,115,204,119,103,119"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_nonhomogeneous_boundary_constraint.html" title="Constraint imposing i&#45;th argument to be in [low_i,high_i] for all i" alt="" coords="135,153,376,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="101,131,135,140,184,152,179,154,134,145,102,136"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_positive_constraint.html" title="Constraint imposing positivity to all arguments" alt="" coords="191,203,320,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="70,138,100,166,136,189,163,199,193,209,188,209,161,205,133,194,97,170,68,144"/>
+</map>

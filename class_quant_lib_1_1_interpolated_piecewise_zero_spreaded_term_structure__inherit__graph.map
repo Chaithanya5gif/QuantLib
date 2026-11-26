@@ -1,0 +1,7 @@
+<map id="InterpolatedPiecewiseZeroSpreadedTermStructure&lt; Interpolator &gt;" name="InterpolatedPiecewiseZeroSpreadedTermStructure&lt; Interpolator &gt;">
+<area shape="rect" id="Node000001" title="Yield curve with an added vector of spreads on the zero&#45;yield rate." alt="" coords="21,183,196,238"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_relative_derived_yield_term_structure.html" title=" " alt="" coords="5,94,212,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,148,111,183,106,181,107,152"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_derived_yield_term_structure.html" title=" " alt="" coords="20,5,197,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,59,111,94,106,93,108,64"/>
+</map>

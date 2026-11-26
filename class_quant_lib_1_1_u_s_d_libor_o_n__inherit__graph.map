@@ -1,0 +1,7 @@
+<map id="USDLiborON" name="USDLiborON">
+<area shape="rect" id="Node000001" title="Overnight USD Libor index." alt="" coords="26,153,125,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_daily_tenor_u_s_d_libor.html" title="base class for the one day deposit ICE USD LIBOR indexes" alt="" coords="5,79,146,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,118,78,153,73,151,74,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_daily_tenor_libor.html" title="base class for all O/N&#45;S/N BBA LIBOR indexes but the EUR ones" alt="" coords="20,5,131,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,44,78,79,73,78,74,49"/>
+</map>

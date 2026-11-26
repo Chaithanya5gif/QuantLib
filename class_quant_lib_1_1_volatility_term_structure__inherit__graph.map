@@ -1,0 +1,63 @@
+<map id="VolatilityTermStructure" name="VolatilityTermStructure">
+<area shape="rect" id="Node000001" title="Volatility term structure." alt="" coords="296,376,449,402"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_black_atm_vol_curve.html" title="Black at&#45;the&#45;money (no&#45;smile) volatility curve." alt="" coords="534,55,667,80"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="380,360,397,315,422,258,455,196,495,139,534,104,576,79,572,83,537,108,499,143,459,199,426,260,402,317,385,363"/>
+<area shape="rect" id="Node000012" href="$class_quant_lib_1_1_black_vol_term_structure.html" title="Black&#45;volatility term structure." alt="" coords="523,153,678,179"/>
+<area shape="poly" id="edge8_Node000001_Node000012" title=" " alt="" coords="390,362,435,303,496,238,537,204,579,178,575,181,540,208,499,241,439,306,394,365"/>
+<area shape="rect" id="Node000023" href="$class_quant_lib_1_1_c_p_i_volatility_surface.html" title="zero inflation (i.e. CPI/RPI/HICP/etc.) volatility structures" alt="" coords="531,252,670,278"/>
+<area shape="poly" id="edge11_Node000001_Node000023" title=" " alt="" coords="406,365,496,312,572,276,568,280,499,317,409,369"/>
+<area shape="rect" id="Node000025" href="$class_quant_lib_1_1_cap_floor_term_volatility_structure.html" title="Cap/floor term&#45;volatility structure." alt="" coords="497,327,704,352"/>
+<area shape="poly" id="edge13_Node000001_Node000025" title=" " alt="" coords="449,370,540,351,536,354,452,374"/>
+<area shape="rect" id="Node000029" href="$class_quant_lib_1_1_local_vol_term_structure.html" title=" " alt="" coords="524,425,677,451"/>
+<area shape="poly" id="edge17_Node000001_Node000029" title=" " alt="" coords="450,403,540,424,535,426,451,408"/>
+<area shape="rect" id="Node000033" href="$class_quant_lib_1_1_optionlet_volatility_structure.html" title="Optionlet (caplet/floorlet) volatility structure." alt="" coords="512,548,689,574"/>
+<area shape="poly" id="edge21_Node000001_Node000033" title=" " alt="" coords="404,409,584,547,579,548,403,414"/>
+<area shape="rect" id="Node000036" href="$class_quant_lib_1_1_swaption_volatility_structure.html" title="Swaption&#45;volatility structure" alt="" coords="511,621,690,647"/>
+<area shape="poly" id="edge24_Node000001_Node000036" title=" " alt="" coords="386,413,429,497,461,543,499,584,528,604,560,621,555,621,525,609,496,588,457,546,425,500,384,419"/>
+<area shape="rect" id="Node000038" href="$class_quant_lib_1_1_yo_y_optionlet_volatility_surface.html" title=" " alt="" coords="504,761,697,787"/>
+<area shape="poly" id="edge26_Node000001_Node000038" title=" " alt="" coords="384,414,429,525,462,592,500,658,545,716,587,761,582,760,541,719,495,661,457,595,424,527,382,419"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_term_structure.html" title="Basic term&#45;structure functionality." alt="" coords="145,376,248,402"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,387,298,387,293,390,265,391"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="14,327,88,352"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,355,158,374,154,377,104,359"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="7,376,95,402"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="109,387,146,387,142,391,112,391"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_extrapolator.html" title="base class for classes possibly allowing extrapolation" alt="" coords="5,425,97,451"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="104,418,158,400,154,404,107,422"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_abcd_atm_vol_curve.html" title="Abcd&#45;interpolated at&#45;the&#45;money (no&#45;smile) volatility curve." alt="" coords="798,5,928,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="681,50,800,29,795,32,683,55"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_black_vol_surface.html" title="Black volatility (smile) surface." alt="" coords="804,55,922,80"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="681,65,806,66,801,69,683,70"/>
+<area shape="rect" id="Node000013" href="$class_quant_lib_1_1_black_variance_term_structure.html" title="Black variance term structure." alt="" coords="770,104,956,130"/>
+<area shape="poly" id="edge9_Node000012_Node000013" title=" " alt="" coords="687,147,793,129,788,132,689,152"/>
+<area shape="rect" id="Node000020" href="$class_quant_lib_1_1_black_volatility_term_structure.html" title="Black&#45;volatility term structure." alt="" coords="770,153,956,179"/>
+<area shape="poly" id="edge10_Node000012_Node000020" title=" " alt="" coords="693,164,772,165,767,167,695,169"/>
+<area shape="rect" id="Node000024" href="$class_quant_lib_1_1_constant_c_p_i_volatility.html" title="Constant surface, no K or T dependence." alt="" coords="789,203,936,228"/>
+<area shape="poly" id="edge12_Node000023_Node000024" title=" " alt="" coords="684,247,793,228,788,230,687,251"/>
+<area shape="rect" id="Node000026" href="$class_quant_lib_1_1_cap_floor_term_vol_curve.html" title="Cap/floor at&#45;the&#45;money term&#45;volatility vector." alt="" coords="784,252,942,278"/>
+<area shape="poly" id="edge14_Node000025_Node000026" title=" " alt="" coords="651,319,751,286,797,277,792,279,752,291,653,323"/>
+<area shape="rect" id="Node000027" href="$class_quant_lib_1_1_cap_floor_term_vol_surface.html" title="Cap/floor smile volatility surface." alt="" coords="779,301,946,327"/>
+<area shape="poly" id="edge15_Node000025_Node000027" title=" " alt="" coords="718,326,781,321,776,323,720,331"/>
+<area shape="rect" id="Node000028" href="$class_quant_lib_1_1_constant_cap_floor_term_volatility.html" title="Constant caplet volatility, no time&#45;strike dependence." alt="" coords="760,351,966,376"/>
+<area shape="poly" id="edge16_Node000025_Node000028" title=" " alt="" coords="718,348,762,353,757,355,720,353"/>
+<area shape="rect" id="Node000030" href="$class_quant_lib_1_1_local_constant_vol.html" title="Constant local volatility, no time&#45;strike dependence." alt="" coords="801,400,925,426"/>
+<area shape="poly" id="edge18_Node000029_Node000030" title=" " alt="" coords="692,427,802,418,798,420,693,432"/>
+<area shape="rect" id="Node000031" href="$class_quant_lib_1_1_local_vol_curve.html" title="Local volatility curve derived from a Black curve." alt="" coords="810,449,916,475"/>
+<area shape="poly" id="edge19_Node000029_Node000031" title=" " alt="" coords="692,444,812,457,807,458,693,449"/>
+<area shape="rect" id="Node000032" href="$class_quant_lib_1_1_local_vol_surface.html" title="Local volatility surface derived from a Black vol surface." alt="" coords="805,499,921,524"/>
+<area shape="poly" id="edge20_Node000029_Node000032" title=" " alt="" coords="653,454,752,485,807,500,802,501,751,490,653,459"/>
+<area shape="rect" id="Node000034" href="$class_quant_lib_1_1_constant_optionlet_volatility.html" title="Constant caplet volatility, no time&#45;strike dependence." alt="" coords="775,548,951,574"/>
+<area shape="poly" id="edge22_Node000033_Node000034" title=" " alt="" coords="704,558,777,560,772,562,705,563"/>
+<area shape="rect" id="Node000035" href="$class_quant_lib_1_1_stripped_optionlet_adapter.html" title=" " alt="" coords="780,597,946,623"/>
+<area shape="poly" id="edge23_Node000033_Node000035" title=" " alt="" coords="688,574,793,596,788,597,688,580"/>
+<area shape="rect" id="Node000037" href="$class_quant_lib_1_1_constant_swaption_volatility.html" title="Constant swaption volatility, no time&#45;strike dependence." alt="" coords="774,647,952,672"/>
+<area shape="poly" id="edge25_Node000036_Node000037" title=" " alt="" coords="704,642,776,650,770,651,705,647"/>
+<area shape="rect" id="Node000039" href="$class_quant_lib_1_1_interpolated_yo_y_optionlet_volatility_curve.html" title=" " alt="" coords="765,696,960,737"/>
+<area shape="poly" id="edge27_Node000038_Node000039" title=" " alt="" coords="677,755,769,737,764,738,678,760"/>
+<area shape="rect" id="Node000043" href="$class_quant_lib_1_1_constant_yo_y_optionlet_volatility.html" title="Constant surface, no K or T dependence." alt="" coords="763,761,963,787"/>
+<area shape="poly" id="edge28_Node000038_Node000043" title=" " alt="" coords="712,772,765,774,760,774,712,777"/>
+<area shape="rect" id="Node000044" href="$class_quant_lib_1_1_interpolated_yo_y_optionlet_volatility_curve.html" title="Interpolated flat smile surface." alt="" coords="757,811,969,852"/>
+<area shape="poly" id="edge29_Node000038_Node000044" title=" " alt="" coords="678,788,769,810,764,811,678,794"/>
+<area shape="rect" id="Node000045" href="$class_quant_lib_1_1_k_interpolated_yo_y_optionlet_volatility_surface.html" title="K&#45;interpolated YoY optionlet volatility." alt="" coords="752,876,974,917"/>
+<area shape="poly" id="edge30_Node000038_Node000045" title=" " alt="" coords="634,793,689,828,753,861,786,876,781,875,751,866,686,832,633,799"/>
+</map>

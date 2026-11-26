@@ -1,0 +1,7 @@
+<map id="CappedFlooredOvernightIndexedCoupon" name="CappedFlooredOvernightIndexedCoupon">
+<area shape="rect" id="Node000001" title="capped floored overnight indexed coupon" alt="" coords="5,153,217,193"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_floating_rate_coupon.html" title="base floating&#45;rate coupon class" alt="" coords="41,79,181,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,118,113,153,109,151,109,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_coupon.html" title="coupon accruing over a fixed period" alt="" coords="78,5,144,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,44,114,79,108,78,110,49"/>
+</map>

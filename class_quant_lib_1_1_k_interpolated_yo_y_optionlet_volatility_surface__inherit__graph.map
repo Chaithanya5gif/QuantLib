@@ -1,0 +1,7 @@
+<map id="KInterpolatedYoYOptionletVolatilitySurface&lt; Interpolator1D &gt;" name="KInterpolatedYoYOptionletVolatilitySurface&lt; Interpolator1D &gt;">
+<area shape="rect" id="Node000001" title="K&#45;interpolated YoY optionlet volatility." alt="" coords="5,153,228,193"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_yo_y_optionlet_volatility_surface.html" title=" " alt="" coords="20,79,213,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,118,119,153,114,151,115,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_volatility_term_structure.html" title="Volatility term structure." alt="" coords="40,5,193,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="118,44,119,79,114,78,115,49"/>
+</map>

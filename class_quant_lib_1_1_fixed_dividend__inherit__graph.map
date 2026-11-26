@@ -1,0 +1,7 @@
+<map id="FixedDividend" name="FixedDividend">
+<area shape="rect" id="Node000001" title="Predetermined cash flow." alt="" coords="5,153,110,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_dividend.html" title="Predetermined cash flow." alt="" coords="21,79,94,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,118,60,153,55,151,56,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_cash_flow.html" title="Base class for cash flows." alt="" coords="17,5,98,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="58,44,60,79,55,78,57,49"/>
+</map>

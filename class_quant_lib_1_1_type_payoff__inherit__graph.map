@@ -1,0 +1,23 @@
+<map id="TypePayoff" name="TypePayoff">
+<area shape="rect" id="Node000001" title="Intermediate class for put/call payoffs." alt="" coords="113,129,200,155"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_floating_type_payoff.html" title="Payoff based on a floating strike" alt="" coords="248,104,381,130"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,130,250,126,245,129,217,135"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_striked_type_payoff.html" title="Intermediate class for payoffs based on a fixed strike." alt="" coords="250,153,379,179"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="215,148,253,156,248,157,216,154"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_payoff.html" title="Abstract base class for option payoffs." alt="" coords="5,129,65,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,140,114,141,110,144,81,145"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_asset_or_nothing_payoff.html" title="Binary asset&#45;or&#45;nothing payoff." alt="" coords="433,5,585,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="377,143,379,140,390,128,396,116,402,91,409,66,416,53,428,40,448,30,444,33,431,44,420,56,414,68,408,92,401,118,395,131,383,144,380,147"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_cash_or_nothing_payoff.html" title="Binary cash&#45;or&#45;nothing payoff." alt="" coords="434,55,584,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="373,144,380,140,394,128,403,115,412,102,428,89,454,80,449,82,431,94,416,106,407,118,398,131,383,144,376,149"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_gap_payoff.html" title="Binary gap payoff." alt="" coords="467,104,551,130"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="382,146,469,126,464,128,384,151"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_percentage_strike_payoff.html" title="Payoff with strike expressed as percentage" alt="" coords="429,153,589,179"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="394,164,431,166,426,167,395,169"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_plain_vanilla_payoff.html" title="Plain&#45;vanilla payoff." alt="" coords="446,203,572,228"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="383,181,458,202,453,202,383,186"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_super_fund_payoff.html" title="Binary supershare and superfund payoffs." alt="" coords="448,252,570,278"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="345,186,385,213,430,238,459,252,454,251,428,243,382,218,344,191"/>
+<area shape="rect" id="Node000011" href="$class_quant_lib_1_1_super_share_payoff.html" title="Binary supershare payoff." alt="" coords="445,301,573,327"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="334,189,375,240,402,266,431,288,453,301,448,300,428,292,398,270,371,244,332,194"/>
+</map>

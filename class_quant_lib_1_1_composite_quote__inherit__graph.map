@@ -1,0 +1,9 @@
+<map id="CompositeQuote&lt; BinaryFunction &gt;" name="CompositeQuote&lt; BinaryFunction &gt;">
+<area shape="rect" id="Node000001" title="market element whose value depends on two other market element" alt="" coords="5,153,236,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_quote.html" title="purely virtual base class for market observables" alt="" coords="48,79,105,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,116,116,152,110,152,90,120"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="33,5,120,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,44,79,79,74,78,75,49"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="129,79,203,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,116,130,154,126,150,148,119"/>
+</map>

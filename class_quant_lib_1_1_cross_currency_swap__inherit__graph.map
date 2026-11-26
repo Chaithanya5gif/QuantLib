@@ -1,0 +1,15 @@
+<map id="CrossCurrencySwap" name="CrossCurrencySwap">
+<area shape="rect" id="Node000001" title="Generic cross&#45;currency swap." alt="" coords="257,153,399,178"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_const_notional_cross_currency_swap.html" title="Generic constant&#45;notional cross currency swap." alt="" coords="97,226,322,252"/>
+<area shape="poly" id="edge3_Node000001_Node000007" title=" " alt="" coords="298,185,231,228,228,223,293,188"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_mt_m_cross_currency_basis_swap.html" title="Mark&#45;to&#45;market cross&#45;currency basis swap." alt="" coords="346,226,548,252"/>
+<area shape="poly" id="edge6_Node000001_Node000010" title=" " alt="" coords="362,184,429,226,424,226,361,189"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_swap.html" title="Interest rate swap." alt="" coords="301,79,355,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="330,118,331,153,326,151,327,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_instrument.html" title="Abstract instrument class." alt="" coords="286,5,370,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,44,331,80,326,78,327,49"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_const_notional_cross_currency_basis_swap.html" title="Cross&#45;currency basis swap." alt="" coords="5,300,198,341"/>
+<area shape="poly" id="edge4_Node000007_Node000008" title=" " alt="" coords="184,260,130,302,127,297,178,262"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_const_notional_cross_currency_fixed_vs_floating_swap.html" title=" " alt="" coords="221,300,414,341"/>
+<area shape="poly" id="edge5_Node000007_Node000009" title=" " alt="" coords="239,259,294,300,288,300,237,264"/>
+</map>

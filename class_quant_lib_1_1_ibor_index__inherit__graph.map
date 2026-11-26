@@ -1,0 +1,137 @@
+<map id="IborIndex" name="IborIndex">
+<area shape="rect" id="Node000001" title="base class for Inter&#45;Bank&#45;Offered&#45;Rate indexes (e.g. Libor, etc.)" alt="" coords="280,1633,355,1659"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_bbsw.html" title="Bbsw index" alt="" coords="446,153,501,179"/>
+<area shape="poly" id="edge3_Node000001_Node000006" title=" " alt="" coords="316,1617,319,1442,331,1152,356,799,376,616,401,436,416,359,434,284,469,177,467,182,440,286,421,360,406,437,381,617,361,800,336,1152,325,1442,322,1618"/>
+<area shape="rect" id="Node000013" href="$class_quant_lib_1_1_bibor.html" title="Bibor index" alt="" coords="448,449,499,475"/>
+<area shape="poly" id="edge10_Node000001_Node000013" title=" " alt="" coords="317,1617,324,1481,338,1263,363,1001,380,865,401,732,435,581,469,473,467,478,440,582,406,733,385,866,368,1001,344,1263,329,1481,323,1618"/>
+<area shape="rect" id="Node000020" href="$class_quant_lib_1_1_bkbm.html" title="Bkbm index" alt="" coords="446,745,501,771"/>
+<area shape="poly" id="edge17_Node000001_Node000020" title=" " alt="" coords="318,1617,324,1509,339,1345,363,1151,380,1051,401,954,433,847,467,769,465,774,438,849,406,955,386,1052,369,1152,344,1345,330,1510,323,1618"/>
+<area shape="rect" id="Node000027" href="$class_quant_lib_1_1_cdor.html" title="CDOR rate" alt="" coords="449,967,498,992"/>
+<area shape="poly" id="edge24_Node000001_Node000027" title=" " alt="" coords="316,1617,319,1488,329,1305,340,1210,355,1124,375,1052,387,1024,401,1002,423,986,451,980,447,983,426,991,405,1005,392,1026,380,1054,360,1125,345,1211,335,1305,324,1488,322,1618"/>
+<area shape="rect" id="Node000028" href="$class_quant_lib_1_1_custom_ibor_index.html" title=" " alt="" coords="413,1016,534,1042"/>
+<area shape="poly" id="edge25_Node000001_Node000028" title=" " alt="" coords="317,1617,320,1497,332,1328,343,1242,357,1163,377,1097,388,1071,401,1051,418,1040,415,1044,405,1055,393,1074,382,1099,362,1164,348,1243,337,1329,325,1497,322,1618"/>
+<area shape="rect" id="Node000029" href="$class_quant_lib_1_1_daily_tenor_e_u_r_libor.html" title="base class for the one day deposit ICE EUR LIBOR indexes" alt="" coords="403,1065,544,1091"/>
+<area shape="poly" id="edge26_Node000001_Node000029" title=" " alt="" coords="317,1618,322,1507,335,1352,346,1274,360,1202,378,1142,401,1100,418,1089,415,1094,405,1104,383,1144,365,1203,351,1275,340,1353,327,1507,322,1619"/>
+<area shape="rect" id="Node000031" href="$class_quant_lib_1_1_daily_tenor_libor.html" title="base class for all O/N&#45;S/N BBA LIBOR indexes but the EUR ones" alt="" coords="418,1115,529,1140"/>
+<area shape="poly" id="edge28_Node000001_Node000031" title=" " alt="" coords="321,1617,349,1469,372,1372,401,1275,433,1197,466,1139,464,1143,438,1200,406,1276,377,1373,354,1470,326,1619"/>
+<area shape="rect" id="Node000039" href="$class_quant_lib_1_1_e_u_r_libor.html" title="base class for all ICE EUR LIBOR indexes but the O/N" alt="" coords="434,1288,513,1314"/>
+<area shape="poly" id="edge34_Node000001_Node000039" title=" " alt="" coords="328,1618,465,1316,468,1312,333,1620"/>
+<area shape="rect" id="Node000044" href="$class_quant_lib_1_1_euribor.html" title="Euribor index" alt="" coords="442,1485,505,1511"/>
+<area shape="poly" id="edge39_Node000001_Node000044" title=" " alt="" coords="329,1618,357,1568,378,1542,402,1520,421,1509,444,1503,440,1506,423,1514,405,1524,382,1546,362,1571,333,1620"/>
+<area shape="rect" id="Node000050" href="$class_quant_lib_1_1_euribor365.html" title="Actual/365 Euribor index." alt="" coords="432,1535,515,1560"/>
+<area shape="poly" id="edge45_Node000001_Node000050" title=" " alt="" coords="339,1620,368,1594,402,1569,433,1557,429,1561,405,1574,371,1598,343,1624"/>
+<area shape="rect" id="Node000051" href="$class_quant_lib_1_1_jibar.html" title="JIBAR rate" alt="" coords="449,1584,498,1610"/>
+<area shape="poly" id="edge46_Node000001_Node000051" title=" " alt="" coords="369,1627,450,1603,446,1606,372,1632"/>
+<area shape="rect" id="Node000052" href="$class_quant_lib_1_1_libor.html" title="base class for all ICE LIBOR indexes but the EUR, O/N, and S/N ones" alt="" coords="449,1633,498,1659"/>
+<area shape="poly" id="edge47_Node000001_Node000052" title=" " alt="" coords="370,1644,450,1645,446,1648,372,1649"/>
+<area shape="rect" id="Node000062" href="$class_quant_lib_1_1_mosprime.html" title="MOSPRIME rate" alt="" coords="434,1683,513,1708"/>
+<area shape="poly" id="edge57_Node000001_Node000062" title=" " alt="" coords="370,1660,437,1682,432,1684,371,1665"/>
+<area shape="rect" id="Node000063" href="$class_quant_lib_1_1_nibor.html" title="NOK&#45;NIBOR index." alt="" coords="447,1732,500,1758"/>
+<area shape="poly" id="edge58_Node000001_Node000063" title=" " alt="" coords="341,1668,371,1694,405,1719,449,1738,444,1739,402,1723,368,1699,341,1673"/>
+<area shape="rect" id="Node000064" href="$class_quant_lib_1_1_pribor.html" title="PRIBOR rate" alt="" coords="446,1781,501,1807"/>
+<area shape="poly" id="edge59_Node000001_Node000064" title=" " alt="" coords="331,1671,362,1721,382,1746,405,1768,425,1779,448,1788,443,1790,423,1784,402,1772,378,1750,357,1724,331,1676"/>
+<area shape="rect" id="Node000065" href="$class_quant_lib_1_1_proxy_ibor.html" title="IborIndex calculated as proxy of some other IborIndex." alt="" coords="435,1831,512,1856"/>
+<area shape="poly" id="edge60_Node000001_Node000065" title=" " alt="" coords="326,1672,338,1707,354,1745,376,1784,405,1818,419,1827,437,1836,432,1837,417,1832,402,1821,372,1787,349,1748,333,1708,325,1677"/>
+<area shape="rect" id="Node000066" href="$class_quant_lib_1_1_robor.html" title="ROBOR rate" alt="" coords="445,1880,502,1906"/>
+<area shape="poly" id="edge61_Node000001_Node000066" title=" " alt="" coords="323,1672,332,1716,347,1768,371,1821,386,1845,405,1867,424,1879,447,1888,442,1889,422,1884,402,1871,382,1849,366,1824,342,1770,327,1717,321,1677"/>
+<area shape="rect" id="Node000067" href="$class_quant_lib_1_1_stub_ibor_coupon_1_1_weighted_index.html" title="Index fixing as a fixed&#45;weight linear combination of Ibor indices" alt="" coords="420,1929,527,1955"/>
+<area shape="poly" id="edge62_Node000001_Node000067" title=" " alt="" coords="320,1672,327,1726,340,1791,365,1858,383,1889,405,1916,422,1930,417,1930,401,1920,379,1892,360,1860,335,1792,322,1727,319,1677"/>
+<area shape="rect" id="Node000068" href="$class_quant_lib_1_1_t_h_b_f_i_x.html" title="THB THBFIX rate" alt="" coords="439,1979,508,2004"/>
+<area shape="poly" id="edge63_Node000001_Node000068" title=" " alt="" coords="319,1672,323,1734,334,1812,345,1853,360,1894,380,1932,405,1966,421,1977,441,1986,436,1987,418,1982,401,1969,375,1935,355,1896,340,1855,329,1813,318,1735,317,1677"/>
+<area shape="rect" id="Node000069" href="$class_quant_lib_1_1_t_r_libor.html" title="TRY LIBOR rate" alt="" coords="440,2028,507,2054"/>
+<area shape="poly" id="edge64_Node000001_Node000069" title=" " alt="" coords="323,1672,334,1753,351,1855,375,1952,389,1989,405,2015,421,2027,442,2036,437,2036,419,2032,401,2019,385,1992,370,1953,346,1856,329,1754,321,1677"/>
+<area shape="rect" id="Node000070" href="$class_quant_lib_1_1_tibor.html" title="JPY TIBOR index" alt="" coords="448,2077,499,2103"/>
+<area shape="poly" id="edge65_Node000001_Node000070" title=" " alt="" coords="322,1672,332,1763,348,1879,372,1991,388,2035,405,2064,425,2078,450,2088,445,2088,423,2083,401,2068,383,2037,367,1993,343,1880,327,1763,320,1677"/>
+<area shape="rect" id="Node000071" href="$class_quant_lib_1_1_wibor.html" title="WIBOR rate" alt="" coords="446,2127,501,2152"/>
+<area shape="poly" id="edge66_Node000001_Node000071" title=" " alt="" coords="321,1672,330,1773,345,1904,356,1970,369,2030,386,2080,405,2114,424,2127,448,2137,443,2137,422,2132,401,2117,381,2082,364,2032,351,1971,340,1905,325,1773,320,1677"/>
+<area shape="rect" id="Node000072" href="$class_quant_lib_1_1_zibor.html" title="CHF ZIBOR rate" alt="" coords="448,2176,499,2202"/>
+<area shape="poly" id="edge67_Node000001_Node000072" title=" " alt="" coords="321,1672,328,1781,342,1928,353,2002,367,2069,384,2125,405,2163,425,2177,451,2187,445,2186,423,2182,401,2167,379,2127,361,2071,347,2003,337,1928,323,1782,319,1677"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_interest_rate_index.html" title="base class for interest rate indexes" alt="" coords="107,1633,232,1659"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,1644,282,1645,277,1648,249,1648"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_index.html" title="purely virtual base class for indexes" alt="" coords="5,1633,59,1659"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,1644,108,1644,104,1648,76,1648"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_bbsw1_m.html" title="1&#45;month Bbsw index" alt="" coords="626,5,698,31"/>
+<area shape="poly" id="edge4_Node000006_Node000007" title=" " alt="" coords="490,140,533,89,560,63,590,40,627,25,623,29,593,44,564,67,537,93,495,142"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_bbsw2_m.html" title="2&#45;months Bbsw index" alt="" coords="626,55,698,80"/>
+<area shape="poly" id="edge5_Node000006_Node000008" title=" " alt="" coords="503,143,544,115,591,89,627,76,623,80,593,94,547,120,507,146"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_bbsw3_m.html" title="3&#45;months Bbsw index" alt="" coords="626,104,698,130"/>
+<area shape="poly" id="edge6_Node000006_Node000009" title=" " alt="" coords="514,153,627,124,623,128,517,157"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_bbsw4_m.html" title="4&#45;months Bbsw index" alt="" coords="626,153,698,179"/>
+<area shape="poly" id="edge7_Node000006_Node000010" title=" " alt="" coords="514,164,627,164,623,168,518,168"/>
+<area shape="rect" id="Node000011" href="$class_quant_lib_1_1_bbsw5_m.html" title="5&#45;months Bbsw index" alt="" coords="626,203,698,228"/>
+<area shape="poly" id="edge8_Node000006_Node000011" title=" " alt="" coords="514,175,627,205,623,208,517,179"/>
+<area shape="rect" id="Node000012" href="$class_quant_lib_1_1_bbsw6_m.html" title="6&#45;months Bbsw index" alt="" coords="626,252,698,278"/>
+<area shape="poly" id="edge9_Node000006_Node000012" title=" " alt="" coords="504,186,547,213,593,238,628,253,623,255,591,243,544,217,506,191"/>
+<area shape="rect" id="Node000014" href="$class_quant_lib_1_1_bibor1_m.html" title="1&#45;month Bibor index" alt="" coords="627,301,696,327"/>
+<area shape="poly" id="edge11_Node000013_Node000014" title=" " alt="" coords="490,436,533,385,560,359,590,336,629,320,625,324,593,340,564,363,537,389,495,438"/>
+<area shape="rect" id="Node000015" href="$class_quant_lib_1_1_bibor1_y.html" title="1&#45;year Bibor index" alt="" coords="628,351,696,376"/>
+<area shape="poly" id="edge12_Node000013_Node000015" title=" " alt="" coords="503,439,544,411,591,385,629,371,626,375,593,390,547,416,507,442"/>
+<area shape="rect" id="Node000016" href="$class_quant_lib_1_1_bibor2_m.html" title="2&#45;months Bibor index" alt="" coords="627,400,696,426"/>
+<area shape="poly" id="edge13_Node000013_Node000016" title=" " alt="" coords="512,450,629,420,625,424,516,454"/>
+<area shape="rect" id="Node000017" href="$class_quant_lib_1_1_bibor3_m.html" title="3&#45;months Bibor index" alt="" coords="627,449,696,475"/>
+<area shape="poly" id="edge14_Node000013_Node000017" title=" " alt="" coords="513,460,629,461,625,464,516,464"/>
+<area shape="rect" id="Node000018" href="$class_quant_lib_1_1_bibor6_m.html" title="6&#45;months Bibor index" alt="" coords="627,499,696,524"/>
+<area shape="poly" id="edge15_Node000013_Node000018" title=" " alt="" coords="513,470,629,501,625,504,515,475"/>
+<area shape="rect" id="Node000019" href="$class_quant_lib_1_1_bibor_s_w.html" title="1&#45;week Bibor index" alt="" coords="625,548,698,574"/>
+<area shape="poly" id="edge16_Node000013_Node000019" title=" " alt="" coords="504,482,547,509,593,534,627,549,622,551,591,539,544,513,506,487"/>
+<area shape="rect" id="Node000021" href="$class_quant_lib_1_1_bkbm1_m.html" title="1&#45;month Bkbm index" alt="" coords="625,597,698,623"/>
+<area shape="poly" id="edge18_Node000020_Node000021" title=" " alt="" coords="490,731,533,681,560,655,590,632,626,617,623,621,593,636,564,659,537,685,495,734"/>
+<area shape="rect" id="Node000022" href="$class_quant_lib_1_1_bkbm2_m.html" title="2&#45;months Bkbm index" alt="" coords="625,647,698,672"/>
+<area shape="poly" id="edge19_Node000020_Node000022" title=" " alt="" coords="503,734,544,707,591,681,627,668,623,672,593,686,547,712,507,738"/>
+<area shape="rect" id="Node000023" href="$class_quant_lib_1_1_bkbm3_m.html" title="3&#45;months Bkbm index" alt="" coords="625,696,698,722"/>
+<area shape="poly" id="edge20_Node000020_Node000023" title=" " alt="" coords="515,745,626,717,623,720,518,749"/>
+<area shape="rect" id="Node000024" href="$class_quant_lib_1_1_bkbm4_m.html" title="4&#45;months Bkbm index" alt="" coords="625,745,698,771"/>
+<area shape="poly" id="edge21_Node000020_Node000024" title=" " alt="" coords="516,756,627,757,622,760,519,760"/>
+<area shape="rect" id="Node000025" href="$class_quant_lib_1_1_bkbm5_m.html" title="5&#45;months Bkbm index" alt="" coords="625,795,698,820"/>
+<area shape="poly" id="edge22_Node000020_Node000025" title=" " alt="" coords="515,767,627,797,622,799,517,772"/>
+<area shape="rect" id="Node000026" href="$class_quant_lib_1_1_bkbm6_m.html" title="6&#45;months Bkbm index" alt="" coords="625,844,698,870"/>
+<area shape="poly" id="edge23_Node000020_Node000026" title=" " alt="" coords="504,778,547,805,593,830,627,845,622,847,591,835,544,809,506,783"/>
+<area shape="rect" id="Node000030" href="$class_quant_lib_1_1_e_u_r_libor_o_n.html" title="Overnight EUR Libor index." alt="" coords="613,893,711,919"/>
+<area shape="poly" id="edge27_Node000029_Node000030" title=" " alt="" coords="539,1055,542,1052,554,1037,561,1022,565,992,570,960,577,944,590,928,614,915,611,919,593,932,581,947,575,962,570,993,566,1024,558,1040,546,1056,543,1058"/>
+<area shape="rect" id="Node000032" href="$class_quant_lib_1_1_c_a_d_libor_o_n.html" title="Overnight CAD Libor index." alt="" coords="613,943,711,968"/>
+<area shape="poly" id="edge29_Node000031_Node000032" title=" " alt="" coords="539,1104,542,1102,554,1087,561,1072,565,1041,570,1010,577,994,590,978,614,964,610,968,593,981,581,996,575,1011,570,1042,566,1073,558,1089,546,1105,543,1107"/>
+<area shape="rect" id="Node000033" href="$class_quant_lib_1_1_daily_tenor_c_h_f_libor.html" title="base class for the one day deposit BBA CHF LIBOR indexes" alt="" coords="592,992,732,1018"/>
+<area shape="poly" id="edge30_Node000031_Node000033" title=" " alt="" coords="537,1105,542,1102,558,1084,565,1065,573,1046,590,1027,611,1016,608,1020,593,1031,578,1049,570,1067,562,1086,545,1105,541,1109"/>
+<area shape="rect" id="Node000034" href="$class_quant_lib_1_1_daily_tenor_g_b_p_libor.html" title="Base class for the one day deposit ICE GBP LIBOR indexes." alt="" coords="592,1041,732,1067"/>
+<area shape="poly" id="edge31_Node000031_Node000034" title=" " alt="" coords="529,1107,543,1101,591,1076,621,1066,617,1069,593,1081,545,1106,533,1111"/>
+<area shape="rect" id="Node000036" href="$class_quant_lib_1_1_daily_tenor_j_p_y_libor.html" title="base class for the one day deposit ICE JPY LIBOR indexes" alt="" coords="594,1091,730,1116"/>
+<area shape="poly" id="edge32_Node000031_Node000036" title=" " alt="" coords="543,1116,595,1111,591,1114,546,1121"/>
+<area shape="rect" id="Node000037" href="$class_quant_lib_1_1_daily_tenor_u_s_d_libor.html" title="base class for the one day deposit ICE USD LIBOR indexes" alt="" coords="592,1140,732,1166"/>
+<area shape="poly" id="edge33_Node000031_Node000037" title=" " alt="" coords="543,1135,593,1142,589,1145,546,1139"/>
+<area shape="rect" id="Node000040" href="$class_quant_lib_1_1_e_u_r_libor1_m.html" title="1&#45;month EUR Libor index" alt="" coords="614,1189,710,1215"/>
+<area shape="poly" id="edge35_Node000039_Node000040" title=" " alt="" coords="503,1277,544,1250,591,1224,619,1214,615,1217,593,1229,547,1254,507,1281"/>
+<area shape="rect" id="Node000041" href="$class_quant_lib_1_1_e_u_r_libor1_y.html" title="1&#45;year EUR Libor index" alt="" coords="615,1239,709,1264"/>
+<area shape="poly" id="edge36_Node000039_Node000041" title=" " alt="" coords="526,1285,616,1262,612,1265,529,1289"/>
+<area shape="rect" id="Node000042" href="$class_quant_lib_1_1_e_u_r_libor3_m.html" title="3&#45;months EUR Libor index" alt="" coords="614,1288,710,1314"/>
+<area shape="poly" id="edge37_Node000039_Node000042" title=" " alt="" coords="527,1298,615,1299,611,1302,530,1303"/>
+<area shape="rect" id="Node000043" href="$class_quant_lib_1_1_e_u_r_libor6_m.html" title="6&#45;months EUR Libor index" alt="" coords="614,1337,710,1363"/>
+<area shape="poly" id="edge38_Node000039_Node000043" title=" " alt="" coords="527,1312,616,1336,611,1339,529,1317"/>
+<area shape="rect" id="Node000045" href="$class_quant_lib_1_1_euribor1_m.html" title="1&#45;month Euribor index" alt="" coords="622,1387,702,1412"/>
+<area shape="poly" id="edge40_Node000044_Node000045" title=" " alt="" coords="503,1474,544,1447,591,1421,623,1410,619,1413,593,1426,547,1452,507,1478"/>
+<area shape="rect" id="Node000046" href="$class_quant_lib_1_1_euribor1_w.html" title="1&#45;week Euribor index" alt="" coords="621,1436,703,1462"/>
+<area shape="poly" id="edge41_Node000044_Node000046" title=" " alt="" coords="518,1484,622,1458,618,1461,521,1489"/>
+<area shape="rect" id="Node000047" href="$class_quant_lib_1_1_euribor1_y.html" title="1&#45;year Euribor index" alt="" coords="623,1485,701,1511"/>
+<area shape="poly" id="edge42_Node000044_Node000047" title=" " alt="" coords="519,1496,625,1497,620,1499,521,1501"/>
+<area shape="rect" id="Node000048" href="$class_quant_lib_1_1_euribor3_m.html" title="3&#45;months Euribor index" alt="" coords="622,1535,702,1560"/>
+<area shape="poly" id="edge43_Node000044_Node000048" title=" " alt="" coords="519,1508,624,1536,619,1538,520,1513"/>
+<area shape="rect" id="Node000049" href="$class_quant_lib_1_1_euribor6_m.html" title="6&#45;months Euribor index" alt="" coords="622,1584,702,1610"/>
+<area shape="poly" id="edge44_Node000044_Node000049" title=" " alt="" coords="519,1507,545,1520,560,1533,570,1546,579,1558,593,1571,624,1586,619,1587,590,1575,575,1562,566,1549,557,1537,542,1524,520,1513"/>
+<area shape="rect" id="Node000053" href="$class_quant_lib_1_1_a_u_d_libor.html" title="AUD LIBOR rate" alt="" coords="623,1633,701,1659"/>
+<area shape="poly" id="edge48_Node000052_Node000053" title=" " alt="" coords="513,1644,625,1645,620,1647,514,1649"/>
+<area shape="rect" id="Node000054" href="$class_quant_lib_1_1_c_a_d_libor.html" title="CAD LIBOR rate" alt="" coords="623,1683,701,1708"/>
+<area shape="poly" id="edge49_Node000052_Node000054" title=" " alt="" coords="513,1654,625,1684,620,1686,514,1659"/>
+<area shape="rect" id="Node000055" href="$class_quant_lib_1_1_c_h_f_libor.html" title="CHF LIBOR rate" alt="" coords="623,1732,700,1758"/>
+<area shape="poly" id="edge50_Node000052_Node000055" title=" " alt="" coords="513,1653,545,1668,560,1681,570,1694,579,1706,593,1719,625,1735,620,1736,590,1723,575,1710,566,1697,557,1685,542,1672,513,1659"/>
+<area shape="rect" id="Node000056" href="$class_quant_lib_1_1_d_k_k_libor.html" title="DKK LIBOR rate" alt="" coords="623,1781,700,1807"/>
+<area shape="poly" id="edge51_Node000052_Node000056" title=" " alt="" coords="513,1651,530,1658,545,1668,557,1681,564,1694,570,1720,576,1744,583,1756,593,1768,608,1778,625,1786,620,1787,605,1782,590,1772,578,1759,571,1746,565,1721,559,1696,553,1684,542,1672,528,1663,514,1656"/>
+<area shape="rect" id="Node000057" href="$class_quant_lib_1_1_g_b_p_libor.html" title="GBP LIBOR rate" alt="" coords="623,1831,700,1856"/>
+<area shape="poly" id="edge52_Node000052_Node000057" title=" " alt="" coords="513,1650,531,1657,546,1668,560,1688,567,1707,570,1745,573,1782,580,1800,594,1818,607,1828,625,1837,620,1837,605,1832,590,1821,575,1802,568,1783,565,1745,562,1708,555,1690,542,1672,528,1662,514,1655"/>
+<area shape="rect" id="Node000058" href="$class_quant_lib_1_1_j_p_y_libor.html" title="JPY LIBOR rate" alt="" coords="625,1880,699,1906"/>
+<area shape="poly" id="edge53_Node000052_Node000058" title=" " alt="" coords="513,1650,531,1657,546,1668,563,1694,571,1720,572,1745,570,1770,568,1794,570,1818,577,1843,594,1867,608,1878,627,1887,621,1887,605,1883,590,1871,572,1845,564,1819,563,1794,565,1769,567,1745,566,1721,558,1696,542,1672,528,1662,514,1655"/>
+<area shape="rect" id="Node000059" href="$class_quant_lib_1_1_n_z_d_libor.html" title="NZD LIBOR rate" alt="" coords="623,1929,700,1955"/>
+<area shape="poly" id="edge54_Node000052_Node000059" title=" " alt="" coords="513,1649,531,1657,546,1668,566,1701,574,1732,574,1764,570,1795,566,1825,566,1855,574,1886,594,1916,607,1927,625,1936,620,1937,605,1932,590,1920,569,1888,561,1856,561,1825,565,1794,569,1763,569,1733,561,1703,542,1672,528,1661,514,1655"/>
+<area shape="rect" id="Node000060" href="$class_quant_lib_1_1_s_e_k_libor.html" title="SEK LIBOR rate" alt="" coords="624,1979,700,2004"/>
+<area shape="poly" id="edge55_Node000052_Node000060" title=" " alt="" coords="513,1649,531,1657,546,1668,569,1707,578,1745,577,1783,570,1819,564,1856,563,1892,571,1928,594,1966,607,1977,626,1986,621,1986,605,1981,590,1969,566,1930,557,1892,559,1855,565,1818,571,1782,573,1746,564,1709,542,1672,529,1661,514,1655"/>
+<area shape="rect" id="Node000061" href="$class_quant_lib_1_1_u_s_d_libor.html" title="USD LIBOR rate" alt="" coords="623,2028,701,2054"/>
+<area shape="poly" id="edge56_Node000052_Node000061" title=" " alt="" coords="512,1649,531,1656,546,1668,562,1691,573,1714,582,1758,579,1801,570,1844,562,1886,559,1929,568,1971,578,1993,594,2015,607,2026,625,2035,619,2035,604,2031,590,2019,574,1996,563,1973,554,1929,557,1886,565,1843,574,1801,576,1758,567,1716,557,1694,542,1672,528,1661,513,1654"/>
+</map>

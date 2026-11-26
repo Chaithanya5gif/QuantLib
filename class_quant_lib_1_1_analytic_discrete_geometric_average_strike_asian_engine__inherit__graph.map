@@ -1,0 +1,7 @@
+<map id="AnalyticDiscreteGeometricAverageStrikeAsianEngine" name="AnalyticDiscreteGeometricAverageStrikeAsianEngine">
+<area shape="rect" id="Node000001" title="Pricing engine for European discrete geometric average&#45;strike Asian option." alt="" coords="437,13,614,54"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_discrete_averaging_asian_option_1_1engine.html" title="Discrete&#45;averaging Asian engine base class." alt="" coords="330,20,389,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="405,31,439,33,434,33,405,36"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_generic_engine.html" title=" " alt="" coords="5,5,282,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="297,31,332,33,326,33,298,36"/>
+</map>

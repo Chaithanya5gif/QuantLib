@@ -1,0 +1,7 @@
+<map id="LevyFlightWalk" name="LevyFlightWalk">
+<area shape="rect" id="Node000001" title="Levy Flight Random Walk." alt="" coords="36,168,146,193"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_distribution_random_walk.html" title=" " alt="" coords="5,79,177,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,134,93,168,89,166,89,137"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_firefly_algorithm_1_1_random_walk.html" title="Base Random Walk class." alt="" coords="41,5,141,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,44,94,79,88,78,90,49"/>
+</map>

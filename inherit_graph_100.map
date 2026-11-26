@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_quant_lib_1_1_curiously_recurring_template.html" title=" " alt="" coords="5,5,191,46"/>
+<area shape="rect" id="Node000001" href="$class_quant_lib_1_1_tree.html" title=" " alt="" coords="239,13,445,38"/>
+<area shape="poly" id="edge1177_Node000000_Node000001" title=" " alt="" coords="206,23,241,26,235,26,207,28"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_extended_binomial_tree.html" title=" " alt="" coords="493,5,673,46"/>
+<area shape="poly" id="edge1178_Node000001_Node000002" title=" " alt="" coords="461,23,495,26,490,26,461,28"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_extended_leisen_reimer.html" title="Leisen &amp; Reimer tree: multiplicative approach." alt="" coords="721,13,878,38"/>
+<area shape="poly" id="edge1179_Node000002_Node000003" title=" " alt="" coords="689,23,723,26,718,26,689,28"/>
+</map>

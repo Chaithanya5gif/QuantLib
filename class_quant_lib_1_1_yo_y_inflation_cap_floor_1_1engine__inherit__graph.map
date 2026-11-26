@@ -1,0 +1,17 @@
+<map id="YoYInflationCapFloor::engine" name="YoYInflationCapFloor::engine">
+<area shape="rect" id="Node000001" title="base class for cap/floor engines" alt="" coords="424,71,568,111"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_yo_y_inflation_cap_floor_engine.html" title="Base YoY inflation cap/floor engine." alt="" coords="616,78,801,104"/>
+<area shape="poly" id="edge4_Node000001_Node000006" title=" " alt="" coords="584,88,618,91,613,91,584,94"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_generic_engine.html" title=" " alt="" coords="155,63,376,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="391,88,426,91,421,91,392,94"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_pricing_engine.html" title="interface for pricing engines" alt="" coords="5,53,107,78"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,71,157,77,152,79,122,76"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="19,102,93,128"/>
+<area shape="poly" id="edge3_Node000002_Node000005" title=" " alt="" coords="108,106,157,103,152,105,109,112"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_yo_y_inflation_bachelier_cap_floor_engine.html" title="Unit Displaced Black&#45;formula inflation cap/floor engine (standalone, i.e. no coupon pricer)." alt="" coords="853,5,1022,46"/>
+<area shape="poly" id="edge5_Node000006_Node000007" title=" " alt="" coords="770,71,861,47,866,46,771,76"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_yo_y_inflation_black_cap_floor_engine.html" title="Black&#45;formula inflation cap/floor engine (standalone, i.e. no coupon pricer)." alt="" coords="849,71,1026,111"/>
+<area shape="poly" id="edge6_Node000006_Node000008" title=" " alt="" coords="816,88,851,91,846,91,816,94"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_yo_y_inflation_unit_displaced_black_cap_floor_engine.html" title="Unit Displaced Black&#45;formula inflation cap/floor engine (standalone, i.e. no coupon pricer)." alt="" coords="851,136,1024,177"/>
+<area shape="poly" id="edge7_Node000006_Node000009" title=" " alt="" coords="771,106,866,136,861,135,770,111"/>
+</map>

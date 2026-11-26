@@ -1,0 +1,7 @@
+<map id="CompoundOption" name="CompoundOption">
+<area shape="rect" id="Node000001" title="Compound option (i.e., option on option) on a single asset." alt="" coords="5,153,128,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_one_asset_option.html" title="Base class for options on a single asset." alt="" coords="8,79,125,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,118,69,153,64,151,65,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_option.html" title="base option class" alt="" coords="37,5,96,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="67,44,69,79,64,78,66,49"/>
+</map>

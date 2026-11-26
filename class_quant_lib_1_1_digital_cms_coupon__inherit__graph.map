@@ -1,0 +1,7 @@
+<map id="DigitalCmsCoupon" name="DigitalCmsCoupon">
+<area shape="rect" id="Node000001" title="Cms&#45;rate coupon with digital call/put option." alt="" coords="10,153,141,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_digital_coupon.html" title="Digital&#45;payoff coupon." alt="" coords="24,79,127,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,118,78,153,73,151,74,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_floating_rate_coupon.html" title="base floating&#45;rate coupon class" alt="" coords="5,5,146,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,44,78,79,73,78,74,49"/>
+</map>

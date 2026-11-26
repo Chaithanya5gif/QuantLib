@@ -1,0 +1,111 @@
+<map id="Calendar" name="Calendar">
+<area shape="rect" id="Node000001" title="calendar class" alt="" coords="5,1313,79,1339"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_argentina.html" title="Argentinian calendars." alt="" coords="151,5,227,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="41,1298,43,1041,54,642,64,438,79,257,99,118,111,71,124,41,136,30,152,23,149,28,139,34,129,44,116,72,104,119,84,258,70,438,59,642,49,1041,46,1298"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_australia.html" title="Australian calendar." alt="" coords="153,55,225,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="41,1298,44,1049,55,667,66,471,80,297,99,164,111,119,125,90,137,79,154,72,151,76,140,83,129,93,116,121,105,166,85,298,71,471,61,667,49,1050,46,1298"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_austria.html" title="Austrian calendars." alt="" coords="158,104,220,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="41,1298,45,1059,57,691,67,504,81,338,100,211,112,167,125,139,139,127,159,120,156,124,142,131,129,142,117,169,106,212,87,339,72,504,62,692,50,1059,46,1298"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_bespoke_calendar.html" title="Bespoke calendar." alt="" coords="127,153,251,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="41,1297,45,1067,58,715,69,537,83,378,101,257,112,215,125,189,139,177,137,182,129,192,117,217,106,258,88,379,74,537,63,716,51,1067,46,1298"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_botswana.html" title="Botswana calendar." alt="" coords="149,203,228,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="41,1298,46,1076,59,740,70,570,84,419,102,303,113,263,125,238,135,228,150,221,148,226,138,232,129,241,118,265,107,304,89,419,75,570,65,741,51,1076,46,1298"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_brazil.html" title="Brazilian calendar." alt="" coords="162,252,216,278"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="41,1298,47,1085,61,765,72,603,85,459,103,349,113,311,125,287,141,274,163,267,160,271,144,278,129,290,118,313,108,350,91,460,77,603,66,765,52,1085,47,1298"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_canada.html" title="Canadian calendar." alt="" coords="156,301,222,327"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="41,1297,48,1094,62,790,73,636,87,499,104,395,114,359,125,337,138,325,157,317,154,322,141,329,129,340,119,361,109,396,92,500,78,636,67,790,53,1094,47,1298"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_chile.html" title="Chilean calendars." alt="" coords="163,351,214,376"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="41,1297,48,1103,63,814,74,669,88,540,105,441,114,407,125,386,142,372,165,365,161,369,145,376,129,389,119,409,110,443,93,541,80,669,69,815,54,1103,47,1298"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_china.html" title="Chinese calendar." alt="" coords="161,400,216,426"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="42,1298,49,1112,65,839,76,702,90,580,106,488,115,456,125,435,141,422,162,415,159,419,143,426,129,438,120,457,111,489,95,581,81,702,70,840,54,1112,47,1298"/>
+<area shape="rect" id="Node000011" href="$class_quant_lib_1_1_croatia.html" title="Croatian calendars." alt="" coords="157,449,220,475"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="42,1297,50,1121,66,864,77,735,91,621,106,534,115,504,125,485,139,472,158,465,155,470,142,477,129,488,120,506,112,535,96,622,83,735,72,865,55,1121,47,1298"/>
+<area shape="rect" id="Node000012" href="$class_quant_lib_1_1_czech_republic.html" title="Czech calendars." alt="" coords="134,499,244,524"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="42,1298,51,1131,68,890,92,662,107,580,116,552,125,534,140,522,138,527,129,537,121,554,112,581,97,662,73,890,56,1131,47,1298"/>
+<area shape="rect" id="Node000013" href="$class_quant_lib_1_1_denmark.html" title="Danish calendar." alt="" coords="152,548,226,574"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="40,1298,40,1151,48,938,58,828,74,727,95,643,109,609,125,583,136,573,153,566,150,570,139,577,129,587,114,612,100,644,79,728,64,829,54,939,45,1151,45,1298"/>
+<area shape="rect" id="Node000014" href="$class_quant_lib_1_1_finland.html" title="Finnish calendar." alt="" coords="157,597,220,623"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="40,1298,42,1160,51,962,61,860,76,766,97,688,110,657,125,632,139,620,158,613,155,618,142,625,129,636,115,659,102,689,82,767,67,860,56,962,47,1160,46,1298"/>
+<area shape="rect" id="Node000015" href="$class_quant_lib_1_1_france.html" title="French calendars." alt="" coords="158,647,220,672"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="41,1298,43,1168,54,985,64,891,79,804,99,733,111,704,125,682,139,669,159,662,156,667,142,674,129,685,116,707,104,734,84,806,70,892,59,986,48,1169,46,1298"/>
+<area shape="rect" id="Node000016" href="$class_quant_lib_1_1_germany.html" title="German calendars." alt="" coords="152,696,226,722"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="41,1298,45,1177,57,1009,67,923,82,843,100,777,125,731,136,721,153,714,150,718,139,725,129,734,105,779,87,845,73,923,62,1010,50,1178,46,1298"/>
+<area shape="rect" id="Node000017" href="$class_quant_lib_1_1_hong_kong.html" title="Hong Kong calendars." alt="" coords="148,745,230,771"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="41,1298,46,1187,60,1033,70,955,84,882,102,823,125,780,149,765,146,769,129,784,107,825,89,884,75,955,65,1034,52,1187,47,1298"/>
+<area shape="rect" id="Node000018" href="$class_quant_lib_1_1_hungary.html" title="Hungarian calendar." alt="" coords="154,795,224,820"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="42,1298,48,1195,63,1056,73,986,87,921,104,868,125,830,137,819,155,812,152,816,140,823,129,833,109,870,92,923,79,987,68,1057,54,1196,47,1298"/>
+<area shape="rect" id="Node000019" href="$class_quant_lib_1_1_iceland.html" title="Icelandic calendars." alt="" coords="157,844,220,870"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="42,1298,50,1205,66,1080,90,960,106,913,125,879,139,867,158,860,155,865,142,872,129,883,111,915,95,962,71,1081,56,1205,48,1298"/>
+<area shape="rect" id="Node000020" href="$class_quant_lib_1_1_india.html" title="Indian calendars." alt="" coords="164,893,214,919"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="43,1298,52,1214,69,1104,92,999,107,958,125,928,142,915,165,908,162,912,145,920,129,932,112,960,98,1001,74,1105,58,1215,48,1298"/>
+<area shape="rect" id="Node000021" href="$class_quant_lib_1_1_indonesia.html" title="Indonesian calendars" alt="" coords="150,943,228,968"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="44,1298,55,1224,72,1129,95,1038,109,1003,125,978,151,962,149,966,129,981,114,1005,100,1040,77,1130,60,1224,49,1298"/>
+<area shape="rect" id="Node000022" href="$class_quant_lib_1_1_israel.html" title="Israel calendar." alt="" coords="162,992,216,1018"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="41,1298,44,1242,57,1170,67,1132,82,1095,101,1059,125,1027,142,1014,164,1007,160,1012,144,1019,129,1031,105,1062,87,1097,72,1134,62,1171,50,1243,46,1298"/>
+<area shape="rect" id="Node000023" href="$class_quant_lib_1_1_italy.html" title="Italian calendars." alt="" coords="166,1041,212,1067"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="43,1298,49,1251,63,1192,87,1131,104,1102,125,1076,144,1063,167,1056,164,1060,146,1068,128,1080,108,1105,92,1133,68,1194,54,1252,48,1298"/>
+<area shape="rect" id="Node000024" href="$class_quant_lib_1_1_japan.html" title="Japanese calendar." alt="" coords="161,1091,217,1116"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="45,1298,54,1260,70,1214,93,1167,125,1126,141,1114,162,1107,158,1111,144,1119,129,1129,97,1170,75,1216,59,1261,51,1299"/>
+<area shape="rect" id="Node000025" href="$class_quant_lib_1_1_joint_calendar.html" title="Joint calendar." alt="" coords="138,1140,240,1166"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="50,1298,77,1237,98,1204,125,1175,144,1164,142,1169,128,1179,103,1207,82,1239,55,1299"/>
+<area shape="rect" id="Node000026" href="$class_quant_lib_1_1_malaysia.html" title="Malaysian calendar." alt="" coords="152,1189,226,1215"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="57,1300,86,1261,125,1224,153,1211,150,1215,128,1228,90,1264,62,1302"/>
+<area shape="rect" id="Node000027" href="$class_quant_lib_1_1_malta.html" title="Malta calendar." alt="" coords="162,1239,216,1264"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="74,1303,125,1273,163,1258,160,1263,128,1278,78,1306"/>
+<area shape="rect" id="Node000028" href="$class_quant_lib_1_1_mexico.html" title="Mexican calendars" alt="" coords="157,1288,220,1314"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="92,1315,158,1304,155,1308,96,1319"/>
+<area shape="rect" id="Node000029" href="$class_quant_lib_1_1_montenegro.html" title="Montenegro calendar." alt="" coords="144,1337,234,1363"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="92,1332,146,1341,141,1345,95,1337"/>
+<area shape="rect" id="Node000030" href="$class_quant_lib_1_1_new_zealand.html" title="New Zealand calendar." alt="" coords="142,1387,236,1412"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="75,1345,128,1373,153,1385,149,1388,125,1378,78,1350"/>
+<area shape="rect" id="Node000031" href="$class_quant_lib_1_1_north_macedonia.html" title="North Macedonian calendars." alt="" coords="131,1436,247,1462"/>
+<area shape="poly" id="edge30_Node000001_Node000031" title=" " alt="" coords="59,1349,90,1387,128,1423,148,1434,143,1437,125,1427,86,1391,60,1354"/>
+<area shape="rect" id="Node000032" href="$class_quant_lib_1_1_norway.html" title="Norwegian calendar." alt="" coords="156,1485,222,1511"/>
+<area shape="poly" id="edge31_Node000001_Node000032" title=" " alt="" coords="52,1351,82,1413,103,1444,128,1472,158,1489,153,1491,125,1476,99,1448,78,1415,53,1356"/>
+<area shape="rect" id="Node000033" href="$class_quant_lib_1_1_null_calendar.html" title="Calendar for reproducing theoretical calculations." alt="" coords="141,1535,237,1560"/>
+<area shape="poly" id="edge32_Node000001_Node000033" title=" " alt="" coords="48,1351,60,1391,75,1436,97,1481,129,1522,144,1533,139,1535,125,1525,93,1484,70,1438,54,1392,48,1356"/>
+<area shape="rect" id="Node000034" href="$class_quant_lib_1_1_philippines.html" title="Philippine calendar." alt="" coords="147,1584,231,1610"/>
+<area shape="poly" id="edge33_Node000001_Node000034" title=" " alt="" coords="45,1351,54,1400,68,1458,92,1518,109,1546,128,1571,149,1585,144,1587,125,1575,104,1549,87,1521,63,1460,49,1401,45,1357"/>
+<area shape="rect" id="Node000035" href="$class_quant_lib_1_1_poland.html" title="Polish calendar." alt="" coords="158,1633,220,1659"/>
+<area shape="poly" id="edge34_Node000001_Node000035" title=" " alt="" coords="43,1352,50,1409,62,1480,72,1518,87,1555,105,1589,129,1620,142,1631,160,1639,155,1642,140,1636,125,1624,101,1592,82,1557,67,1519,57,1481,45,1410,43,1357"/>
+<area shape="rect" id="Node000036" href="$class_quant_lib_1_1_romania.html" title="Romanian calendars." alt="" coords="152,1683,226,1708"/>
+<area shape="poly" id="edge35_Node000001_Node000036" title=" " alt="" coords="47,1351,60,1427,77,1522,100,1611,114,1646,129,1670,140,1679,154,1687,149,1689,137,1683,125,1673,109,1648,95,1613,72,1523,55,1428,47,1357"/>
+<area shape="rect" id="Node000037" href="$class_quant_lib_1_1_russia.html" title="Russian calendars." alt="" coords="158,1732,220,1758"/>
+<area shape="poly" id="edge36_Node000001_Node000037" title=" " alt="" coords="46,1352,58,1437,74,1546,98,1650,112,1691,129,1719,142,1730,160,1738,155,1741,139,1734,125,1723,107,1693,93,1652,69,1547,52,1438,46,1357"/>
+<area shape="rect" id="Node000038" href="$class_quant_lib_1_1_saudi_arabia.html" title="Saudi Arabian calendar." alt="" coords="143,1781,234,1807"/>
+<area shape="poly" id="edge37_Node000001_Node000038" title=" " alt="" coords="45,1352,56,1447,71,1570,95,1690,111,1736,129,1768,145,1782,140,1784,125,1772,106,1738,90,1691,66,1571,50,1447,45,1357"/>
+<area shape="rect" id="Node000039" href="$class_quant_lib_1_1_serbia.html" title="Serbian calendars." alt="" coords="160,1831,218,1856"/>
+<area shape="poly" id="edge38_Node000001_Node000039" title=" " alt="" coords="45,1352,54,1456,68,1594,79,1665,92,1729,109,1781,129,1818,143,1829,161,1837,157,1840,140,1834,125,1821,104,1784,87,1730,73,1666,63,1595,48,1457,45,1357"/>
+<area shape="rect" id="Node000040" href="$class_quant_lib_1_1_singapore.html" title="Singapore calendars" alt="" coords="149,1880,228,1906"/>
+<area shape="poly" id="edge39_Node000001_Node000040" title=" " alt="" coords="44,1352,52,1466,65,1619,76,1697,90,1768,107,1827,129,1867,151,1883,146,1886,125,1871,102,1829,84,1769,70,1697,60,1619,47,1466,44,1357"/>
+<area shape="rect" id="Node000041" href="$class_quant_lib_1_1_slovakia.html" title="Slovak calendars." alt="" coords="153,1929,224,1955"/>
+<area shape="poly" id="edge40_Node000001_Node000041" title=" " alt="" coords="44,1352,50,1474,62,1642,73,1728,87,1807,105,1872,129,1917,140,1926,155,1934,150,1937,137,1931,125,1920,101,1874,82,1808,67,1729,57,1643,45,1475,44,1357"/>
+<area shape="rect" id="Node000042" href="$class_quant_lib_1_1_slovenia.html" title="Slovenia calendars." alt="" coords="153,1979,224,2004"/>
+<area shape="poly" id="edge41_Node000001_Node000042" title=" " alt="" coords="43,1352,48,1483,59,1666,70,1760,84,1846,104,1917,116,1945,129,1966,140,1976,156,1984,151,1986,137,1980,125,1969,111,1947,99,1919,79,1847,64,1760,54,1666,43,1484,43,1357"/>
+<area shape="rect" id="Node000043" href="$class_quant_lib_1_1_south_africa.html" title="South&#45;African calendar." alt="" coords="144,2028,234,2054"/>
+<area shape="poly" id="edge42_Node000001_Node000043" title=" " alt="" coords="43,1352,47,1492,57,1689,67,1791,82,1884,102,1962,115,1992,129,2015,146,2029,141,2031,125,2019,110,1994,97,1964,76,1886,61,1792,51,1690,42,1492,43,1357"/>
+<area shape="rect" id="Node000044" href="$class_quant_lib_1_1_south_korea.html" title="South Korean calendars." alt="" coords="144,2077,234,2103"/>
+<area shape="poly" id="edge43_Node000001_Node000044" title=" " alt="" coords="43,1352,45,1501,54,1713,64,1822,79,1923,100,2007,114,2039,129,2064,146,2079,141,2081,125,2068,109,2042,95,2009,74,1924,58,1823,48,1713,40,1501,43,1357"/>
+<area shape="rect" id="Node000045" href="$class_quant_lib_1_1_sweden.html" title="Swedish calendar." alt="" coords="155,2127,223,2152"/>
+<area shape="poly" id="edge44_Node000001_Node000045" title=" " alt="" coords="45,1352,56,1521,73,1762,98,1989,112,2070,121,2097,129,2114,141,2124,157,2132,152,2135,138,2129,125,2117,116,2099,107,2071,92,1990,68,1762,51,1521,45,1357"/>
+<area shape="rect" id="Node000046" href="$class_quant_lib_1_1_switzerland.html" title="Swiss calendar." alt="" coords="144,2176,234,2202"/>
+<area shape="poly" id="edge45_Node000001_Node000046" title=" " alt="" coords="44,1352,55,1531,72,1787,83,1916,96,2030,112,2116,120,2145,129,2163,146,2177,141,2179,125,2167,115,2147,106,2117,91,2030,78,1916,66,1787,50,1531,44,1357"/>
+<area shape="rect" id="Node000047" href="$class_quant_lib_1_1_t_a_r_g_e_t.html" title="TARGET calendar" alt="" coords="152,2225,226,2251"/>
+<area shape="poly" id="edge46_Node000001_Node000047" title=" " alt="" coords="44,1352,54,1540,70,1812,81,1949,95,2070,111,2162,120,2194,129,2213,139,2222,153,2230,149,2232,136,2226,125,2216,115,2195,106,2164,90,2071,76,1949,65,1812,49,1540,44,1357"/>
+<area shape="rect" id="Node000048" href="$class_quant_lib_1_1_taiwan.html" title="Taiwanese calendars." alt="" coords="158,2275,220,2300"/>
+<area shape="poly" id="edge47_Node000001_Node000048" title=" " alt="" coords="44,1352,54,1549,69,1837,80,1982,93,2111,110,2209,119,2242,129,2262,142,2273,160,2281,155,2284,139,2278,125,2265,114,2244,105,2210,88,2111,75,1983,63,1837,48,1549,44,1357"/>
+<area shape="rect" id="Node000049" href="$class_quant_lib_1_1_thailand.html" title="Thailand calendars" alt="" coords="154,2324,224,2350"/>
+<area shape="poly" id="edge48_Node000001_Node000049" title=" " alt="" coords="44,1352,53,1558,67,1862,78,2015,92,2151,109,2255,119,2290,129,2311,140,2321,156,2330,151,2332,137,2326,125,2314,114,2292,104,2256,87,2152,73,2016,62,1862,48,1558,44,1357"/>
+<area shape="rect" id="Node000050" href="$class_quant_lib_1_1_turkey.html" title="Turkish calendar." alt="" coords="158,2373,220,2399"/>
+<area shape="poly" id="edge49_Node000001_Node000050" title=" " alt="" coords="44,1352,52,1567,66,1886,77,2048,91,2192,108,2301,118,2338,129,2361,142,2372,160,2380,155,2382,139,2377,125,2364,113,2340,103,2302,86,2192,72,2049,61,1887,47,1567,44,1357"/>
+<area shape="rect" id="Node000051" href="$class_quant_lib_1_1_ukraine.html" title="Ukrainian calendars." alt="" coords="156,2423,222,2448"/>
+<area shape="poly" id="edge50_Node000001_Node000051" title=" " alt="" coords="44,1352,51,1576,65,1911,75,2081,89,2232,107,2347,118,2386,129,2410,141,2421,158,2429,153,2431,138,2425,125,2413,113,2388,102,2348,84,2233,70,2082,59,1911,46,1576,44,1357"/>
+<area shape="rect" id="Node000052" href="$class_quant_lib_1_1_united_kingdom.html" title="United Kingdom calendars." alt="" coords="134,2472,244,2498"/>
+<area shape="poly" id="edge51_Node000001_Node000052" title=" " alt="" coords="44,1352,51,1585,63,1936,74,2114,88,2273,106,2393,117,2434,129,2459,141,2471,135,2472,125,2462,112,2436,101,2394,83,2273,69,2115,58,1936,45,1585,44,1357"/>
+<area shape="rect" id="Node000053" href="$class_quant_lib_1_1_united_states.html" title="United States calendars." alt="" coords="140,2521,238,2547"/>
+<area shape="poly" id="edge52_Node000001_Node000053" title=" " alt="" coords="44,1352,50,1593,62,1960,72,2147,87,2313,106,2439,117,2482,129,2509,142,2522,137,2522,125,2512,112,2484,100,2440,82,2313,67,2147,57,1960,45,1594,43,1357"/>
+<area shape="rect" id="Node000054" href="$class_quant_lib_1_1_uzbekistan.html" title="Uzbekistan calendar." alt="" coords="145,2571,232,2596"/>
+<area shape="poly" id="edge53_Node000001_Node000054" title=" " alt="" coords="44,1352,49,1602,61,1985,71,2180,85,2353,105,2486,116,2530,129,2558,147,2574,142,2574,125,2561,111,2532,99,2487,80,2354,66,2180,55,1985,44,1603,43,1357"/>
+<area shape="rect" id="Node000055" href="$class_quant_lib_1_1_weekends_only.html" title="Weekends&#45;only calendar." alt="" coords="134,2620,244,2646"/>
+<area shape="poly" id="edge54_Node000001_Node000055" title=" " alt="" coords="43,1352,49,1611,59,2009,70,2213,84,2394,104,2532,116,2579,129,2607,141,2620,135,2619,125,2610,111,2580,99,2533,79,2394,64,2213,54,2010,43,1611,43,1357"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="SwapIndex" name="SwapIndex">
+<area shape="rect" id="Node000001" title="base class for swap&#45;rate indexes" alt="" coords="280,301,366,327"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_chf_libor_swap_isda_fix.html" title="ChfLiborSwapIsdaFix index base class" alt="" coords="435,5,582,31"/>
+<area shape="poly" id="edge3_Node000001_Node000006" title=" " alt="" coords="323,285,328,234,342,167,354,133,369,99,388,68,413,40,437,27,433,31,416,44,393,71,373,102,358,135,347,169,333,234,328,287"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_eur_libor_swap_ifr_fix.html" title="EurLiborSwapIfrFix index base class" alt="" coords="442,55,575,80"/>
+<area shape="poly" id="edge4_Node000001_Node000007" title=" " alt="" coords="325,284,333,242,349,189,375,135,392,111,413,89,444,74,440,78,416,94,396,114,379,138,354,191,339,243,330,287"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_eur_libor_swap_isda_fix_a.html" title="EurLiborSwapIsdaFixA index base class" alt="" coords="431,104,586,130"/>
+<area shape="poly" id="edge5_Node000001_Node000008" title=" " alt="" coords="329,285,340,252,357,212,381,172,413,139,434,128,430,132,416,143,385,176,361,215,345,254,334,288"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_eur_libor_swap_isda_fix_b.html" title="EurLiborSwapIsdaFixB index base class" alt="" coords="431,153,586,179"/>
+<area shape="poly" id="edge6_Node000001_Node000009" title=" " alt="" coords="335,286,365,236,387,210,413,188,437,178,432,181,416,192,391,214,370,239,339,289"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_euribor_swap_ifr_fix.html" title="EuriborSwapIfrFix index base class" alt="" coords="446,203,571,228"/>
+<area shape="poly" id="edge7_Node000001_Node000010" title=" " alt="" coords="345,289,376,262,413,237,448,226,443,229,416,242,379,266,349,292"/>
+<area shape="rect" id="Node000011" href="$class_quant_lib_1_1_euribor_swap_isda_fix_a.html" title="EuriborSwapIsdaFixA index base class" alt="" coords="435,252,582,278"/>
+<area shape="poly" id="edge8_Node000001_Node000011" title=" " alt="" coords="380,296,414,286,457,277,452,279,415,291,383,300"/>
+<area shape="rect" id="Node000012" href="$class_quant_lib_1_1_euribor_swap_isda_fix_b.html" title="EuriborSwapIsdaFixB index base class" alt="" coords="435,301,582,327"/>
+<area shape="poly" id="edge9_Node000001_Node000012" title=" " alt="" coords="381,312,437,313,432,315,383,317"/>
+<area shape="rect" id="Node000013" href="$class_quant_lib_1_1_gbp_libor_swap_isda_fix.html" title="GbpLiborSwapIsdaFix index base class" alt="" coords="434,351,583,376"/>
+<area shape="poly" id="edge10_Node000001_Node000013" title=" " alt="" coords="381,328,415,337,457,350,452,351,414,342,382,333"/>
+<area shape="rect" id="Node000014" href="$class_quant_lib_1_1_jpy_libor_swap_isda_fix_am.html" title="JpyLiborSwapIsdaFixAm index base class" alt="" coords="425,400,592,426"/>
+<area shape="poly" id="edge11_Node000001_Node000014" title=" " alt="" coords="347,335,379,363,416,386,443,399,438,400,413,391,376,367,347,340"/>
+<area shape="rect" id="Node000015" href="$class_quant_lib_1_1_jpy_libor_swap_isda_fix_pm.html" title="JpyLiborSwapIsdaFixPm index base class" alt="" coords="425,449,592,475"/>
+<area shape="poly" id="edge12_Node000001_Node000015" title=" " alt="" coords="338,338,370,389,391,415,416,436,437,449,432,449,413,440,387,418,365,393,336,344"/>
+<area shape="rect" id="Node000016" href="$class_quant_lib_1_1_overnight_indexed_swap_index.html" title="base class for overnight indexed swap indexes" alt="" coords="414,499,603,524"/>
+<area shape="poly" id="edge13_Node000001_Node000016" title=" " alt="" coords="332,339,345,375,361,414,385,453,416,485,435,498,429,498,413,490,381,456,357,416,340,377,330,344"/>
+<area shape="rect" id="Node000017" href="$class_quant_lib_1_1_usd_libor_swap_isda_fix_am.html" title="UsdLiborSwapIsdaFixAm index base class" alt="" coords="424,548,593,574"/>
+<area shape="poly" id="edge14_Node000001_Node000017" title=" " alt="" coords="329,340,339,385,354,437,379,490,396,514,416,535,433,548,428,547,413,539,392,517,375,493,349,439,333,387,327,345"/>
+<area shape="rect" id="Node000018" href="$class_quant_lib_1_1_usd_libor_swap_isda_fix_pm.html" title="UsdLiborSwapIsdaFixPm index base class" alt="" coords="424,597,593,623"/>
+<area shape="poly" id="edge15_Node000001_Node000018" title=" " alt="" coords="327,340,333,394,347,459,358,494,373,527,393,557,416,584,432,597,427,596,413,588,388,561,369,529,354,495,342,461,328,395,324,345"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_interest_rate_index.html" title="base class for interest rate indexes" alt="" coords="107,301,232,327"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,312,282,313,277,315,249,317"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_index.html" title="purely virtual base class for indexes" alt="" coords="5,301,59,327"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,312,108,312,104,316,76,316"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="NumericHaganPricer" name="NumericHaganPricer">
+<area shape="rect" id="Node000001" title="CMS&#45;coupon pricer." alt="" coords="78,153,221,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_hagan_pricer.html" title="CMS&#45;coupon pricer." alt="" coords="103,79,196,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,118,152,153,147,151,148,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_cms_coupon_pricer.html" title="base pricer for vanilla CMS coupons" alt="" coords="5,5,134,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,39,139,78,134,79,94,44"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_mean_reverting_pricer.html" title=" " alt="" coords="158,5,301,31"/>
+<area shape="poly" id="edge3_Node000002_Node000007" title=" " alt="" coords="207,40,165,81,161,77,203,43"/>
+</map>

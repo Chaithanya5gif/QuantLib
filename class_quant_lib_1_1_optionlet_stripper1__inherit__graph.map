@@ -1,0 +1,7 @@
+<map id="OptionletStripper1" name="OptionletStripper1">
+<area shape="rect" id="Node000001" title=" " alt="" coords="18,153,144,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_optionlet_stripper.html" title=" " alt="" coords="22,79,140,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,118,84,153,78,151,79,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_stripped_optionlet_base.html" title=" " alt="" coords="5,5,157,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="82,44,84,79,78,78,80,49"/>
+</map>

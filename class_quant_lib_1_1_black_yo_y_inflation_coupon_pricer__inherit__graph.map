@@ -1,0 +1,7 @@
+<map id="BlackYoYInflationCouponPricer" name="BlackYoYInflationCouponPricer">
+<area shape="rect" id="Node000001" title="Black&#45;formula pricer for capped/floored yoy inflation coupons." alt="" coords="5,153,209,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_yo_y_inflation_coupon_pricer.html" title="base pricer for capped/floored YoY inflation coupons" alt="" coords="22,79,192,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,118,109,153,105,151,105,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_inflation_coupon_pricer.html" title="Base inflation&#45;coupon pricer." alt="" coords="34,5,180,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,44,110,79,104,78,106,49"/>
+</map>

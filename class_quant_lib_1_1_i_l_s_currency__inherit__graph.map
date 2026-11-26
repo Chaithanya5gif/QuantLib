@@ -1,0 +1,5 @@
+<map id="ILSCurrency" name="ILSCurrency">
+<area shape="rect" id="Node000001" title="Israeli shekel." alt="" coords="5,79,100,105"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_currency.html" title="Currency specification" alt="" coords="15,5,90,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,45,55,79,50,78,51,48"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="PiecewiseYoYInflationCurve&lt; Interpolator, Bootstrap, Traits &gt;" name="PiecewiseYoYInflationCurve&lt; Interpolator, Bootstrap, Traits &gt;">
+<area shape="rect" id="Node000001" title="Piecewise year&#45;on&#45;year inflation term structure." alt="" coords="434,126,620,182"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_interpolated_yo_y_inflation_curve.html" title="Inflation term structure based on interpolated year&#45;on&#45;year rates." alt="" coords="227,80,386,121"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="401,121,436,131,431,132,401,126"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_yo_y_inflation_term_structure.html" title="Base class for year&#45;on&#45;year inflation term structures." alt="" coords="5,5,179,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="157,34,180,41,265,79,260,81,178,46,158,39"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_interpolated_curve.html" title="Helper class to build interpolated term structures." alt="" coords="26,55,158,96"/>
+<area shape="poly" id="edge3_Node000002_Node000009" title=" " alt="" coords="173,82,229,90,224,92,174,88"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_interpolated_nodes.html" title="Node inspectors shared by interpolated term structures." alt="" coords="28,120,156,146"/>
+<area shape="poly" id="edge4_Node000002_Node000010" title=" " alt="" coords="170,119,229,112,224,114,172,124"/>
+<area shape="rect" id="Node000011" href="$class_quant_lib_1_1_lazy_object.html" title="Framework for calculation on demand and result caching." alt="" coords="263,169,350,195"/>
+<area shape="poly" id="edge5_Node000001_Node000011" title=" " alt="" coords="365,172,436,166,431,166,365,177"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="48,169,136,195"/>
+<area shape="poly" id="edge6_Node000011_Node000007" title=" " alt="" coords="151,180,265,181,260,184,151,185"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="55,219,129,244"/>
+<area shape="poly" id="edge7_Node000011_Node000006" title=" " alt="" coords="144,217,260,192,265,192,145,222"/>
+</map>

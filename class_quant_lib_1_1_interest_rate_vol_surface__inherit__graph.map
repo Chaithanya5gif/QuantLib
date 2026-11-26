@@ -1,0 +1,9 @@
+<map id="InterestRateVolSurface" name="InterestRateVolSurface">
+<area shape="rect" id="Node000001" title="Interest rate volatility (smile) surface." alt="" coords="5,153,163,178"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_sabr_vol_surface.html" title="SABR volatility (smile) surface." alt="" coords="28,226,140,252"/>
+<area shape="poly" id="edge3_Node000001_Node000009" title=" " alt="" coords="86,192,86,227,82,225,82,196"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_black_vol_surface.html" title="Black volatility (smile) surface." alt="" coords="25,79,143,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,118,87,153,81,152,83,123"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_black_atm_vol_curve.html" title="Black at&#45;the&#45;money (no&#45;smile) volatility curve." alt="" coords="18,5,150,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,44,87,79,81,78,83,49"/>
+</map>

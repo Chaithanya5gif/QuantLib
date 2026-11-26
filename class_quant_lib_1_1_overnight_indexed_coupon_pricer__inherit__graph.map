@@ -1,0 +1,17 @@
+<map id="OvernightIndexedCouponPricer" name="OvernightIndexedCouponPricer">
+<area shape="rect" id="Node000001" title="Base pricer for overnight&#45;indexed floating coupons." alt="" coords="363,46,565,72"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_arithmetic_averaged_overnight_indexed_coupon_pricer.html" title="Base pricer for arithmetically averaged overnight&#45;indexed floating coupons." alt="" coords="619,5,811,46"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="580,41,616,39,621,38,581,46"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_compounding_overnight_indexed_coupon_pricer.html" title="Base pricer for compounded overnight&#45;indexed floating coupons." alt="" coords="613,71,817,111"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="581,71,616,78,610,78,581,77"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_floating_rate_coupon_pricer.html" title="generic pricer for floating&#45;rate coupons" alt="" coords="141,46,315,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="331,56,365,59,360,59,331,62"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="12,21,86,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,38,143,46,138,48,101,44"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="5,70,93,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="107,73,143,70,137,72,109,78"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_black_averaging_overnight_indexed_coupon_pricer.html" title="Black averaged overnight coupon pricer." alt="" coords="865,5,1079,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="826,23,867,26,862,26,826,28"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_black_compounding_overnight_indexed_coupon_pricer.html" title="Black compounded overnight coupon pricer." alt="" coords="877,71,1067,111"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="832,88,879,91,873,91,832,94"/>
+</map>

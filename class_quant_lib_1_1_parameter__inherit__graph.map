@@ -1,0 +1,21 @@
+<map id="Parameter" name="Parameter">
+<area shape="rect" id="Node000001" title="Base class for model arguments." alt="" coords="5,104,87,130"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_constant_parameter.html" title="Standard constant parameter ." alt="" coords="167,5,302,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,91,97,64,133,40,169,28,165,32,136,45,101,68,72,94"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_interpolation_parameter.html" title="Parameter that holds an interpolation object." alt="" coords="158,55,310,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="100,98,134,89,178,79,174,83,135,94,103,103"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_null_parameter.html" title="Parameter which is always zero" alt="" coords="182,104,286,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="102,114,184,115,180,119,103,119"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_piecewise_constant_parameter.html" title="Piecewise&#45;constant parameter." alt="" coords="137,153,332,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="101,130,135,140,179,152,174,154,134,145,102,136"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_term_structure_fitting_parameter.html" title="Deterministic time&#45;dependent parameter used for yield&#45;curve fitting." alt="" coords="135,203,334,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="70,138,101,166,136,189,163,201,158,203,133,194,97,170,70,144"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_extended_cox_ingersoll_ross_1_1_fitting_parameter.html" title="Analytical term&#45;structure fitting parameter ." alt="" coords="382,128,499,154"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="315,195,333,189,357,176,381,162,403,155,408,153,383,167,360,181,335,194,317,200"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_g2_1_1_fitting_parameter.html" title="Analytical term&#45;structure fitting parameter ." alt="" coords="382,177,499,203"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="349,199,384,197,379,198,350,204"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_generalized_hull_white_1_1_fitting_parameter.html" title="Analytical term&#45;structure fitting parameter ." alt="" coords="382,227,499,252"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="350,226,384,233,379,233,350,232"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_hull_white_1_1_fitting_parameter.html" title="Analytical term&#45;structure fitting parameter ." alt="" coords="382,276,499,302"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="288,231,405,275,399,276,287,237"/>
+</map>

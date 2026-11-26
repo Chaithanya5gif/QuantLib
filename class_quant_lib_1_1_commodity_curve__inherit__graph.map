@@ -1,0 +1,15 @@
+<map id="CommodityCurve" name="CommodityCurve">
+<area shape="rect" id="Node000001" title="Commodity term structure." alt="" coords="228,168,351,193"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_term_structure.html" title="Basic term&#45;structure functionality." alt="" coords="96,86,200,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,117,270,167,265,168,182,123"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="5,5,80,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="71,38,134,85,129,87,70,43"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="104,5,192,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="149,44,150,87,145,85,146,49"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_extrapolator.html" title="base class for classes possibly allowing extrapolation" alt="" coords="216,5,307,31"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="234,38,167,88,164,84,230,41"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_interpolated_curve.html" title=" " alt="" coords="223,79,355,120"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="291,133,291,169,287,165,287,137"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_interpolated_nodes.html" title="Node inspectors shared by interpolated term structures." alt="" coords="379,86,506,112"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="408,119,314,170,312,165,403,120"/>
+</map>

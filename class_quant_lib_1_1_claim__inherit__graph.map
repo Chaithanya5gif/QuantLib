@@ -1,0 +1,11 @@
+<map id="Claim" name="Claim">
+<area shape="rect" id="Node000001" title="Claim associated to a default event." alt="" coords="139,79,194,105"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_face_value_accrual_claim.html" title="Claim on the notional of a reference security, including accrual." alt="" coords="5,153,166,178"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="144,114,101,154,98,150,139,116"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_face_value_claim.html" title="Claim on a notional." alt="" coords="190,153,306,178"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="193,113,237,152,232,152,191,118"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="71,5,158,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,41,161,78,155,79,132,46"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="183,5,257,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,42,178,80,174,77,200,45"/>
+</map>

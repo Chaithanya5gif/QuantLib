@@ -1,0 +1,7 @@
+<map id="ConvexMonotoneInterpolation&lt; I1, I2 &gt;" name="ConvexMonotoneInterpolation&lt; I1, I2 &gt;">
+<area shape="rect" id="Node000001" title="Convex monotone yield&#45;curve interpolation method." alt="" coords="5,153,200,193"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_interpolation.html" title="base class for 1&#45;D interpolations." alt="" coords="56,79,149,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,118,105,153,100,151,101,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_extrapolator.html" title="base class for classes possibly allowing extrapolation" alt="" coords="57,5,148,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,44,105,79,100,78,101,49"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="YoYInflationCapFloor" name="YoYInflationCapFloor">
+<area shape="rect" id="Node000001" title="Base class for yoy inflation cap&#45;like instruments." alt="" coords="135,153,279,178"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_yo_y_inflation_cap.html" title="Concrete YoY Inflation cap class." alt="" coords="5,226,121,252"/>
+<area shape="poly" id="edge3_Node000001_Node000006" title=" " alt="" coords="171,187,89,228,86,223,167,184"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_yo_y_inflation_collar.html" title="Concrete YoY Inflation collar class." alt="" coords="144,226,270,252"/>
+<area shape="poly" id="edge4_Node000001_Node000007" title=" " alt="" coords="209,192,209,227,205,224,205,196"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_yo_y_inflation_floor.html" title="Concrete YoY Inflation floor class." alt="" coords="294,226,414,252"/>
+<area shape="poly" id="edge5_Node000001_Node000008" title=" " alt="" coords="246,183,331,226,326,226,245,188"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_instrument.html" title="Abstract instrument class." alt="" coords="165,79,249,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,118,209,153,205,151,205,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_lazy_object.html" title="Framework for calculation on demand and result caching." alt="" coords="163,5,251,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="208,44,210,79,204,78,206,49"/>
+</map>

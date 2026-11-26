@@ -1,0 +1,7 @@
+<map id="QuantoBarrierOption" name="QuantoBarrierOption">
+<area shape="rect" id="Node000001" title="Quanto version of a barrier option." alt="" coords="5,153,145,178"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_barrier_option.html" title="Barrier option on a single asset." alt="" coords="26,79,124,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,118,78,153,72,151,73,122"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_one_asset_option.html" title="Base class for options on a single asset." alt="" coords="16,5,134,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="76,44,78,79,72,78,74,49"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="DefaultProbabilityTermStructure" name="DefaultProbabilityTermStructure">
+<area shape="rect" id="Node000001" title="Default probability term structure." alt="" coords="296,193,502,218"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_default_density_structure.html" title="Default&#45;density term structure." alt="" coords="561,78,722,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="441,183,610,106,614,103,443,188"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_hazard_rate_structure.html" title="Hazard&#45;rate term structure." alt="" coords="569,193,714,218"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="518,203,572,205,566,206,518,208"/>
+<area shape="rect" id="Node000015" href="$class_quant_lib_1_1_survival_probability_structure.html" title="Hazard&#45;rate term structure." alt="" coords="550,300,733,325"/>
+<area shape="poly" id="edge13_Node000001_Node000015" title=" " alt="" coords="445,223,613,298,607,299,444,228"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_term_structure.html" title="Basic term&#45;structure functionality." alt="" coords="145,193,248,218"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,203,298,205,293,207,264,208"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="14,144,88,169"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,171,159,191,154,194,103,176"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="7,193,95,218"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="109,203,146,204,142,207,111,208"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_extrapolator.html" title="base class for classes possibly allowing extrapolation" alt="" coords="5,242,97,268"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="104,234,158,217,154,221,107,239"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_interpolated_default_density_curve.html" title="DefaultProbabilityTermStructure based on interpolation of default densities." alt="" coords="801,5,977,46"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="707,71,812,46,807,48,708,76"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_factor_spreaded_hazard_rate_curve.html" title="Default&#45;probability structure with a multiplicative spread on hazard rates." alt="" coords="797,71,980,111"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="673,181,722,151,780,121,807,113,812,111,782,125,725,155,675,186"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_flat_hazard_rate.html" title="Flat hazard&#45;rate curve." alt="" coords="832,136,946,161"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="714,186,834,161,829,162,716,191"/>
+<area shape="rect" id="Node000011" href="$class_quant_lib_1_1_interpolated_hazard_rate_curve.html" title="DefaultProbabilityTermStructure based on interpolation of hazard rates." alt="" coords="792,185,986,226"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="729,203,794,205,789,206,730,208"/>
+<area shape="rect" id="Node000012" href="$class_quant_lib_1_1_one_factor_affine_survival_structure.html" title=" " alt="" coords="781,250,997,276"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="715,220,833,249,827,250,715,225"/>
+<area shape="rect" id="Node000014" href="$class_quant_lib_1_1_spreaded_hazard_rate_curve.html" title="Default&#45;probability structure with an additive spread on hazard rates." alt="" coords="798,300,980,325"/>
+<area shape="poly" id="edge12_Node000008_Node000014" title=" " alt="" coords="674,225,723,257,782,286,816,299,811,299,780,291,721,261,672,230"/>
+<area shape="rect" id="Node000016" href="$class_quant_lib_1_1_interpolated_survival_probability_curve.html" title="DefaultProbabilityTermStructure based on interpolation of survival probabilities." alt="" coords="790,349,988,390"/>
+<area shape="poly" id="edge14_Node000015_Node000016" title=" " alt="" coords="715,327,801,349,795,349,715,332"/>
+</map>

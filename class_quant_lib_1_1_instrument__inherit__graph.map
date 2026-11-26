@@ -1,0 +1,131 @@
+<map id="Instrument" name="Instrument">
+<area shape="rect" id="Node000001" title="Abstract instrument class." alt="" coords="276,992,359,1018"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_bond.html" title="Base bond class." alt="" coords="462,252,513,278"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="319,976,347,771,372,629,405,485,444,364,481,276,480,281,449,365,410,487,378,630,353,771,325,977"/>
+<area shape="rect" id="Node000023" href="$class_quant_lib_1_1_c_d_o.html" title="collateralized debt obligation" alt="" coords="462,499,513,524"/>
+<area shape="poly" id="edge15_Node000001_Node000023" title=" " alt="" coords="318,976,325,878,341,746,353,680,367,619,384,569,405,534,418,524,432,517,463,511,459,514,434,522,420,528,409,537,389,571,372,620,358,681,346,747,331,879,323,977"/>
+<area shape="rect" id="Node000024" href="$class_quant_lib_1_1_c_p_i_cap_floor.html" title="CPI cap or floor." alt="" coords="439,548,536,574"/>
+<area shape="poly" id="edge16_Node000001_Node000024" title=" " alt="" coords="319,976,328,887,344,770,370,658,386,614,405,583,420,572,440,565,436,569,423,576,409,587,391,616,375,659,350,771,333,888,324,977"/>
+<area shape="rect" id="Node000025" href="$class_quant_lib_1_1_cap_floor.html" title="Base class for cap&#45;like instruments." alt="" coords="450,597,525,623"/>
+<area shape="poly" id="edge17_Node000001_Node000025" title=" " alt="" coords="320,976,330,896,348,794,373,697,388,659,405,632,426,618,452,611,448,615,428,623,409,636,393,661,378,699,353,795,335,897,325,977"/>
+<area shape="rect" id="Node000029" href="$class_quant_lib_1_1_commodity.html" title="Commodity base class." alt="" coords="443,647,532,672"/>
+<area shape="poly" id="edge21_Node000001_Node000029" title=" " alt="" coords="316,976,318,916,330,837,341,795,357,754,378,716,405,682,422,669,445,663,441,667,425,674,409,685,383,719,362,756,346,797,335,838,324,916,321,977"/>
+<area shape="rect" id="Node000032" href="$class_quant_lib_1_1_composite_instrument.html" title="Composite instrument" alt="" coords="414,696,561,722"/>
+<area shape="poly" id="edge23_Node000001_Node000032" title=" " alt="" coords="317,976,323,924,337,859,363,791,382,759,406,731,424,720,420,724,409,735,386,762,368,793,342,860,328,925,323,977"/>
+<area shape="rect" id="Node000033" href="$class_quant_lib_1_1_credit_default_swap.html" title="Credit default swap." alt="" coords="422,745,553,771"/>
+<area shape="poly" id="edge24_Node000001_Node000033" title=" " alt="" coords="320,976,328,933,344,880,369,827,385,802,406,780,425,769,421,774,409,784,390,805,373,829,349,882,333,934,325,977"/>
+<area shape="rect" id="Node000034" href="$class_quant_lib_1_1_forward.html" title="Abstract base forward class." alt="" coords="453,795,522,820"/>
+<area shape="poly" id="edge25_Node000001_Node000034" title=" " alt="" coords="323,976,334,943,351,903,375,864,406,829,428,816,455,810,451,813,430,821,409,834,379,867,356,906,339,944,328,978"/>
+<area shape="rect" id="Node000036" href="$class_quant_lib_1_1_forward_rate_agreement.html" title="Forward rate agreement (FRA) class" alt="" coords="408,844,567,870"/>
+<area shape="poly" id="edge27_Node000001_Node000036" title=" " alt="" coords="329,977,359,927,381,901,406,879,428,868,425,872,409,883,385,905,364,930,334,979"/>
+<area shape="rect" id="Node000037" href="$class_quant_lib_1_1_fx_forward.html" title="FX Forward instrument" alt="" coords="446,893,529,919"/>
+<area shape="poly" id="edge28_Node000001_Node000037" title=" " alt="" coords="340,979,370,952,406,928,447,913,443,917,409,933,373,957,344,983"/>
+<area shape="rect" id="Node000038" href="$class_quant_lib_1_1_nth_to_default.html" title="N&#45;th to default swap." alt="" coords="438,943,537,968"/>
+<area shape="poly" id="edge29_Node000001_Node000038" title=" " alt="" coords="373,986,443,967,439,971,376,991"/>
+<area shape="rect" id="Node000039" href="$class_quant_lib_1_1_option.html" title="base option class" alt="" coords="458,992,517,1018"/>
+<area shape="poly" id="edge30_Node000001_Node000039" title=" " alt="" coords="374,1002,459,1003,455,1006,376,1007"/>
+<area shape="rect" id="Node000078" href="$class_quant_lib_1_1_overnight_index_future.html" title=" " alt="" coords="414,1041,561,1067"/>
+<area shape="poly" id="edge39_Node000001_Node000078" title=" " alt="" coords="373,1019,443,1040,439,1042,375,1024"/>
+<area shape="rect" id="Node000079" href="$class_quant_lib_1_1_path_multi_asset_option.html" title=" " alt="" coords="413,1091,562,1116"/>
+<area shape="poly" id="edge40_Node000001_Node000079" title=" " alt="" coords="341,1026,373,1053,409,1077,434,1089,429,1091,406,1082,370,1057,342,1031"/>
+<area shape="rect" id="Node000080" href="$class_quant_lib_1_1_perpetual_futures.html" title="Perpetual Futures." alt="" coords="427,1140,548,1166"/>
+<area shape="poly" id="edge41_Node000001_Node000080" title=" " alt="" coords="331,1029,364,1080,385,1105,409,1127,429,1139,424,1140,406,1131,381,1109,359,1083,332,1034"/>
+<area shape="rect" id="Node000081" href="$class_quant_lib_1_1_risky_asset_swap.html" title="Risky asset&#45;swap instrument." alt="" coords="426,1189,549,1215"/>
+<area shape="poly" id="edge42_Node000001_Node000081" title=" " alt="" coords="326,1030,339,1065,356,1104,379,1143,409,1176,428,1189,423,1190,406,1180,375,1146,351,1107,334,1067,326,1035"/>
+<area shape="rect" id="Node000082" href="$class_quant_lib_1_1_risky_asset_swap_option.html" title="Option on risky asset swap" alt="" coords="407,1239,568,1264"/>
+<area shape="poly" id="edge43_Node000001_Node000082" title=" " alt="" coords="323,1030,333,1075,349,1127,373,1180,390,1204,409,1225,426,1238,420,1239,406,1230,385,1208,369,1183,344,1129,328,1077,322,1036"/>
+<area shape="rect" id="Node000083" href="$class_quant_lib_1_1_stock.html" title="Simple stock class." alt="" coords="460,1288,515,1314"/>
+<area shape="poly" id="edge44_Node000001_Node000083" title=" " alt="" coords="320,1030,328,1084,342,1149,368,1217,386,1248,409,1275,433,1290,462,1298,457,1300,431,1294,406,1279,382,1251,363,1219,337,1151,323,1085,320,1036"/>
+<area shape="rect" id="Node000084" href="$class_quant_lib_1_1_swap.html" title="Interest rate swap." alt="" coords="460,1337,515,1363"/>
+<area shape="poly" id="edge45_Node000001_Node000084" title=" " alt="" coords="319,1031,324,1094,335,1172,346,1213,362,1253,383,1291,409,1324,433,1339,462,1348,457,1349,431,1344,406,1328,378,1294,357,1256,341,1215,330,1173,318,1094,318,1036"/>
+<area shape="rect" id="Node000104" href="$class_quant_lib_1_1_synthetic_c_d_o.html" title="Synthetic Collateralized Debt Obligation." alt="" coords="434,1387,541,1412"/>
+<area shape="poly" id="edge58_Node000001_Node000104" title=" " alt="" coords="323,1031,335,1112,353,1214,378,1311,393,1348,409,1374,421,1383,436,1391,431,1392,418,1387,405,1377,388,1351,373,1313,348,1215,330,1113,322,1036"/>
+<area shape="rect" id="Node000105" href="$class_quant_lib_1_1_variance_option.html" title="Variance option." alt="" coords="433,1436,542,1462"/>
+<area shape="poly" id="edge59_Node000001_Node000105" title=" " alt="" coords="322,1031,333,1122,350,1239,375,1350,391,1394,409,1423,435,1441,430,1441,405,1427,386,1396,370,1352,344,1240,328,1122,321,1036"/>
+<area shape="rect" id="Node000106" href="$class_quant_lib_1_1_variance_swap.html" title="Variance swap." alt="" coords="435,1485,540,1511"/>
+<area shape="poly" id="edge60_Node000001_Node000106" title=" " alt="" coords="321,1030,331,1131,346,1263,358,1329,372,1389,389,1439,409,1472,421,1482,437,1491,432,1492,419,1487,405,1476,384,1441,367,1391,353,1330,341,1263,325,1131,320,1036"/>
+<area shape="rect" id="Node000107" href="$class_quant_lib_1_1_yo_y_inflation_cap_floor.html" title="Base class for yoy inflation cap&#45;like instruments." alt="" coords="415,1756,560,1782"/>
+<area shape="poly" id="edge61_Node000001_Node000107" title=" " alt="" coords="323,1030,354,1238,379,1379,410,1523,450,1659,484,1757,479,1755,445,1661,405,1524,374,1380,349,1239,322,1036"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_lazy_object.html" title="Framework for calculation on demand and result caching." alt="" coords="141,992,228,1018"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,1003,278,1003,274,1006,245,1007"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="5,967,93,992"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,988,142,995,138,998,110,993"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="12,1016,86,1042"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="100,1018,142,1011,138,1015,103,1021"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_amortizing_cms_rate_bond.html" title="amortizing CMS&#45;rate bond" alt="" coords="625,5,794,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="494,236,510,192,535,139,569,86,590,61,614,40,636,30,632,34,617,44,594,65,573,89,539,142,515,194,499,238"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_amortizing_fixed_rate_bond.html" title="amortizing fixed&#45;rate bond" alt="" coords="623,55,796,80"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="499,237,517,203,542,163,575,123,614,89,638,79,635,83,617,94,579,127,547,166,521,206,503,239"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_amortizing_floating_rate_bond.html" title="amortizing floating&#45;rate bond (possibly capped and/or floored)" alt="" coords="616,104,803,130"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="505,238,551,187,581,161,614,139,642,128,638,132,617,143,585,165,555,191,510,241"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_c_p_i_bond.html" title=" " alt="" coords="672,153,746,179"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="518,241,563,213,615,188,674,171,670,175,617,193,566,218,522,245"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_callable_bond.html" title="Callable bond base class." alt="" coords="660,203,758,228"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="526,254,662,224,658,228,530,258"/>
+<area shape="rect" id="Node000013" href="$class_quant_lib_1_1_cms_rate_bond.html" title="CMS&#45;rate bond." alt="" coords="656,252,763,278"/>
+<area shape="poly" id="edge10_Node000005_Node000013" title=" " alt="" coords="527,263,657,263,653,266,530,267"/>
+<area shape="rect" id="Node000014" href="$class_quant_lib_1_1_convertible_bond.html" title="base class for convertible bonds" alt="" coords="651,301,768,327"/>
+<area shape="poly" id="edge11_Node000005_Node000014" title=" " alt="" coords="527,271,652,300,648,303,530,276"/>
+<area shape="rect" id="Node000018" href="$class_quant_lib_1_1_fixed_rate_bond.html" title="fixed&#45;rate bond" alt="" coords="654,351,765,376"/>
+<area shape="poly" id="edge12_Node000005_Node000018" title=" " alt="" coords="519,284,566,312,617,337,656,351,651,353,615,342,563,316,521,289"/>
+<area shape="rect" id="Node000020" href="$class_quant_lib_1_1_floating_rate_bond.html" title="floating&#45;rate bond (possibly capped and/or floored)" alt="" coords="647,400,772,426"/>
+<area shape="poly" id="edge13_Node000005_Node000020" title=" " alt="" coords="507,287,555,339,585,365,617,386,649,400,644,403,614,391,581,369,551,342,508,293"/>
+<area shape="rect" id="Node000022" href="$class_quant_lib_1_1_zero_coupon_bond.html" title="zero&#45;coupon bond" alt="" coords="648,449,770,475"/>
+<area shape="poly" id="edge14_Node000005_Node000022" title=" " alt="" coords="501,289,521,324,547,364,579,403,617,436,650,452,645,454,614,440,575,407,542,367,517,327,501,294"/>
+<area shape="rect" id="Node000026" href="$class_quant_lib_1_1_cap.html" title="Concrete cap class." alt="" coords="687,499,732,524"/>
+<area shape="poly" id="edge18_Node000025_Node000026" title=" " alt="" coords="538,597,566,584,581,572,589,559,599,546,614,533,651,518,688,512,684,515,653,523,617,538,603,550,594,562,585,575,569,588,541,601"/>
+<area shape="rect" id="Node000027" href="$class_quant_lib_1_1_collar.html" title="Concrete collar class." alt="" coords="682,548,737,574"/>
+<area shape="poly" id="edge19_Node000025_Node000027" title=" " alt="" coords="538,597,683,565,679,569,541,601"/>
+<area shape="rect" id="Node000028" href="$class_quant_lib_1_1_floor.html" title="Concrete floor class." alt="" coords="684,597,734,623"/>
+<area shape="poly" id="edge20_Node000025_Node000028" title=" " alt="" coords="539,608,686,609,682,612,541,613"/>
+<area shape="rect" id="Node000030" href="$class_quant_lib_1_1_energy_commodity.html" title="Energy commodity class." alt="" coords="645,647,774,672"/>
+<area shape="poly" id="edge22_Node000029_Node000030" title=" " alt="" coords="546,657,646,658,642,661,548,662"/>
+<area shape="rect" id="Node000035" href="$class_quant_lib_1_1_bond_forward.html" title="Forward contract on a bond" alt="" coords="660,696,758,722"/>
+<area shape="poly" id="edge26_Node000034_Node000035" title=" " alt="" coords="535,795,566,781,581,769,589,756,599,743,614,731,661,714,658,718,617,735,603,747,594,759,585,773,569,786,539,799"/>
+<area shape="rect" id="Node000040" href="$class_quant_lib_1_1_cds_option.html" title="CDS option." alt="" coords="668,745,751,771"/>
+<area shape="poly" id="edge31_Node000039_Node000040" title=" " alt="" coords="531,998,550,990,566,979,583,955,590,931,591,906,589,881,586,856,587,831,595,805,614,780,639,764,670,758,665,761,641,769,617,784,600,808,593,832,592,856,594,881,596,906,595,931,587,957,570,983,553,995,534,1002"/>
+<area shape="rect" id="Node000041" href="$class_quant_lib_1_1_float_float_swaption.html" title="floatfloat swaption class" alt="" coords="643,795,776,820"/>
+<area shape="poly" id="edge32_Node000039_Node000041" title=" " alt="" coords="531,997,550,990,566,979,580,961,586,943,589,906,591,868,599,848,614,829,644,814,640,818,617,834,603,851,596,869,594,906,592,944,584,964,570,983,552,995,534,1002"/>
+<area shape="rect" id="Node000042" href="$class_quant_lib_1_1_irregular_swaption.html" title="Irregular Swaption class." alt="" coords="648,844,770,870"/>
+<area shape="poly" id="edge33_Node000039_Node000042" title=" " alt="" coords="531,996,550,989,566,979,577,967,583,955,589,930,595,904,602,891,614,879,650,863,646,866,617,883,606,894,600,906,594,931,588,957,581,970,569,983,552,994,534,1000"/>
+<area shape="rect" id="Node000043" href="$class_quant_lib_1_1_multi_asset_option.html" title="Base class for options on multiple assets." alt="" coords="649,893,770,919"/>
+<area shape="poly" id="edge34_Node000039_Node000043" title=" " alt="" coords="531,994,566,979,581,966,589,954,599,941,614,928,650,915,646,918,617,932,603,944,594,957,585,970,569,983,534,998"/>
+<area shape="rect" id="Node000049" href="$class_quant_lib_1_1_nonstandard_swaption.html" title="nonstandard swaption class" alt="" coords="635,943,784,968"/>
+<area shape="poly" id="edge35_Node000039_Node000049" title=" " alt="" coords="531,993,650,967,646,971,534,997"/>
+<area shape="rect" id="Node000050" href="$class_quant_lib_1_1_one_asset_option.html" title="Base class for options on a single asset." alt="" coords="651,992,768,1018"/>
+<area shape="poly" id="edge36_Node000039_Node000050" title=" " alt="" coords="531,1002,652,1003,648,1006,534,1007"/>
+<area shape="rect" id="Node000076" href="$class_quant_lib_1_1_swaption.html" title="Swaption class" alt="" coords="672,1041,747,1067"/>
+<area shape="poly" id="edge37_Node000039_Node000076" title=" " alt="" coords="531,1012,674,1045,669,1047,533,1017"/>
+<area shape="rect" id="Node000077" href="$class_quant_lib_1_1_two_asset_barrier_option.html" title="Barrier option on two assets" alt="" coords="632,1091,787,1116"/>
+<area shape="poly" id="edge38_Node000039_Node000077" title=" " alt="" coords="532,1011,569,1027,585,1040,594,1053,603,1065,617,1077,641,1089,636,1091,614,1082,599,1069,589,1056,581,1043,566,1031,533,1016"/>
+<area shape="rect" id="Node000085" href="$class_quant_lib_1_1_asset_swap.html" title="Bullet bond vs Libor swap." alt="" coords="665,1140,754,1166"/>
+<area shape="poly" id="edge46_Node000084_Node000085" title=" " alt="" coords="528,1343,549,1336,566,1324,580,1306,586,1288,589,1251,591,1213,599,1194,614,1175,638,1160,667,1154,662,1157,640,1165,617,1179,603,1196,596,1214,594,1251,592,1289,584,1309,569,1328,551,1341,531,1348"/>
+<area shape="rect" id="Node000086" href="$class_quant_lib_1_1_b_m_a_swap.html" title="swap paying Libor against BMA coupons" alt="" coords="668,1189,751,1215"/>
+<area shape="poly" id="edge47_Node000084_Node000086" title=" " alt="" coords="529,1342,549,1335,566,1324,577,1312,583,1300,589,1275,595,1250,602,1237,614,1224,639,1210,670,1204,665,1206,641,1215,617,1228,606,1240,600,1251,594,1276,588,1302,581,1315,569,1328,551,1340,531,1347"/>
+<area shape="rect" id="Node000087" href="$class_quant_lib_1_1_c_p_i_swap.html" title="zero&#45;inflation&#45;indexed swap," alt="" coords="671,1239,748,1264"/>
+<area shape="poly" id="edge48_Node000084_Node000087" title=" " alt="" coords="528,1340,566,1324,581,1312,589,1299,599,1286,614,1273,642,1261,673,1255,668,1258,643,1266,617,1278,603,1290,594,1302,585,1315,569,1328,531,1344"/>
+<area shape="rect" id="Node000088" href="$class_quant_lib_1_1_cross_currency_swap.html" title="Generic cross&#45;currency swap." alt="" coords="638,1288,780,1314"/>
+<area shape="poly" id="edge49_Node000084_Node000088" title=" " alt="" coords="529,1338,651,1313,646,1316,531,1343"/>
+<area shape="rect" id="Node000093" href="$class_quant_lib_1_1_equity_total_return_swap.html" title="Equity total return swap." alt="" coords="630,1337,788,1363"/>
+<area shape="poly" id="edge50_Node000084_Node000093" title=" " alt="" coords="530,1348,632,1349,627,1351,531,1353"/>
+<area shape="rect" id="Node000094" href="$class_quant_lib_1_1_fixed_vs_floating_swap.html" title="Fixed vs floating swap." alt="" coords="635,1387,784,1412"/>
+<area shape="poly" id="edge51_Node000084_Node000094" title=" " alt="" coords="530,1357,651,1385,646,1387,530,1362"/>
+<area shape="rect" id="Node000098" href="$class_quant_lib_1_1_float_float_swap.html" title="float float swap" alt="" coords="653,1436,766,1462"/>
+<area shape="poly" id="edge52_Node000084_Node000098" title=" " alt="" coords="530,1356,569,1372,585,1385,594,1398,603,1411,617,1423,655,1439,650,1440,614,1427,599,1414,589,1401,581,1389,566,1376,530,1361"/>
+<area shape="rect" id="Node000099" href="$class_quant_lib_1_1_irregular_swap.html" title="Irregular swap: fixed vs floating leg." alt="" coords="659,1485,760,1511"/>
+<area shape="poly" id="edge53_Node000084_Node000099" title=" " alt="" coords="530,1353,551,1361,569,1372,581,1385,588,1398,594,1424,600,1449,606,1461,617,1472,637,1484,661,1493,656,1494,635,1489,614,1476,602,1464,595,1451,589,1425,583,1400,577,1388,566,1376,549,1365,531,1359"/>
+<area shape="rect" id="Node000100" href="$class_quant_lib_1_1_nonstandard_swap.html" title="nonstandard swap" alt="" coords="645,1535,774,1560"/>
+<area shape="poly" id="edge54_Node000084_Node000100" title=" " alt="" coords="529,1352,551,1360,569,1372,584,1391,592,1411,594,1449,596,1486,603,1504,617,1521,647,1540,642,1540,614,1526,599,1507,591,1487,589,1449,586,1412,580,1394,566,1376,549,1364,530,1358"/>
+<area shape="rect" id="Node000101" href="$class_quant_lib_1_1_year_on_year_inflation_swap.html" title="Year&#45;on&#45;year inflation&#45;indexed swap." alt="" coords="625,1584,794,1610"/>
+<area shape="poly" id="edge55_Node000084_Node000101" title=" " alt="" coords="529,1352,551,1359,570,1372,587,1398,595,1424,596,1449,594,1474,592,1499,593,1523,600,1547,618,1571,633,1584,627,1583,614,1575,595,1550,587,1524,586,1499,589,1474,591,1449,590,1424,583,1400,566,1376,549,1364,530,1357"/>
+<area shape="rect" id="Node000102" href="$class_quant_lib_1_1_zero_coupon_inflation_swap.html" title="Zero&#45;coupon inflation&#45;indexed swap." alt="" coords="624,1633,795,1659"/>
+<area shape="poly" id="edge56_Node000084_Node000102" title=" " alt="" coords="530,1352,552,1359,570,1372,591,1404,599,1436,598,1468,594,1499,589,1530,589,1560,597,1590,618,1620,632,1633,627,1632,614,1624,592,1593,584,1561,584,1530,588,1498,593,1467,593,1437,586,1406,566,1376,549,1364,531,1357"/>
+<area shape="rect" id="Node000103" href="$class_quant_lib_1_1_zero_coupon_swap.html" title="Zero&#45;coupon interest rate swap." alt="" coords="647,1683,772,1708"/>
+<area shape="poly" id="edge57_Node000084_Node000103" title=" " alt="" coords="530,1351,552,1359,570,1372,594,1411,602,1449,600,1487,594,1524,587,1561,585,1597,594,1633,618,1670,631,1680,649,1690,644,1690,628,1685,614,1673,589,1635,580,1598,581,1560,588,1523,595,1486,597,1449,589,1413,566,1376,549,1364,531,1357"/>
+<area shape="rect" id="Node000108" href="$class_quant_lib_1_1_yo_y_inflation_cap.html" title="Concrete YoY Inflation cap class." alt="" coords="652,1732,767,1758"/>
+<area shape="poly" id="edge62_Node000107_Node000108" title=" " alt="" coords="575,1757,654,1751,648,1751,576,1762"/>
+<area shape="rect" id="Node000109" href="$class_quant_lib_1_1_yo_y_inflation_collar.html" title="Concrete YoY Inflation collar class." alt="" coords="647,1781,772,1807"/>
+<area shape="poly" id="edge63_Node000107_Node000109" title=" " alt="" coords="575,1776,649,1787,643,1787,575,1781"/>
+<area shape="rect" id="Node000110" href="$class_quant_lib_1_1_yo_y_inflation_floor.html" title="Concrete YoY Inflation floor class." alt="" coords="649,1831,770,1856"/>
+<area shape="poly" id="edge64_Node000107_Node000110" title=" " alt="" coords="534,1786,617,1817,654,1830,649,1830,615,1822,533,1791"/>
+</map>

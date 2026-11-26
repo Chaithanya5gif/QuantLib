@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_quant_lib_1_1_fitted_bond_discount_curve_1_1_fitting_method.html" title="Base fitting method used to construct a fitted bond discount curve." alt="" coords="5,146,177,186"/>
+<area shape="rect" id="Node000001" href="$class_quant_lib_1_1_cubic_b_splines_fitting.html" title="CubicSpline B&#45;splines fitting method." alt="" coords="237,5,380,31"/>
+<area shape="poly" id="edge1395_Node000000_Node000001" title=" " alt="" coords="117,132,163,84,192,60,223,40,250,30,246,33,226,45,196,65,167,88,121,136"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_exponential_splines_fitting.html" title="Exponential&#45;splines fitting method." alt="" coords="225,55,393,80"/>
+<area shape="poly" id="edge1396_Node000000_Node000002" title=" " alt="" coords="136,135,178,111,224,89,256,79,252,82,226,94,180,116,139,139"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_natural_cubic_fitting.html" title="Natural cubic spline fitting method." alt="" coords="242,104,376,130"/>
+<area shape="poly" id="edge1397_Node000000_Node000003" title=" " alt="" coords="191,141,251,129,247,132,193,146"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_nelson_siegel_fitting.html" title="Nelson&#45;Siegel fitting method." alt="" coords="242,153,376,179"/>
+<area shape="poly" id="edge1398_Node000000_Node000004" title=" " alt="" coords="191,164,244,165,239,167,193,169"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_simple_polynomial_fitting.html" title="Simple polynomial fitting method." alt="" coords="228,203,390,228"/>
+<area shape="poly" id="edge1399_Node000000_Node000005" title=" " alt="" coords="192,186,252,201,247,203,192,192"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_spread_fitting_method.html" title="Spread fitting method helper." alt="" coords="238,252,380,278"/>
+<area shape="poly" id="edge1400_Node000000_Node000006" title=" " alt="" coords="137,192,180,216,226,238,257,251,252,252,224,243,178,221,137,198"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_svensson_fitting.html" title="Svensson Fitting method." alt="" coords="251,301,366,327"/>
+<area shape="poly" id="edge1401_Node000000_Node000007" title=" " alt="" coords="120,196,167,244,196,268,226,288,253,302,248,301,223,293,192,272,163,248,118,201"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="AnalyticContinuousPartialFixedLookbackEngine" name="AnalyticContinuousPartialFixedLookbackEngine">
+<area shape="rect" id="Node000001" title="Pricing engine for European continuous partial&#45;time fixed&#45;strike lookback options." alt="" coords="394,20,565,61"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_continuous_partial_fixed_lookback_option_1_1engine.html" title="Continuous partial fixed lookback engine base class" alt="" coords="287,28,346,54"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="361,38,396,41,391,41,362,43"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_generic_engine.html" title=" " alt="" coords="5,5,239,76"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="254,38,289,40,283,41,255,43"/>
+</map>

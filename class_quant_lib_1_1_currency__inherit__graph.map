@@ -1,0 +1,223 @@
+<map id="Currency" name="Currency">
+<area shape="rect" id="Node000001" title="Currency specification" alt="" coords="5,2695,80,2720"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_1_1_a_e_d_currency.html" title="United Arab Emirates dirham." alt="" coords="133,5,235,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="41,2679,44,2166,54,1299,64,854,79,463,99,177,111,87,125,41,140,29,138,34,130,44,117,88,104,177,84,464,70,854,59,1300,49,2166,47,2679"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_1_1_a_o_a_currency.html" title=" " alt="" coords="133,55,235,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="41,2679,44,2174,55,1324,65,887,80,504,100,223,112,136,125,90,140,78,138,83,130,93,117,137,105,224,85,505,70,887,60,1324,49,2174,47,2679"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_1_1_a_r_s_currency.html" title="Argentinian peso." alt="" coords="133,104,235,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="41,2679,44,2183,55,1349,66,920,80,546,100,270,112,184,125,139,140,128,138,133,130,142,117,185,105,271,86,546,71,921,61,1349,49,2183,47,2679"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_1_1_a_t_s_currency.html" title="Austrian shilling." alt="" coords="134,153,234,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="41,2679,44,2192,56,1374,66,954,81,587,100,317,112,232,125,189,140,177,138,182,130,192,117,234,106,317,86,587,72,954,61,1374,50,2192,47,2679"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_a_u_d_currency.html" title="Australian dollar." alt="" coords="132,203,236,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="41,2679,45,2200,57,1399,67,987,82,628,101,364,112,281,125,238,140,226,138,231,130,241,117,282,106,364,87,628,72,987,62,1399,50,2200,47,2679"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_1_1_b_c_h_currency.html" title="Bitcoin Cash." alt="" coords="132,252,236,278"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="41,2680,45,2210,57,1425,68,1022,82,669,101,410,112,329,125,287,140,276,138,281,130,290,118,331,106,411,88,669,73,1022,62,1425,50,2210,47,2680"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_1_1_b_d_t_currency.html" title="Bangladesh taka." alt="" coords="133,301,234,327"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="41,2679,45,2217,58,1448,69,1054,83,710,102,457,113,378,125,337,140,325,138,330,130,340,118,379,107,457,88,710,74,1055,63,1448,51,2217,47,2679"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_1_1_b_e_f_currency.html" title="Belgian franc." alt="" coords="134,351,234,376"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="41,2679,46,2227,58,1475,69,1089,84,751,102,504,113,426,125,386,140,374,138,379,130,389,118,427,107,504,89,752,75,1089,64,1475,51,2227,47,2680"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_1_1_b_g_l_currency.html" title="Bulgarian lev." alt="" coords="134,400,234,426"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="41,2679,46,2234,59,1498,70,1121,84,792,102,550,113,475,125,435,140,424,138,429,130,438,118,476,108,551,90,792,75,1122,64,1499,51,2234,47,2679"/>
+<area shape="rect" id="Node000011" href="$class_quant_lib_1_1_b_g_n_currency.html" title="Bulgarian lev." alt="" coords="132,449,236,475"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="41,2679,46,2244,60,1524,71,1155,85,833,103,597,113,523,125,485,140,473,138,478,130,488,119,524,108,598,90,834,76,1156,65,1524,52,2244,47,2679"/>
+<area shape="rect" id="Node000012" href="$class_quant_lib_1_1_b_h_d_currency.html" title="Bahraini dinar." alt="" coords="132,499,236,524"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="41,2679,46,2252,60,1549,71,1189,86,874,103,644,114,572,125,534,140,522,138,527,130,537,119,573,109,644,91,875,77,1189,66,1549,52,2252,47,2679"/>
+<area shape="rect" id="Node000013" href="$class_quant_lib_1_1_b_r_l_currency.html" title="Brazilian real." alt="" coords="134,548,234,574"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="41,2679,47,2261,61,1574,72,1222,86,915,104,690,114,620,125,583,140,572,138,577,130,586,119,621,109,691,92,916,77,1222,66,1574,52,2261,47,2679"/>
+<area shape="rect" id="Node000014" href="$class_quant_lib_1_1_b_t_c_currency.html" title="Bitcoin." alt="" coords="133,597,234,623"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="41,2679,47,2270,62,1599,73,1256,87,957,104,737,114,668,125,633,140,621,138,626,130,636,119,670,109,738,92,957,78,1256,67,1599,52,2270,47,2679"/>
+<area shape="rect" id="Node000015" href="$class_quant_lib_1_1_b_w_p_currency.html" title=" " alt="" coords="131,647,236,672"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="41,2679,47,2278,62,1623,73,1289,87,998,105,784,114,717,125,682,140,670,138,675,130,685,120,718,110,784,93,998,79,1290,68,1624,53,2278,47,2679"/>
+<area shape="rect" id="Node000016" href="$class_quant_lib_1_1_b_y_r_currency.html" title="Belarussian ruble." alt="" coords="133,696,235,722"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="42,2679,48,2287,63,1649,74,1323,88,1039,105,831,115,765,125,731,140,720,138,725,130,734,120,767,110,831,93,1039,79,1324,68,1649,53,2288,47,2679"/>
+<area shape="rect" id="Node000017" href="$class_quant_lib_1_1_c_a_d_currency.html" title="Canadian dollar." alt="" coords="132,745,236,771"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="42,2679,48,2296,63,1674,75,1357,89,1080,105,877,115,814,125,781,140,769,138,774,130,784,120,815,111,878,94,1081,80,1357,69,1674,53,2296,47,2679"/>
+<area shape="rect" id="Node000018" href="$class_quant_lib_1_1_c_h_f_currency.html" title="Swiss franc." alt="" coords="133,795,235,820"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="42,2679,48,2304,64,1699,76,1390,89,1121,106,924,115,862,125,830,140,818,138,823,130,833,120,863,111,925,95,1122,81,1390,69,1699,54,2304,47,2679"/>
+<area shape="rect" id="Node000019" href="$class_quant_lib_1_1_c_l_f_currency.html" title="Unidad de Fomento (funds code)." alt="" coords="134,844,234,870"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="42,2679,49,2314,65,1725,76,1424,90,1163,106,971,115,911,125,879,140,868,138,873,130,882,121,912,112,971,95,1163,82,1425,70,1725,54,2314,47,2679"/>
+<area shape="rect" id="Node000020" href="$class_quant_lib_1_1_c_l_p_currency.html" title="Chilean peso." alt="" coords="134,893,234,919"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="42,2679,49,2322,65,1749,77,1458,91,1204,107,1017,116,959,125,929,140,917,138,922,130,932,121,960,112,1018,96,1204,82,1458,71,1749,54,2323,47,2679"/>
+<area shape="rect" id="Node000021" href="$class_quant_lib_1_1_c_n_h_currency.html" title="Chinese yuan (Hong Kong)." alt="" coords="132,943,236,968"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="42,2679,49,2332,66,1775,78,1492,91,1245,107,1064,116,1008,125,978,140,966,138,971,130,981,121,1009,112,1065,97,1245,83,1492,71,1775,55,2332,47,2679"/>
+<area shape="rect" id="Node000022" href="$class_quant_lib_1_1_c_n_y_currency.html" title="Chinese yuan." alt="" coords="132,992,236,1018"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="42,2679,50,2341,67,1800,78,1526,92,1286,108,1111,116,1056,125,1027,140,1016,138,1021,130,1030,121,1057,113,1112,97,1287,84,1526,72,1800,55,2341,47,2679"/>
+<area shape="rect" id="Node000023" href="$class_quant_lib_1_1_c_o_p_currency.html" title="Colombian peso." alt="" coords="132,1041,236,1067"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="42,2679,50,2349,67,1825,79,1559,93,1327,108,1158,116,1104,125,1077,140,1065,138,1070,130,1080,122,1106,113,1158,98,1328,84,1559,73,1825,55,2349,47,2679"/>
+<area shape="rect" id="Node000024" href="$class_quant_lib_1_1_c_o_u_currency.html" title="Unidad de Valor Real." alt="" coords="132,1091,236,1116"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="41,2679,40,2370,48,1877,58,1623,73,1397,83,1302,95,1223,109,1164,125,1126,140,1114,138,1119,130,1129,114,1165,100,1224,88,1303,78,1398,63,1624,53,1877,46,2370,46,2679"/>
+<area shape="rect" id="Node000025" href="$class_quant_lib_1_1_c_y_p_currency.html" title="Cyprus pound." alt="" coords="133,1140,235,1166"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="41,2679,41,2378,49,1901,59,1656,74,1437,96,1269,110,1212,125,1175,140,1164,138,1169,130,1178,115,1213,101,1270,80,1438,64,1656,55,1901,46,2378,46,2679"/>
+<area shape="rect" id="Node000026" href="$class_quant_lib_1_1_c_z_k_currency.html" title="Czech koruna." alt="" coords="133,1189,234,1215"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="41,2679,42,2387,50,1926,60,1689,76,1478,97,1316,110,1260,125,1225,140,1213,138,1218,130,1228,115,1262,102,1317,81,1478,66,1689,56,1926,47,2387,46,2679"/>
+<area shape="rect" id="Node000027" href="$class_quant_lib_1_1_d_a_s_h_currency.html" title="Dash coin." alt="" coords="128,1239,240,1264"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="41,2679,42,2396,52,1950,62,1721,77,1518,98,1362,111,1308,125,1274,140,1262,138,1267,130,1277,116,1310,103,1363,82,1518,67,1722,57,1950,48,2396,46,2679"/>
+<area shape="rect" id="Node000028" href="$class_quant_lib_1_1_d_e_m_currency.html" title="Deutsche mark." alt="" coords="132,1288,236,1314"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="41,2679,43,2405,53,1975,63,1755,78,1558,98,1408,111,1356,125,1323,140,1312,138,1317,130,1326,116,1358,104,1409,83,1559,69,1755,58,1975,48,2405,46,2679"/>
+<area shape="rect" id="Node000029" href="$class_quant_lib_1_1_d_k_k_currency.html" title="Danish krone." alt="" coords="133,1337,235,1363"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="41,2679,44,2414,54,1999,65,1787,79,1599,99,1454,111,1404,125,1373,140,1361,138,1366,130,1376,117,1406,104,1455,85,1599,70,1788,60,2000,49,2414,47,2679"/>
+<area shape="rect" id="Node000030" href="$class_quant_lib_1_1_e_e_k_currency.html" title="Estonian kroon." alt="" coords="133,1387,234,1412"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="41,2679,44,2422,56,2024,66,1820,81,1639,100,1500,112,1452,125,1422,140,1410,138,1415,130,1425,117,1454,105,1501,86,1640,71,1820,61,2024,50,2422,47,2679"/>
+<area shape="rect" id="Node000031" href="$class_quant_lib_1_1_e_g_p_currency.html" title="Egyptian pound." alt="" coords="133,1436,235,1462"/>
+<area shape="poly" id="edge30_Node000001_Node000031" title=" " alt="" coords="41,2679,45,2431,57,2048,67,1853,82,1679,101,1546,112,1500,125,1471,140,1460,138,1465,130,1474,117,1502,106,1547,87,1680,73,1853,62,2049,50,2431,47,2679"/>
+<area shape="rect" id="Node000032" href="$class_quant_lib_1_1_e_s_p_currency.html" title="Spanish peseta." alt="" coords="133,1485,234,1511"/>
+<area shape="poly" id="edge31_Node000001_Node000032" title=" " alt="" coords="41,2679,46,2440,58,2073,69,1886,83,1720,102,1592,113,1548,125,1521,140,1509,138,1514,130,1524,118,1550,107,1593,89,1720,74,1886,63,2073,51,2440,47,2679"/>
+<area shape="rect" id="Node000033" href="$class_quant_lib_1_1_e_t_b_currency.html" title=" " alt="" coords="134,1535,234,1560"/>
+<area shape="poly" id="edge32_Node000001_Node000033" title=" " alt="" coords="42,2679,46,2448,59,2097,70,1918,85,1760,103,1638,113,1597,125,1570,140,1558,138,1563,130,1573,118,1598,108,1639,90,1761,76,1919,65,2098,52,2448,47,2679"/>
+<area shape="rect" id="Node000034" href="$class_quant_lib_1_1_e_t_c_currency.html" title="Ethereum Classic." alt="" coords="133,1584,234,1610"/>
+<area shape="poly" id="edge33_Node000001_Node000034" title=" " alt="" coords="42,2679,47,2458,61,2122,72,1952,86,1800,103,1685,114,1645,126,1619,140,1608,138,1613,130,1622,119,1646,109,1686,91,1801,77,1952,66,2123,52,2458,47,2679"/>
+<area shape="rect" id="Node000035" href="$class_quant_lib_1_1_e_t_h_currency.html" title="Ethereum." alt="" coords="133,1633,234,1659"/>
+<area shape="poly" id="edge34_Node000001_Node000035" title=" " alt="" coords="42,2679,48,2466,62,2147,73,1984,87,1841,104,1731,114,1693,126,1669,140,1657,138,1662,130,1672,119,1695,110,1732,92,1841,78,1985,67,2147,53,2467,47,2679"/>
+<area shape="rect" id="Node000036" href="$class_quant_lib_1_1_e_u_r_currency.html" title="European Euro." alt="" coords="132,1683,236,1708"/>
+<area shape="poly" id="edge35_Node000001_Node000036" title=" " alt="" coords="42,2679,48,2475,63,2171,75,2017,88,1881,105,1777,115,1741,126,1718,140,1706,138,1711,130,1721,120,1743,110,1778,94,1882,80,2018,69,2172,54,2475,47,2679"/>
+<area shape="rect" id="Node000037" href="$class_quant_lib_1_1_f_i_m_currency.html" title="Finnish markka." alt="" coords="135,1732,232,1758"/>
+<area shape="poly" id="edge36_Node000001_Node000037" title=" " alt="" coords="42,2679,49,2484,65,2196,76,2050,90,1922,106,1823,115,1789,126,1767,140,1756,138,1761,130,1770,120,1791,111,1824,95,1922,81,2051,70,2197,55,2485,47,2679"/>
+<area shape="rect" id="Node000038" href="$class_quant_lib_1_1_f_r_f_currency.html" title="French franc." alt="" coords="134,1781,234,1807"/>
+<area shape="poly" id="edge37_Node000001_Node000038" title=" " alt="" coords="42,2679,50,2494,66,2221,77,2084,91,1962,107,1869,116,1837,126,1817,140,1805,138,1810,130,1820,121,1839,112,1870,96,1963,83,2084,71,2222,55,2494,47,2679"/>
+<area shape="rect" id="Node000039" href="$class_quant_lib_1_1_g_b_p_currency.html" title="British pound sterling." alt="" coords="133,1831,235,1856"/>
+<area shape="poly" id="edge38_Node000001_Node000039" title=" " alt="" coords="42,2679,51,2503,68,2246,92,2003,108,1915,116,1885,126,1866,140,1855,138,1859,130,1869,121,1887,113,1916,98,2003,73,2246,56,2503,48,2679"/>
+<area shape="rect" id="Node000040" href="$class_quant_lib_1_1_g_e_l_currency.html" title="Georgian lari." alt="" coords="134,1880,234,1906"/>
+<area shape="poly" id="edge39_Node000001_Node000040" title=" " alt="" coords="42,2679,52,2513,69,2271,94,2043,109,1962,117,1933,126,1915,140,1904,138,1909,130,1918,122,1935,114,1963,99,2044,74,2272,57,2513,48,2679"/>
+<area shape="rect" id="Node000041" href="$class_quant_lib_1_1_g_h_s_currency.html" title="Ghanaian cedi." alt="" coords="132,1929,236,1955"/>
+<area shape="poly" id="edge40_Node000001_Node000041" title=" " alt="" coords="41,2679,41,2533,50,2320,60,2210,76,2109,97,2024,110,1991,126,1964,140,1953,138,1958,130,1968,115,1993,102,2026,81,2110,66,2211,56,2321,47,2533,46,2679"/>
+<area shape="rect" id="Node000042" href="$class_quant_lib_1_1_g_r_d_currency.html" title="Greek drachma." alt="" coords="132,1979,236,2004"/>
+<area shape="poly" id="edge41_Node000001_Node000042" title=" " alt="" coords="41,2679,43,2542,53,2344,63,2242,78,2148,99,2069,111,2038,126,2014,141,2002,139,2007,130,2017,116,2041,104,2071,83,2149,68,2243,58,2344,48,2542,46,2679"/>
+<area shape="rect" id="Node000043" href="$class_quant_lib_1_1_h_k_d_currency.html" title="Hong Kong dollar." alt="" coords="132,2028,236,2054"/>
+<area shape="poly" id="edge42_Node000001_Node000043" title=" " alt="" coords="41,2679,44,2550,56,2367,66,2273,81,2186,100,2114,112,2086,126,2063,141,2052,139,2056,130,2067,117,2088,105,2116,86,2188,71,2274,61,2368,50,2550,47,2679"/>
+<area shape="rect" id="Node000044" href="$class_quant_lib_1_1_h_r_k_currency.html" title="Croatian kuna." alt="" coords="132,2077,236,2103"/>
+<area shape="poly" id="edge43_Node000001_Node000044" title=" " alt="" coords="42,2679,46,2559,58,2391,69,2305,83,2225,102,2159,126,2113,141,2101,139,2106,130,2116,107,2161,89,2227,74,2305,64,2392,51,2559,47,2679"/>
+<area shape="rect" id="Node000045" href="$class_quant_lib_1_1_h_u_f_currency.html" title="Hungarian forint." alt="" coords="133,2127,235,2152"/>
+<area shape="poly" id="edge44_Node000001_Node000045" title=" " alt="" coords="42,2679,48,2568,61,2414,72,2336,86,2264,104,2204,126,2162,141,2150,139,2155,130,2165,109,2206,91,2265,77,2337,66,2415,53,2568,47,2679"/>
+<area shape="rect" id="Node000046" href="$class_quant_lib_1_1_i_d_r_currency.html" title="Indonesian Rupiah." alt="" coords="135,2176,233,2202"/>
+<area shape="poly" id="edge45_Node000001_Node000046" title=" " alt="" coords="42,2679,49,2577,64,2438,75,2368,89,2303,105,2249,126,2211,141,2200,139,2205,130,2214,110,2251,94,2304,80,2369,69,2439,55,2578,48,2679"/>
+<area shape="rect" id="Node000047" href="$class_quant_lib_1_1_i_e_p_currency.html" title="Irish punt." alt="" coords="136,2225,232,2251"/>
+<area shape="poly" id="edge46_Node000001_Node000047" title=" " alt="" coords="43,2679,51,2586,67,2462,91,2342,107,2294,126,2260,141,2249,139,2254,130,2264,112,2296,96,2343,72,2463,57,2587,48,2679"/>
+<area shape="rect" id="Node000048" href="$class_quant_lib_1_1_i_l_s_currency.html" title="Israeli shekel." alt="" coords="137,2275,231,2300"/>
+<area shape="poly" id="edge47_Node000001_Node000048" title=" " alt="" coords="44,2679,53,2596,70,2486,94,2381,109,2339,126,2310,141,2299,139,2303,130,2313,114,2342,99,2383,75,2487,59,2596,49,2680"/>
+<area shape="rect" id="Node000049" href="$class_quant_lib_1_1_i_n_r_currency.html" title="Indian rupee." alt="" coords="135,2324,233,2350"/>
+<area shape="poly" id="edge48_Node000001_Node000049" title=" " alt="" coords="40,2679,42,2615,52,2531,63,2485,78,2440,99,2398,126,2359,142,2348,140,2352,130,2363,103,2400,83,2443,68,2487,58,2532,47,2615,45,2679"/>
+<area shape="rect" id="Node000050" href="$class_quant_lib_1_1_i_q_d_currency.html" title="Iraqi dinar." alt="" coords="135,2373,233,2399"/>
+<area shape="poly" id="edge49_Node000001_Node000050" title=" " alt="" coords="41,2679,46,2624,58,2552,83,2477,102,2441,126,2408,142,2397,140,2402,130,2412,107,2444,88,2479,63,2554,51,2625,47,2679"/>
+<area shape="rect" id="Node000051" href="$class_quant_lib_1_1_i_r_r_currency.html" title="Iranian rial." alt="" coords="135,2423,233,2448"/>
+<area shape="poly" id="edge50_Node000001_Node000051" title=" " alt="" coords="43,2679,50,2633,64,2574,89,2513,105,2484,126,2458,143,2446,140,2451,130,2461,110,2487,93,2515,69,2575,55,2634,49,2680"/>
+<area shape="rect" id="Node000052" href="$class_quant_lib_1_1_i_s_k_currency.html" title="Icelandic krona." alt="" coords="136,2472,232,2498"/>
+<area shape="poly" id="edge51_Node000001_Node000052" title=" " alt="" coords="46,2679,56,2641,71,2595,94,2549,126,2507,143,2496,141,2501,130,2511,99,2551,76,2597,61,2642,51,2680"/>
+<area shape="rect" id="Node000053" href="$class_quant_lib_1_1_i_t_l_currency.html" title="Italian lira." alt="" coords="137,2521,230,2547"/>
+<area shape="poly" id="edge52_Node000001_Node000053" title=" " alt="" coords="51,2679,79,2618,100,2585,126,2556,145,2545,142,2550,129,2560,104,2588,83,2621,56,2680"/>
+<area shape="rect" id="Node000054" href="$class_quant_lib_1_1_j_o_d_currency.html" title="Jordanian dinar." alt="" coords="133,2571,234,2596"/>
+<area shape="poly" id="edge53_Node000001_Node000054" title=" " alt="" coords="58,2681,87,2642,126,2605,147,2594,144,2599,129,2610,91,2646,63,2683"/>
+<area shape="rect" id="Node000055" href="$class_quant_lib_1_1_j_p_y_currency.html" title="Japanese yen." alt="" coords="134,2620,234,2646"/>
+<area shape="poly" id="edge54_Node000001_Node000055" title=" " alt="" coords="75,2684,126,2654,152,2644,149,2648,129,2659,80,2687"/>
+<area shape="rect" id="Node000056" href="$class_quant_lib_1_1_k_e_s_currency.html" title="Kenyan shilling." alt="" coords="133,2669,234,2695"/>
+<area shape="poly" id="edge55_Node000001_Node000056" title=" " alt="" coords="93,2696,134,2689,131,2693,97,2700"/>
+<area shape="rect" id="Node000057" href="$class_quant_lib_1_1_k_r_w_currency.html" title="South&#45;Korean won." alt="" coords="131,2719,236,2744"/>
+<area shape="poly" id="edge56_Node000001_Node000057" title=" " alt="" coords="93,2714,133,2721,129,2724,97,2718"/>
+<area shape="rect" id="Node000058" href="$class_quant_lib_1_1_k_w_d_currency.html" title="Kuwaiti dinar." alt="" coords="131,2768,237,2794"/>
+<area shape="poly" id="edge57_Node000001_Node000058" title=" " alt="" coords="77,2726,129,2754,153,2766,148,2769,126,2759,79,2731"/>
+<area shape="rect" id="Node000059" href="$class_quant_lib_1_1_l_k_r_currency.html" title="Sri Lankan rupee." alt="" coords="134,2817,234,2843"/>
+<area shape="poly" id="edge58_Node000001_Node000059" title=" " alt="" coords="60,2730,91,2768,129,2804,148,2816,143,2818,126,2808,88,2772,61,2735"/>
+<area shape="rect" id="Node000060" href="$class_quant_lib_1_1_l_t_c_currency.html" title="Litecoin." alt="" coords="134,2867,234,2892"/>
+<area shape="poly" id="edge59_Node000001_Node000060" title=" " alt="" coords="53,2732,83,2794,104,2825,129,2853,146,2865,141,2867,126,2858,100,2829,79,2796,54,2738"/>
+<area shape="rect" id="Node000061" href="$class_quant_lib_1_1_l_t_l_currency.html" title="Lithuanian litas." alt="" coords="136,2916,232,2942"/>
+<area shape="poly" id="edge60_Node000001_Node000061" title=" " alt="" coords="49,2733,61,2772,76,2817,99,2863,130,2903,144,2914,139,2917,126,2907,94,2865,71,2819,56,2774,49,2738"/>
+<area shape="rect" id="Node000062" href="$class_quant_lib_1_1_l_u_f_currency.html" title="Luxembourg franc." alt="" coords="134,2965,234,2991"/>
+<area shape="poly" id="edge61_Node000001_Node000062" title=" " alt="" coords="46,2733,55,2781,70,2839,93,2899,110,2927,130,2952,144,2964,139,2966,126,2956,105,2930,89,2901,64,2840,50,2782,46,2738"/>
+<area shape="rect" id="Node000063" href="$class_quant_lib_1_1_l_v_l_currency.html" title="Latvian lat." alt="" coords="136,3015,232,3040"/>
+<area shape="poly" id="edge62_Node000001_Node000063" title=" " alt="" coords="44,2733,51,2791,64,2861,88,2935,107,2970,130,3002,143,3013,138,3015,126,3005,102,2973,83,2938,58,2862,46,2791,44,2739"/>
+<area shape="rect" id="Node000064" href="$class_quant_lib_1_1_m_a_d_currency.html" title="Moroccan dirham." alt="" coords="132,3064,236,3090"/>
+<area shape="poly" id="edge63_Node000001_Node000064" title=" " alt="" coords="43,2733,47,2799,58,2883,68,2927,83,2971,103,3013,130,3051,143,3063,138,3065,126,3055,99,3016,78,2974,63,2929,52,2884,42,2800,43,2739"/>
+<area shape="rect" id="Node000065" href="$class_quant_lib_1_1_m_k_d_currency.html" title="Macedonian denar." alt="" coords="132,3113,236,3139"/>
+<area shape="poly" id="edge64_Node000001_Node000065" title=" " alt="" coords="46,2733,59,2818,75,2927,99,3031,114,3072,130,3100,142,3112,138,3114,126,3104,109,3074,94,3033,70,2928,53,2819,47,2738"/>
+<area shape="rect" id="Node000066" href="$class_quant_lib_1_1_m_t_l_currency.html" title="Maltese lira." alt="" coords="134,3163,234,3188"/>
+<area shape="poly" id="edge65_Node000001_Node000066" title=" " alt="" coords="46,2733,57,2828,72,2951,96,3071,112,3117,130,3150,142,3161,137,3163,126,3153,107,3120,91,3072,67,2952,51,2828,46,2738"/>
+<area shape="rect" id="Node000067" href="$class_quant_lib_1_1_m_u_r_currency.html" title="Mauritian rupee." alt="" coords="131,3212,236,3238"/>
+<area shape="poly" id="edge66_Node000001_Node000067" title=" " alt="" coords="45,2733,55,2837,69,2975,80,3045,94,3110,110,3163,130,3199,142,3210,137,3213,126,3202,105,3165,89,3111,75,3046,64,2976,49,2838,45,2738"/>
+<area shape="rect" id="Node000068" href="$class_quant_lib_1_1_m_x_n_currency.html" title="Mexican peso." alt="" coords="132,3261,236,3287"/>
+<area shape="poly" id="edge67_Node000001_Node000068" title=" " alt="" coords="45,2733,53,2846,67,2999,77,3077,91,3149,109,3208,130,3249,142,3260,137,3262,126,3252,104,3210,86,3150,72,3078,61,3000,48,2847,45,2738"/>
+<area shape="rect" id="Node000069" href="$class_quant_lib_1_1_m_x_v_currency.html" title="Mexican Unidad de Inversion." alt="" coords="132,3311,236,3336"/>
+<area shape="poly" id="edge68_Node000001_Node000069" title=" " alt="" coords="44,2733,51,2855,64,3023,74,3109,89,3187,107,3253,130,3298,142,3309,137,3311,126,3301,102,3255,83,3189,69,3109,58,3023,46,2855,44,2738"/>
+<area shape="rect" id="Node000070" href="$class_quant_lib_1_1_m_y_r_currency.html" title="Malaysian Ringgit." alt="" coords="132,3360,236,3386"/>
+<area shape="poly" id="edge69_Node000001_Node000070" title=" " alt="" coords="44,2733,50,2864,61,3047,71,3140,86,3226,105,3298,117,3326,130,3347,142,3359,137,3361,126,3351,112,3328,100,3300,81,3227,66,3141,56,3047,44,2865,44,2738"/>
+<area shape="rect" id="Node000071" href="$class_quant_lib_1_1_n_g_n_currency.html" title="Nigerian Naira." alt="" coords="132,3409,236,3435"/>
+<area shape="poly" id="edge70_Node000001_Node000071" title=" " alt="" coords="44,2733,48,2873,58,3070,69,3172,83,3265,104,3343,116,3373,130,3396,142,3408,137,3410,126,3400,111,3375,99,3344,78,3266,63,3172,53,3070,43,2873,44,2738"/>
+<area shape="rect" id="Node000072" href="$class_quant_lib_1_1_n_l_g_currency.html" title="Dutch guilder." alt="" coords="133,3459,234,3484"/>
+<area shape="poly" id="edge71_Node000001_Node000072" title=" " alt="" coords="43,2733,47,2882,56,3094,66,3203,81,3304,102,3388,115,3421,130,3446,142,3457,137,3459,126,3449,110,3423,97,3390,76,3305,60,3204,50,3094,41,2882,43,2739"/>
+<area shape="rect" id="Node000073" href="$class_quant_lib_1_1_n_o_k_currency.html" title="Norwegian krone." alt="" coords="132,3508,236,3534"/>
+<area shape="poly" id="edge72_Node000001_Node000073" title=" " alt="" coords="45,2733,57,2902,74,3142,99,3370,114,3451,122,3478,130,3495,142,3506,137,3508,126,3498,117,3480,109,3452,94,3371,69,3143,52,2902,45,2738"/>
+<area shape="rect" id="Node000074" href="$class_quant_lib_1_1_n_p_r_currency.html" title="Nepal rupee." alt="" coords="132,3557,236,3583"/>
+<area shape="poly" id="edge73_Node000001_Node000074" title=" " alt="" coords="45,2733,56,2912,73,3168,98,3411,113,3497,121,3527,130,3545,142,3556,137,3558,126,3548,116,3529,108,3498,92,3411,68,3168,51,2912,45,2739"/>
+<area shape="rect" id="Node000075" href="$class_quant_lib_1_1_n_z_d_currency.html" title="New Zealand dollar." alt="" coords="133,3607,235,3632"/>
+<area shape="poly" id="edge74_Node000001_Node000075" title=" " alt="" coords="45,2733,55,2921,72,3193,83,3330,96,3451,112,3543,121,3575,130,3594,142,3605,137,3607,126,3597,116,3577,107,3545,91,3452,78,3330,66,3193,50,2921,45,2739"/>
+<area shape="rect" id="Node000076" href="$class_quant_lib_1_1_o_m_r_currency.html" title="Omani rial." alt="" coords="131,3656,236,3682"/>
+<area shape="poly" id="edge75_Node000001_Node000076" title=" " alt="" coords="45,2733,55,2930,70,3218,81,3363,95,3492,111,3590,120,3623,130,3643,141,3654,137,3656,126,3646,115,3625,106,3591,90,3492,76,3364,65,3218,49,2930,45,2739"/>
+<area shape="rect" id="Node000077" href="$class_quant_lib_1_1_p_e_h_currency.html" title="Peruvian sol." alt="" coords="133,3705,235,3731"/>
+<area shape="poly" id="edge76_Node000001_Node000077" title=" " alt="" coords="45,2733,54,2939,69,3243,80,3396,94,3532,110,3636,120,3671,130,3693,141,3704,137,3706,126,3696,115,3673,105,3637,88,3533,75,3397,63,3243,49,2939,45,2739"/>
+<area shape="rect" id="Node000078" href="$class_quant_lib_1_1_p_e_i_currency.html" title="Peruvian inti." alt="" coords="136,3755,232,3780"/>
+<area shape="poly" id="edge77_Node000001_Node000078" title=" " alt="" coords="44,2733,53,2948,67,3267,78,3429,92,3572,110,3682,119,3719,130,3742,141,3753,137,3755,126,3745,114,3721,104,3683,87,3573,73,3430,62,3268,48,2948,44,2739"/>
+<area shape="rect" id="Node000079" href="$class_quant_lib_1_1_p_e_n_currency.html" title="Peruvian nuevo sol." alt="" coords="133,3804,235,3830"/>
+<area shape="poly" id="edge78_Node000001_Node000079" title=" " alt="" coords="44,2733,52,2957,66,3292,77,3462,91,3613,109,3728,119,3767,130,3791,141,3802,136,3804,126,3794,114,3769,104,3729,86,3613,72,3462,61,3292,47,2957,44,2738"/>
+<area shape="rect" id="Node000080" href="$class_quant_lib_1_1_p_h_p_currency.html" title="Philippine peso." alt="" coords="133,3853,235,3879"/>
+<area shape="poly" id="edge79_Node000001_Node000080" title=" " alt="" coords="44,2733,52,2966,65,3317,76,3495,90,3653,108,3774,118,3815,130,3841,141,3852,136,3854,125,3844,113,3817,103,3775,85,3654,70,3496,59,3317,46,2966,44,2739"/>
+<area shape="rect" id="Node000081" href="$class_quant_lib_1_1_p_k_r_currency.html" title="Pakistani rupee." alt="" coords="133,3903,235,3928"/>
+<area shape="poly" id="edge80_Node000001_Node000081" title=" " alt="" coords="44,2733,51,2974,63,3341,74,3528,89,3693,107,3820,118,3863,130,3890,141,3901,136,3903,125,3893,113,3865,102,3821,83,3694,69,3528,58,3341,46,2975,44,2738"/>
+<area shape="rect" id="Node000082" href="$class_quant_lib_1_1_p_l_n_currency.html" title="Polish zloty." alt="" coords="134,3952,234,3978"/>
+<area shape="poly" id="edge81_Node000001_Node000082" title=" " alt="" coords="44,2733,50,2983,62,3366,73,3561,87,3734,106,3867,117,3912,130,3939,141,3951,136,3952,125,3942,112,3913,101,3868,82,3735,67,3561,57,3366,45,2984,44,2738"/>
+<area shape="rect" id="Node000083" href="$class_quant_lib_1_1_p_t_e_currency.html" title="Portuguese escudo." alt="" coords="134,4001,234,4027"/>
+<area shape="poly" id="edge82_Node000001_Node000083" title=" " alt="" coords="44,2733,50,2992,61,3390,71,3594,86,3774,105,3913,117,3960,130,3989,141,4000,136,4002,125,3992,112,3961,100,3914,81,3775,66,3594,56,3390,44,2992,44,2738"/>
+<area shape="rect" id="Node000084" href="$class_quant_lib_1_1_q_a_r_currency.html" title="Qatari riyal." alt="" coords="132,4051,236,4076"/>
+<area shape="poly" id="edge83_Node000001_Node000084" title=" " alt="" coords="44,2733,49,3001,60,3415,70,3626,85,3815,105,3959,117,4008,130,4038,141,4049,136,4051,125,4041,111,4010,99,3960,79,3815,65,3627,54,3415,44,3001,44,2738"/>
+<area shape="rect" id="Node000085" href="$class_quant_lib_1_1_r_o_l_currency.html" title="Romanian leu." alt="" coords="133,4100,234,4126"/>
+<area shape="poly" id="edge84_Node000001_Node000085" title=" " alt="" coords="44,2733,48,3009,58,3439,69,3659,83,3855,104,4005,116,4056,130,4087,141,4099,136,4100,125,4090,111,4058,98,4006,78,3855,63,3659,53,3439,43,3010,44,2738"/>
+<area shape="rect" id="Node000086" href="$class_quant_lib_1_1_r_o_n_currency.html" title="Romanian new leu." alt="" coords="132,4149,236,4175"/>
+<area shape="poly" id="edge85_Node000001_Node000086" title=" " alt="" coords="44,2733,48,3019,57,3464,67,3692,82,3895,103,4051,116,4104,130,4137,141,4148,136,4150,125,4140,111,4106,98,4052,77,3896,62,3693,52,3464,42,3019,44,2739"/>
+<area shape="rect" id="Node000087" href="$class_quant_lib_1_1_r_s_d_currency.html" title="Serbian dinar." alt="" coords="132,4199,236,4224"/>
+<area shape="poly" id="edge86_Node000001_Node000087" title=" " alt="" coords="44,2733,47,3027,56,3488,66,3725,81,3936,102,4097,115,4152,130,4186,141,4197,136,4199,125,4189,110,4154,97,4098,76,3936,60,3725,50,3488,42,3027,44,2738"/>
+<area shape="rect" id="Node000088" href="$class_quant_lib_1_1_r_u_b_currency.html" title="Russian ruble." alt="" coords="132,4248,236,4274"/>
+<area shape="poly" id="edge87_Node000001_Node000088" title=" " alt="" coords="44,2733,46,3037,55,3513,64,3758,80,3976,101,4143,115,4200,130,4235,141,4247,136,4248,125,4238,110,4202,96,4144,74,3977,59,3758,49,3513,41,3037,44,2739"/>
+<area shape="rect" id="Node000089" href="$class_quant_lib_1_1_s_a_r_currency.html" title="Saudi riyal." alt="" coords="133,4297,235,4323"/>
+<area shape="poly" id="edge88_Node000001_Node000089" title=" " alt="" coords="44,2733,46,3045,53,3537,63,3791,78,4016,88,4111,100,4189,114,4248,130,4285,141,4296,136,4298,125,4288,109,4250,95,4190,83,4112,73,4017,58,3791,48,3537,40,3045,44,2738"/>
+<area shape="rect" id="Node000090" href="$class_quant_lib_1_1_s_e_k_currency.html" title="Swedish krona." alt="" coords="133,4347,234,4372"/>
+<area shape="poly" id="edge89_Node000001_Node000090" title=" " alt="" coords="44,2733,55,3066,73,3590,84,3855,98,4086,113,4255,122,4308,130,4334,141,4345,136,4347,125,4337,116,4309,108,4256,93,4087,79,3855,67,3590,50,3066,44,2739"/>
+<area shape="rect" id="Node000091" href="$class_quant_lib_1_1_s_g_d_currency.html" title="Singapore dollar" alt="" coords="132,4396,236,4422"/>
+<area shape="poly" id="edge90_Node000001_Node000091" title=" " alt="" coords="44,2733,55,3074,72,3614,84,3888,97,4127,113,4302,121,4356,130,4383,141,4395,136,4396,125,4386,116,4358,108,4303,92,4128,78,3889,67,3614,50,3074,44,2738"/>
+<area shape="rect" id="Node000092" href="$class_quant_lib_1_1_s_i_t_currency.html" title="Slovenian tolar." alt="" coords="136,4445,232,4471"/>
+<area shape="poly" id="edge91_Node000001_Node000092" title=" " alt="" coords="44,2733,55,3083,71,3639,83,3922,97,4169,112,4349,121,4405,130,4433,141,4444,136,4446,125,4436,116,4406,107,4350,91,4169,78,3922,66,3640,49,3083,44,2739"/>
+<area shape="rect" id="Node000093" href="$class_quant_lib_1_1_s_k_k_currency.html" title="Slovak koruna." alt="" coords="133,4495,234,4520"/>
+<area shape="poly" id="edge92_Node000001_Node000093" title=" " alt="" coords="44,2733,54,3092,71,3665,82,3956,96,4210,112,4396,121,4453,130,4482,141,4493,136,4495,125,4485,116,4455,107,4396,91,4210,77,3956,65,3665,49,3092,44,2739"/>
+<area shape="rect" id="Node000094" href="$class_quant_lib_1_1_t_h_b_currency.html" title="Thai baht." alt="" coords="133,4544,234,4570"/>
+<area shape="poly" id="edge93_Node000001_Node000094" title=" " alt="" coords="44,2733,54,3100,70,3689,82,3989,95,4251,112,4442,121,4502,130,4531,141,4543,136,4544,125,4534,115,4503,106,4443,90,4251,76,3990,65,3690,49,3101,44,2738"/>
+<area shape="rect" id="Node000095" href="$class_quant_lib_1_1_t_n_d_currency.html" title="Tunisian dinar." alt="" coords="133,4593,235,4619"/>
+<area shape="poly" id="edge94_Node000001_Node000095" title=" " alt="" coords="44,2733,54,3110,69,3715,81,4024,95,4292,111,4489,120,4550,130,4581,141,4592,136,4594,125,4584,115,4551,106,4490,89,4293,76,4024,64,3716,48,3110,44,2739"/>
+<area shape="rect" id="Node000096" href="$class_quant_lib_1_1_t_r_l_currency.html" title="Turkish lira." alt="" coords="134,4643,234,4668"/>
+<area shape="poly" id="edge95_Node000001_Node000096" title=" " alt="" coords="44,2733,53,3118,69,3740,80,4057,94,4333,111,4536,120,4599,130,4630,141,4641,136,4643,125,4633,115,4600,105,4536,89,4334,75,4057,63,3740,48,3118,44,2738"/>
+<area shape="rect" id="Node000097" href="$class_quant_lib_1_1_t_r_y_currency.html" title="New Turkish lira." alt="" coords="133,4692,234,4718"/>
+<area shape="poly" id="edge96_Node000001_Node000097" title=" " alt="" coords="44,2733,53,3127,68,3765,79,4090,93,4374,110,4582,120,4647,130,4679,141,4691,136,4692,125,4682,115,4648,105,4583,88,4375,74,4091,63,3765,48,3127,44,2738"/>
+<area shape="rect" id="Node000098" href="$class_quant_lib_1_1_t_t_d_currency.html" title="Trinidad &amp; Tobago dollar." alt="" coords="134,4741,234,4767"/>
+<area shape="poly" id="edge97_Node000001_Node000098" title=" " alt="" coords="44,2733,53,3137,68,3791,79,4125,93,4416,110,4629,120,4696,130,4729,141,4740,136,4742,125,4732,114,4697,105,4630,88,4416,73,4125,62,3791,47,3137,44,2739"/>
+<area shape="rect" id="Node000099" href="$class_quant_lib_1_1_t_w_d_currency.html" title="Taiwan dollar" alt="" coords="131,4791,236,4816"/>
+<area shape="poly" id="edge98_Node000001_Node000099" title=" " alt="" coords="44,2733,52,3145,67,3815,78,4158,92,4457,109,4676,119,4744,130,4778,141,4789,136,4791,125,4781,114,4745,104,4677,87,4457,73,4158,62,3815,47,3145,44,2738"/>
+<area shape="rect" id="Node000100" href="$class_quant_lib_1_1_u_a_h_currency.html" title="Ukrainian hryvnia." alt="" coords="132,4840,236,4866"/>
+<area shape="poly" id="edge99_Node000001_Node000100" title=" " alt="" coords="44,2733,52,3154,66,3841,77,4192,92,4498,109,4723,119,4793,130,4827,141,4839,136,4840,125,4830,114,4794,104,4723,86,4498,72,4192,61,3841,47,3154,44,2739"/>
+<area shape="rect" id="Node000101" href="$class_quant_lib_1_1_u_g_x_currency.html" title="Ugandan shilling." alt="" coords="132,4889,236,4915"/>
+<area shape="poly" id="edge100_Node000001_Node000101" title=" " alt="" coords="44,2733,52,3163,66,3865,77,4225,91,4539,109,4769,119,4841,130,4877,141,4888,136,4890,125,4880,114,4842,103,4770,86,4539,71,4225,60,3866,46,3163,44,2739"/>
+<area shape="rect" id="Node000102" href="$class_quant_lib_1_1_u_s_d_currency.html" title="U.S. dollar." alt="" coords="132,4939,236,4964"/>
+<area shape="poly" id="edge101_Node000001_Node000102" title=" " alt="" coords="44,2733,52,3171,65,3890,76,4258,90,4580,108,4816,119,4889,130,4926,141,4937,136,4939,125,4929,113,4891,103,4817,85,4580,71,4259,60,3890,46,3171,44,2738"/>
+<area shape="rect" id="Node000103" href="$class_quant_lib_1_1_u_y_u_currency.html" title="Uruguayan peso." alt="" coords="132,4988,236,5014"/>
+<area shape="poly" id="edge102_Node000001_Node000103" title=" " alt="" coords="44,2733,51,3180,64,3916,75,4292,90,4621,108,4863,118,4938,130,4975,141,4987,136,4988,125,4978,113,4939,102,4863,84,4622,70,4293,59,3916,46,3180,44,2739"/>
+<area shape="rect" id="Node000104" href="$class_quant_lib_1_1_u_z_s_currency.html" title="Uzbekistani Som." alt="" coords="133,5037,234,5063"/>
+<area shape="poly" id="edge103_Node000001_Node000104" title=" " alt="" coords="44,2733,51,3188,64,3940,75,4325,89,4662,107,4909,118,4986,130,5025,141,5036,136,5038,125,5028,113,4987,102,4910,84,4662,69,4325,58,3940,46,3188,44,2738"/>
+<area shape="rect" id="Node000105" href="$class_quant_lib_1_1_v_e_b_currency.html" title="Venezuelan bolivar." alt="" coords="133,5087,234,5112"/>
+<area shape="poly" id="edge104_Node000001_Node000105" title=" " alt="" coords="44,2733,51,3198,63,3966,74,4360,88,4704,107,4956,118,5035,130,5074,141,5086,136,5087,125,5077,113,5036,102,4957,83,4704,69,4360,58,3966,45,3198,44,2739"/>
+<area shape="rect" id="Node000106" href="$class_quant_lib_1_1_v_n_d_currency.html" title="Vietnamese Dong." alt="" coords="132,5136,236,5162"/>
+<area shape="poly" id="edge105_Node000001_Node000106" title=" " alt="" coords="44,2733,50,3205,62,3989,73,4392,88,4744,107,5003,118,5083,130,5123,141,5135,136,5136,125,5126,113,5084,101,5003,82,4745,68,4392,57,3990,45,3205,44,2738"/>
+<area shape="rect" id="Node000107" href="$class_quant_lib_1_1_x_o_f_currency.html" title=" " alt="" coords="133,5185,234,5211"/>
+<area shape="poly" id="edge106_Node000001_Node000107" title=" " alt="" coords="44,2733,50,3215,62,4016,72,4427,87,4786,106,5050,117,5132,130,5173,141,5184,136,5185,125,5176,112,5133,101,5050,82,4786,67,4427,57,4016,45,3215,44,2739"/>
+<area shape="rect" id="Node000108" href="$class_quant_lib_1_1_x_r_p_currency.html" title="Ripple." alt="" coords="133,5235,235,5260"/>
+<area shape="poly" id="edge107_Node000001_Node000108" title=" " alt="" coords="44,2733,50,3223,61,4040,72,4460,86,4827,106,5096,117,5180,130,5222,141,5234,136,5235,125,5225,112,5181,100,5097,81,4827,66,4460,56,4040,44,3223,44,2738"/>
+<area shape="rect" id="Node000109" href="$class_quant_lib_1_1_z_a_r_currency.html" title="South&#45;African rand." alt="" coords="133,5284,234,5310"/>
+<area shape="poly" id="edge108_Node000001_Node000109" title=" " alt="" coords="44,2733,49,3232,61,4065,71,4493,86,4868,105,5143,117,5229,130,5271,141,5283,136,5284,125,5274,112,5230,100,5144,80,4868,66,4494,55,4065,44,3232,44,2739"/>
+<area shape="rect" id="Node000110" href="$class_quant_lib_1_1_z_e_c_currency.html" title="Zcash." alt="" coords="133,5333,234,5359"/>
+<area shape="poly" id="edge109_Node000001_Node000110" title=" " alt="" coords="44,2733,49,3241,60,4091,70,4527,85,4909,105,5190,117,5277,130,5321,141,5333,136,5333,125,5324,112,5278,100,5190,80,4910,65,4527,55,4091,44,3241,44,2739"/>
+<area shape="rect" id="Node000111" href="$class_quant_lib_1_1_z_m_w_currency.html" title="Zambian kwacha." alt="" coords="131,5383,237,5408"/>
+<area shape="poly" id="edge110_Node000001_Node000111" title=" " alt="" coords="44,2733,49,3249,59,4115,70,4560,84,4950,104,5236,117,5325,130,5370,141,5383,136,5382,125,5373,111,5327,99,5237,79,4950,64,4560,54,4115,44,3249,44,2738"/>
+</map>
