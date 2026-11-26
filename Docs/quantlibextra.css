@@ -1,48 +1,312 @@
-#projectname, #projectname a, #projectname a:visited
-{
-    font-family: "Lato", sans-serif;
+/* ==========================================================================
+   QuantLib Modern UI/UX Stylesheet
+   Designed on top of Doxygen Awesome CSS
+   ========================================================================== */
+
+/* Design Tokens & Theme Variables */
+:root {
+    --primary-color: #2563eb;
+    --primary-dark-color: #1d4ed8;
+    --primary-light-color: #60a5fa;
+    --on-primary-color: #ffffff;
+    
+    --font-family-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --font-family-monospace: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    
+    --page-font: var(--font-family-sans);
+    --code-font: var(--font-family-monospace);
+    
+    --border-radius-large: 12px;
+    --border-radius-medium: 8px;
+    --border-radius-small: 6px;
+    
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+html.dark-mode {
+    --primary-color: #3b82f6;
+    --primary-dark-color: #60a5fa;
+    --primary-light-color: #93c5fd;
+    --page-background-color: #0b0f19;
+    --page-foreground-color: #f1f5f9;
+    --page-secondary-foreground-color: #94a3b8;
+    --side-nav-background: #0f172a;
+    --separator-color: #1e293b;
+    --code-background: #0f172a;
+}
+
+/* Global Typography & Smoothing */
+body, table, div, p, dl, li, a {
+    font-family: var(--font-family-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code, pre, .fragment, tt {
+    font-family: var(--font-family-monospace) !important;
+    font-size: 0.9em;
+}
+
+/* Brand & Header Navigation Styling */
+#projectrow {
+    height: 64px !important;
+}
+
+#titlearea {
+    padding: 12px 16px;
+    background: transparent;
+    border-bottom: 1px solid var(--separator-color);
+}
+
+#projectalign {
+    vertical-align: middle;
+}
+
+#projectname {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 0;
+    margin: 0;
+}
+
+.ql-brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none !important;
+    color: var(--page-foreground-color) !important;
     font-weight: 700;
-    font-style: italic;
-    color: black;
-}
-#projectname
-{
-    padding: 1em;
+    font-size: 1.25rem;
+    letter-spacing: -0.025em;
+    transition: opacity 0.15s ease;
 }
 
-#projectnumber
-{
-    font-family: "Lato", sans-serif;
-    font-weight: 400;
-    font-style: italic;
-    font-size: 60%;
-    margin-top: 1em;
-    margin-bottom: 0;
+.ql-brand:hover {
+    opacity: 0.85;
 }
 
-body, table, div, p, dl {
-    font: 300 16px/22px Lato,sans-serif;
+.ql-brand-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    background: linear-gradient(135deg, #2563eb, #7c3aed);
+    color: #ffffff;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    font-weight: 800;
+    box-shadow: 0 2px 4px rgba(37, 99, 235, 0.3);
 }
 
-p.reference, p.definition {
-    font: 300 16px/22px Lato,sans-serif;
+.ql-brand-text {
+    background: linear-gradient(135deg, var(--page-foreground-color), var(--primary-color));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
-.title {
-    font-family: "Lato", sans-serif;
-    font-style: italic;
+.ql-version-pill {
+    display: inline-flex;
+    align-items: center;
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 9999px;
+    background: rgba(37, 99, 235, 0.1);
+    color: var(--primary-color);
+    border: 1px solid rgba(37, 99, 235, 0.2);
+    letter-spacing: 0.02em;
 }
 
-table.directory {
-    font: 400 16px "Lato",sans-serif;
+.ql-github-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--page-secondary-foreground-color) !important;
+    padding: 6px;
+    border-radius: 6px;
+    transition: all 0.15s ease;
+    margin-left: auto;
 }
 
-h1 {
-    font-style: italic;
+.ql-github-link:hover {
+    color: var(--primary-color) !important;
+    background: rgba(37, 99, 235, 0.08);
 }
 
-.sm-dox a,.sm-dox a:focus,.sm-dox a:hover,.sm-dox a:active {
-    font-family: "Lato", sans-serif;
-    font-weight: 400;
-    font-style: italic;
+/* Sidebar & Navigation Treeview */
+#nav-tree {
+    padding-top: 8px;
+    font-size: 0.925rem;
+}
+
+.navpath {
+    background: var(--page-background-color) !important;
+    border-top: 1px solid var(--separator-color);
+}
+
+/* Search Bar Enhancements */
+#MSearchBox {
+    border-radius: var(--border-radius-medium) !important;
+    transition: box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+#MSearchBox:focus-within {
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.15);
+}
+
+/* Content Area & Headings */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700 !important;
+    letter-spacing: -0.02em;
+    color: var(--page-foreground-color);
+}
+
+h1.title {
+    font-size: 2.25rem;
+    line-height: 1.25;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--separator-color);
+}
+
+/* Code Fragments & Snippets */
+div.fragment {
+    border-radius: var(--border-radius-medium);
+    border: 1px solid var(--separator-color);
+    box-shadow: var(--shadow-sm);
+    padding: 12px 16px;
+}
+
+/* Tables & Directory */
+table.directory, table.memberdecls {
+    border-collapse: separate;
+    border-spacing: 0;
+    width: 100%;
+    border-radius: var(--border-radius-medium);
+    border: 1px solid var(--separator-color);
+    overflow: hidden;
+    margin: 1.5rem 0;
+    box-shadow: var(--shadow-sm);
+}
+
+table.directory tr:hover {
+    background-color: rgba(37, 99, 235, 0.04);
+}
+
+/* Member Documentation Cards */
+div.memitem {
+    border-radius: var(--border-radius-medium);
+    border: 1px solid var(--separator-color);
+    box-shadow: var(--shadow-sm);
+    margin-bottom: 1.5rem;
+    overflow: hidden;
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+div.memitem:hover {
+    border-color: rgba(37, 99, 235, 0.4);
+    box-shadow: var(--shadow-md);
+}
+
+div.memproto {
+    background: var(--code-background);
+    border-bottom: 1px solid var(--separator-color);
+    padding: 8px 14px;
+    font-family: var(--font-family-monospace);
+}
+
+div.memdoc {
+    padding: 14px 18px;
+}
+
+/* Modern Homepage Cards Grid */
+.ql-hero {
+    background: linear-gradient(135deg, rgba(37, 99, 235, 0.08) 0%, rgba(124, 58, 237, 0.05) 100%);
+    border: 1px solid rgba(37, 99, 235, 0.15);
+    border-radius: var(--border-radius-large);
+    padding: 36px 32px;
+    margin: 20px 0 32px 0;
+}
+
+.ql-hero-title {
+    font-size: 2rem;
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    margin: 0 0 12px 0;
+    color: var(--page-foreground-color);
+}
+
+.ql-hero-subtitle {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: var(--page-secondary-foreground-color);
+    margin: 0 0 20px 0;
+    max-width: 720px;
+}
+
+.ql-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 16px;
+}
+
+.ql-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 4px 10px;
+    border-radius: 6px;
+    background: var(--page-background-color);
+    border: 1px solid var(--separator-color);
+    color: var(--page-foreground-color);
+}
+
+.ql-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 16px;
+    margin: 24px 0;
+}
+
+.ql-card {
+    background: var(--page-background-color);
+    border: 1px solid var(--separator-color);
+    border-radius: var(--border-radius-medium);
+    padding: 20px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+    text-decoration: none !important;
+    display: block;
+    box-shadow: var(--shadow-sm);
+}
+
+.ql-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--primary-color);
+}
+
+.ql-card-icon {
+    font-size: 1.5rem;
+    margin-bottom: 12px;
+}
+
+.ql-card-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--page-foreground-color);
+    margin: 0 0 6px 0;
+}
+
+.ql-card-desc {
+    font-size: 0.875rem;
+    line-height: 1.5;
+    color: var(--page-secondary-foreground-color);
+    margin: 0;
 }

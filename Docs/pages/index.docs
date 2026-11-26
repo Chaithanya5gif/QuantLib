@@ -18,25 +18,94 @@
 
 /*! \mainpage Introduction
 
-    %QuantLib (https://www.quantlib.org/) is a C++ library for
-    financial quantitative analysts and developers.
+\htmlonly
+<div class="ql-hero">
+  <h1 class="ql-hero-title">Quantitative Finance in Modern C++</h1>
+  <p class="ql-hero-subtitle">
+    QuantLib is a comprehensive, open-source C++ framework for modeling, trading, pricing, and risk management in real-life quantitative finance.
+  </p>
+  <div class="ql-badges">
+    <span class="ql-badge">⚡ C++17 Baseline</span>
+    <span class="ql-badge">📜 BSD 3-Clause License</span>
+    <span class="ql-badge">🌐 OSI Certified Open Source</span>
+    <a href="https://github.com/Chaithanya5gif/QuantLib" target="_blank" class="ql-badge" style="text-decoration:none; color:inherit;">
+      <svg height="14" width="14" viewBox="0 0 16 16" fill="currentColor" style="vertical-align:middle; margin-right:4px;"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+      GitHub Repository
+    </a>
+  </div>
+</div>
 
-    %QuantLib is Non-Copylefted Free Software released under the modified BSD
-    License. It is also OSI Certified Open Source Software. OSI Certified is a
-    certification mark of the Open Source Initiative.
+<h2>Core Framework Modules</h2>
+<div class="ql-grid">
+  <a href="instruments.html" class="ql-card">
+    <div class="ql-card-icon">📈</div>
+    <div class="ql-card-title">Financial Instruments</div>
+    <div class="ql-card-desc">Options, swaps, bonds, forward contracts, credit derivatives, and exotic payoff structures.</div>
+  </a>
 
-    %QuantLib is free software and you are allowed to use, copy, modify,
-    merge, publish, distribute, and/or sell copies of it under the conditions
-    stated in the \ref license.
+  <a href="engines.html" class="ql-card">
+    <div class="ql-card-icon">⚙️</div>
+    <div class="ql-card-title">Pricing Engines</div>
+    <div class="ql-card-desc">Analytical pricing, Black-Scholes, Heston, finite-difference solvers, and Monte Carlo engines.</div>
+  </a>
 
-    %QuantLib and its documentation are distributed in the hope that they
-    will be useful, but WITHOUT ANY WARRANTY; without even the implied
-    warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-    \ref license for more details.
+  <a href="termstructures.html" class="ql-card">
+    <div class="ql-card-icon">📉</div>
+    <div class="ql-card-title">Term Structures</div>
+    <div class="ql-card-desc">Yield curve bootstrapping, discount factors, zero rates, forward rates, and volatility surfaces.</div>
+  </a>
 
-    \section disclaimer Disclaimer
-    At this time, this documentation is widely incomplete and must be
-    regarded as a work in progress.  Contributions are welcome.
+  <a href="datetime.html" class="ql-card">
+    <div class="ql-card-icon">📅</div>
+    <div class="ql-card-title">Date & Time Conventions</div>
+    <div class="ql-card-desc">Financial calendars for global exchanges, business day conventions, and standard day-count fractions.</div>
+  </a>
+
+  <a href="math.html" class="ql-card">
+    <div class="ql-card-icon">🧮</div>
+    <div class="ql-card-title">Math & Optimization</div>
+    <div class="ql-card-desc">Linear algebra, 1D/multidimensional solvers, numerical integration, interpolations, and distributions.</div>
+  </a>
+
+  <a href="examples.html" class="ql-card">
+    <div class="ql-card-icon">💡</div>
+    <div class="ql-card-title">Practical Examples</div>
+    <div class="ql-card-desc">End-to-end runnable walkthroughs: equity options, bond pricing, Bermudan swaptions, and CDS curves.</div>
+  </a>
+</div>
+\endhtmlonly
+
+<h2>Quick C++ Overview</h2>
+\code{.cpp}
+#include <ql/quantlib.hpp>
+#include <iostream>
+
+using namespace QuantLib;
+
+int main() {
+    // Set evaluation date
+    Calendar calendar = TARGET();
+    Date today = Date(26, November, 2026);
+    Settings::instance().evaluationDate() = today;
+
+    // Define option parameters
+    Option::Type type(Option::Call);
+    Real underlying = 100.0, strike = 105.0;
+    Spread dividendYield = 0.01;
+    Rate riskFreeRate = 0.05;
+    Volatility volatility = 0.20;
+    Date maturity = today + 1 * Years;
+
+    std::cout << "Option maturity: " << maturity << std::endl;
+    return 0;
+}
+\endcode
+
+<h2>License & Distribution</h2>
+%QuantLib is Non-Copylefted Free Software released under the modified BSD License. It is also OSI Certified Open Source Software.
+You are permitted to use, modify, merge, publish, distribute, and/or sell copies under the conditions stated in the \ref license.
+
+\section disclaimer Disclaimer
+At this time, this documentation is a continuous work in progress. Contributions, fixes, and improvements are always welcome on <a href="https://github.com/Chaithanya5gif/QuantLib" target="_blank">GitHub</a>.
 
 */
-
